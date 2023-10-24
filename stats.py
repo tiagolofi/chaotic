@@ -49,3 +49,30 @@ for i in data.keys():
 with open('database2.json', 'w') as file:
 
 	json.dump(data, file, indent = 2)
+
+def get_build(url):
+
+	html = requests.get(url).content
+
+	soup = BeautifulSoup(html, 'html.parser')
+
+	try:
+
+		return int(re.search('Build Points\n(.*?)\n', soup.find(class_ = 'pi-item pi-group pi-border-color').text).group(1))
+
+	except:
+
+		return 0
+
+for i in data.keys():
+
+	if 'attack' in data.get(i)['type_card']:
+
+		data.get(i)['build_cost'] = get_build(data.get(i)['parent_link'])
+
+		print(i)
+
+with open('database2.json', 'w') as file:
+
+	json.dump(data, file, indent = 2)
+

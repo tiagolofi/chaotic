@@ -6431,1105 +6431,1289 @@
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Aerosion",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/09/Aerosion.png/revision/latest?cb=20210812033100",
-    "chaotic_hash": "62FMPYVR74G5"
+    "chaotic_hash": "62FMPYVR74G5",
+    "build_cost": 2
   },
   "Airize": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Airize",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/db/Airize.png/revision/latest?cb=20210812033103",
-    "chaotic_hash": "AS1X95GR8JMO"
+    "chaotic_hash": "AS1X95GR8JMO",
+    "build_cost": 0
   },
   "Airsault": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Airsault",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2b/Airsault.png/revision/latest?cb=20210812033105",
-    "chaotic_hash": "PE2XJ51BC8QW"
+    "chaotic_hash": "PE2XJ51BC8QW",
+    "build_cost": 1
   },
   "Allmageddon": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Allmageddon/Attack",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/20/Allmageddon.png/revision/latest?cb=20210812033113",
-    "chaotic_hash": "346FSY7ADIP0"
+    "chaotic_hash": "346FSY7ADIP0",
+    "build_cost": 5
   },
   "Build Point 3": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Strengthening_Bond",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/39/Build_Point_3.png/revision/latest?cb=20210827175649",
-    "chaotic_hash": "06YWLEORQM93"
+    "chaotic_hash": "06YWLEORQM93",
+    "build_cost": 3
   },
   "Atmosfear": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Atmosfear",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/08/Atmosfear.png/revision/latest?cb=20210812033120",
-    "chaotic_hash": "GSRDY1PXCKV9"
+    "chaotic_hash": "GSRDY1PXCKV9",
+    "build_cost": 1
   },
   "Before the Storm": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Before_the_Storm",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/10/Before_the_Storm.png/revision/latest?cb=20210812033121",
-    "chaotic_hash": "TI6E395MAUV0"
+    "chaotic_hash": "TI6E395MAUV0",
+    "build_cost": 4
   },
   "Blaze Barrage": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Blaze_Barrage",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6d/Blaze_Barrage.png/revision/latest?cb=20210812032813",
-    "chaotic_hash": "H0EWAKQ4UP6I"
+    "chaotic_hash": "H0EWAKQ4UP6I",
+    "build_cost": 1
   },
   "Blind Fury": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Blind_Fury",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d4/Blind_Fury.png/revision/latest?cb=20210812032815",
-    "chaotic_hash": "PVJGTIY5ALDC"
+    "chaotic_hash": "PVJGTIY5ALDC",
+    "build_cost": 1
   },
   "Clashjet": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Clashjet",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/8b/Clashjet.png/revision/latest?cb=20190505033855",
-    "chaotic_hash": "F613G7UL5BHP"
+    "chaotic_hash": "F613G7UL5BHP",
+    "build_cost": 1
   },
   "Confusion": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Confusion",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e6/Confusion.png/revision/latest?cb=20210812032818",
-    "chaotic_hash": "194FZXGEOY36"
+    "chaotic_hash": "194FZXGEOY36",
+    "build_cost": 1
   },
   "Cyclone Slam": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Cyclone_Slam",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/17/Cyclone_Slam.png/revision/latest?cb=20210812034803",
-    "chaotic_hash": "CWDUKHFRQ0B5"
+    "chaotic_hash": "CWDUKHFRQ0B5",
+    "build_cost": 3
   },
   "Desiccate the Land": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Desiccate_the_Land",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/37/Desiccate_the_Land.png/revision/latest?cb=20210812033159",
-    "chaotic_hash": "TICFOSMD68VP"
+    "chaotic_hash": "TICFOSMD68VP",
+    "build_cost": 2
   },
   "Dexterous Storm": {
     "type_card": "speed-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Dexterous_Storm",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d3/Dexterous_Storm.png/revision/latest?cb=20210812032827",
-    "chaotic_hash": "DE3OJ45X2H60"
+    "chaotic_hash": "DE3OJ45X2H60",
+    "build_cost": 1
   },
   "Eroding Blast": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Eroding_Blast",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b1/Eroding_Blast.png/revision/latest?cb=20210812033232",
-    "chaotic_hash": "DH1S3GIOJV75"
+    "chaotic_hash": "DH1S3GIOJV75",
+    "build_cost": 2
   },
   "Essential Evaporation": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Essential_Evaporation",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6d/Essential_Evaporation.png/revision/latest?cb=20210812033233",
-    "chaotic_hash": "RKUJA9L256TQ"
+    "chaotic_hash": "RKUJA9L256TQ",
+    "build_cost": 1
   },
   "Fearocity": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Fearocity",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/90/Fearocity.png/revision/latest?cb=20210812033240",
-    "chaotic_hash": "H0GS42KRDAXF"
+    "chaotic_hash": "H0GS42KRDAXF",
+    "build_cost": 2
   },
   "Flying Advantage": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Flying_Advantage",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/42/Flying_Advantage.png/revision/latest?cb=20210812033314",
-    "chaotic_hash": "9M3VJZYHFPCU"
+    "chaotic_hash": "9M3VJZYHFPCU",
+    "build_cost": 0
   },
   "Freeze Flash": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Freeze_Flash",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/ed/Freeze_Flash.png/revision/latest?cb=20210812035239",
-    "chaotic_hash": "9GY2QW7KP1A6"
+    "chaotic_hash": "9GY2QW7KP1A6",
+    "build_cost": 2
   },
   "Funnel Blast": {
     "type_card": "speed-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Funnel_Blast",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/cf/Funnel_Blast.png/revision/latest?cb=20210812033333",
-    "chaotic_hash": "QOMPZX0GFT45"
+    "chaotic_hash": "QOMPZX0GFT45",
+    "build_cost": 1
   },
   "Hail Storm": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Hail_Storm",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/84/Hail_Storm.png/revision/latest?cb=20210812033346",
-    "chaotic_hash": "IMCSHAF2X079"
+    "chaotic_hash": "IMCSHAF2X079",
+    "build_cost": 3
   },
   "Hammer Dash": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Hammer_Dash",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5c/Hammer_Dash.png/revision/latest?cb=20210812032857",
-    "chaotic_hash": "8ZOADFSH6JGV"
+    "chaotic_hash": "8ZOADFSH6JGV",
+    "build_cost": 1
   },
   "Hampering Winds": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Hampering_Winds",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/0c/Hampering_Winds.png/revision/latest?cb=20210812032859",
-    "chaotic_hash": "W56B3UEXHRY2"
+    "chaotic_hash": "W56B3UEXHRY2",
+    "build_cost": 2
   },
   "Build Point 1": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Elementalist%27s_Psy-Blast",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/0b/Build_Point_1.png/revision/latest?cb=20210827175617",
-    "chaotic_hash": "IOK3FLA8CY10"
+    "chaotic_hash": "IOK3FLA8CY10",
+    "build_cost": 1
   },
   "Hurlicane": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Hurlicane",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/ef/Hurlicane.png/revision/latest?cb=20210812035244",
-    "chaotic_hash": "CK86B27DJHY0"
+    "chaotic_hash": "CK86B27DJHY0",
+    "build_cost": 0
   },
   "Inferno Gust": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Inferno_Gust",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/bf/Inferno_Gust.png/revision/latest?cb=20210812033400",
-    "chaotic_hash": "AEQMHD6W4U95"
+    "chaotic_hash": "AEQMHD6W4U95",
+    "build_cost": 1
   },
   "Landgore": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Landgore",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/1e/Landgore.png/revision/latest?cb=20210812033423",
-    "chaotic_hash": "MIVUO19XZGRB"
+    "chaotic_hash": "MIVUO19XZGRB",
+    "build_cost": 1
   },
   "Lightning Burst": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Lightning_Burst",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/87/Lightning_Burst.png/revision/latest?cb=20210812033445",
-    "chaotic_hash": "V560U7E8HB13"
+    "chaotic_hash": "V560U7E8HB13",
+    "build_cost": 1
   },
   "Malevolent Blast": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Malevolent_Blast",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/9b/Malevolent_Blast.png/revision/latest?cb=20210812033455",
-    "chaotic_hash": "F2PAIQZMK8X3"
+    "chaotic_hash": "F2PAIQZMK8X3",
+    "build_cost": 0
   },
   "Marksman's Preparation": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Marksman%27s_Preparation",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b2/Marksman%27s_Preparation.png/revision/latest?cb=20210812033457",
-    "chaotic_hash": "AKQCUI58LOGY"
+    "chaotic_hash": "AKQCUI58LOGY",
+    "build_cost": 1
   },
   "Mightswing": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Mightswing",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/18/Mightswing.png/revision/latest?cb=20210812033503",
-    "chaotic_hash": "R80IJ1A9Q2KY"
+    "chaotic_hash": "R80IJ1A9Q2KY",
+    "build_cost": 1
   },
   "Minor Roar": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Minor_Roar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/1b/Minor_Roar.png/revision/latest?cb=20210812032931",
-    "chaotic_hash": "85MUODTYQ9J1"
+    "chaotic_hash": "85MUODTYQ9J1",
+    "build_cost": 4
   },
   "Nexdoors": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Nexdoors",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5d/Nexdoors.png/revision/latest?cb=20210812033521",
-    "chaotic_hash": "47UM9P6QSYAE"
+    "chaotic_hash": "47UM9P6QSYAE",
+    "build_cost": 0
   },
   "Obscuring Winds": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Obscuring_Winds",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/75/Obscuring_Winds.png/revision/latest?cb=20210812033523",
-    "chaotic_hash": "QRLGEY4CWT7B"
+    "chaotic_hash": "QRLGEY4CWT7B",
+    "build_cost": 1
   },
   "Pebblestorm": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Pebblestorm",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/64/Pebblestorm.png/revision/latest?cb=20210812033528",
-    "chaotic_hash": "VLQW5KS6F0IC"
+    "chaotic_hash": "VLQW5KS6F0IC",
+    "build_cost": 1
   },
   "Plasmarrow": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Plasmarrow",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/80/Plasmarrow.png/revision/latest?cb=20210812032940",
-    "chaotic_hash": "AZ2714GD9IRK"
+    "chaotic_hash": "AZ2714GD9IRK",
+    "build_cost": 3
   },
   "Poison Steam": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Poison_Steam",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b7/Poison_Steam.png/revision/latest?cb=20210812033534",
-    "chaotic_hash": "R1IDYX49JP87"
+    "chaotic_hash": "R1IDYX49JP87",
+    "build_cost": 0
   },
   "Progressive Speed": {
     "type_card": "speed-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Progressive_Speed",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/fc/Progressive_Speed.png/revision/latest?cb=20210812035248",
-    "chaotic_hash": "VJY2F7XQ3D98"
+    "chaotic_hash": "VJY2F7XQ3D98",
+    "build_cost": 2
   },
   "Radical Ice Balls": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Radical_Ice_Balls",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/31/Radical_Ice_Balls.png/revision/latest?cb=20210812033002",
-    "chaotic_hash": "7LE6U5A0WVGF"
+    "chaotic_hash": "7LE6U5A0WVGF",
+    "build_cost": 1
   },
   "Sandstrike": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Sandstrike",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/73/Sandstrike.png/revision/latest?cb=20210812033600",
-    "chaotic_hash": "BFT0EQ3XSDOU"
+    "chaotic_hash": "BFT0EQ3XSDOU",
+    "build_cost": 1
   },
   "Sediment Stormshield": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Sediment_Stormshield",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/32/Sediment_Stormshield.png/revision/latest?cb=20210812033603",
-    "chaotic_hash": "GI0QLXZ58942"
+    "chaotic_hash": "GI0QLXZ58942",
+    "build_cost": 0
   },
   "Sink Scream": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Sink_Scream",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3c/Sink_Scream.png/revision/latest?cb=20210812033026",
-    "chaotic_hash": "DRMJOU185K4B"
+    "chaotic_hash": "DRMJOU185K4B",
+    "build_cost": 5
   },
   "Sirocco": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Sirocco",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/36/Sirocco.png/revision/latest?cb=20210812033609",
-    "chaotic_hash": "C3OI0AZ4RJ6M"
+    "chaotic_hash": "C3OI0AZ4RJ6M",
+    "build_cost": 1
   },
   "Slowsand": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Slowsand",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4d/Slowsand.png/revision/latest?cb=20210812033029",
-    "chaotic_hash": "FL58AZIK43Y7"
+    "chaotic_hash": "FL58AZIK43Y7",
+    "build_cost": 2
   },
   "Thunder Shout": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Thunder_Shout",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/30/Thunder_Shout.png/revision/latest?cb=20210812033705",
-    "chaotic_hash": "IV08HAWMQEOF"
+    "chaotic_hash": "IV08HAWMQEOF",
+    "build_cost": 2
   },
   "Tornado Tackle": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Tornado_Tackle",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/9b/Tornado_Tackle.png/revision/latest?cb=20210812033709",
-    "chaotic_hash": "64RIDOWA1S8B"
+    "chaotic_hash": "64RIDOWA1S8B",
+    "build_cost": 0
   },
   "Toxic Gust": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Toxic_Gust",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5e/Toxic_Gust.png/revision/latest?cb=20210812033714",
-    "chaotic_hash": "GX9I6EOBVY45"
+    "chaotic_hash": "GX9I6EOBVY45",
+    "build_cost": 3
   },
   "Turbulence Funnel": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Turbulence_Funnel",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/20/Turbulence_Funnel.png/revision/latest?cb=20210812033716",
-    "chaotic_hash": "X9RQG1ZE60SM"
+    "chaotic_hash": "X9RQG1ZE60SM",
+    "build_cost": 3
   },
   "Twister of Elements": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Twister_of_Elements",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/88/Twister_of_Elements.png/revision/latest?cb=20210812033044",
-    "chaotic_hash": "XDILV3SB4OAR"
+    "chaotic_hash": "XDILV3SB4OAR",
+    "build_cost": 1
   },
   "Ultimate Warstance": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Ultimate_Warstance",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a1/Ultimate_Warstance.png/revision/latest?cb=20210812033718",
-    "chaotic_hash": "7KOFMT2JVPY8"
+    "chaotic_hash": "7KOFMT2JVPY8",
+    "build_cost": 4
   },
   "Unsanity": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Unsanity",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d8/Unsanity.png/revision/latest?cb=20210812033723",
-    "chaotic_hash": "XKQ2VLAZRHDO"
+    "chaotic_hash": "XKQ2VLAZRHDO",
+    "build_cost": 1
   },
   "Vapor Wipeout": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Vapor_Wipeout",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/8e/Vapor_Wipeout.png/revision/latest?cb=20210812033728",
-    "chaotic_hash": "MZXAW9T2OB3L"
+    "chaotic_hash": "MZXAW9T2OB3L",
+    "build_cost": 0
   },
   "Vigorous Gust": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Vigorous_Gust",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/bd/Vigorous_Gust.png/revision/latest?cb=20210812033732",
-    "chaotic_hash": "UF7S81RK96Q4"
+    "chaotic_hash": "UF7S81RK96Q4",
+    "build_cost": 2
   },
   "Voltorch": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Voltorch",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/17/Voltorch.png/revision/latest?cb=20210902042625",
-    "chaotic_hash": "26XRQYFB1LGI"
+    "chaotic_hash": "26XRQYFB1LGI",
+    "build_cost": 2
   },
   "Wall of Flame": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Wall_of_Flame",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/01/Wall_of_Flame.png/revision/latest?cb=20210812033738",
-    "chaotic_hash": "6J0A23FVHU7Z"
+    "chaotic_hash": "6J0A23FVHU7Z",
+    "build_cost": 3
   },
   "Whirling Wail": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Whirling_Wail",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/63/Whirling_Wail.png/revision/latest?cb=20210812033051",
-    "chaotic_hash": "CZHI1J5T7EKR"
+    "chaotic_hash": "CZHI1J5T7EKR",
+    "build_cost": 3
   },
   "Whirlwind Scythes": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Whirlwind_Scythes",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/30/Whirlwind_Scythes.png/revision/latest?cb=20210812033053",
-    "chaotic_hash": "QYTPJ2R7A3XL"
+    "chaotic_hash": "QYTPJ2R7A3XL",
+    "build_cost": 2
   },
   "Winterclaw": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Winterclaw",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6b/Winterclaw.png/revision/latest?cb=20210812033743",
-    "chaotic_hash": "38IUGDEKQYLS"
+    "chaotic_hash": "38IUGDEKQYLS",
+    "build_cost": 3
   },
   "Arborsmash": {
     "type_card": "courage-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Arborsmash_(attack)",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/23/Arborsmash.png/revision/latest?cb=20210812034655",
-    "chaotic_hash": "L42QDRYXSF3C"
+    "chaotic_hash": "L42QDRYXSF3C",
+    "build_cost": 1
   },
   "Ash Torrent": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Ash_Torrent",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5f/Ash_Torrent.png/revision/latest?cb=20210812032812",
-    "chaotic_hash": "IV4SCTJZ1XQP"
+    "chaotic_hash": "IV4SCTJZ1XQP",
+    "build_cost": 1
   },
   "Clean Slide": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Clean_Slide",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4e/Clean_Slide.png/revision/latest?cb=20210812033132",
-    "chaotic_hash": "4W5AGPR9UH87"
+    "chaotic_hash": "4W5AGPR9UH87",
+    "build_cost": 0
   },
   "Deluge of Doom": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Deluge_of_Doom",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/86/Deluge_of_Doom.png/revision/latest?cb=20210812032825",
-    "chaotic_hash": "LI8WG7KCB5JE"
+    "chaotic_hash": "LI8WG7KCB5JE",
+    "build_cost": 2
   },
   "Dust Strike": {
     "type_card": "speed-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Dust_Strike",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/15/Dust_Strike.png/revision/latest?cb=20210812033205",
-    "chaotic_hash": "P096FYM78V4W"
+    "chaotic_hash": "P096FYM78V4W",
+    "build_cost": 2
   },
   "Earth Pulse": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Earth_Pulse",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/35/Earth_Pulse.png/revision/latest?cb=20210812033206",
-    "chaotic_hash": "DFKP52CZTQ7X"
+    "chaotic_hash": "DFKP52CZTQ7X",
+    "build_cost": 1
   },
   "Elemental Oxidation": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Elemental_Oxidation",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/fe/Elemental_Oxidation.png/revision/latest?cb=20210812035235",
-    "chaotic_hash": "C39EF4LQOIDG"
+    "chaotic_hash": "C39EF4LQOIDG",
+    "build_cost": 1
   },
   "Enlightened Tenacity": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Enlightened_Tenacity",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2c/Enlightened_Tenacity.png/revision/latest?cb=20210812032844",
-    "chaotic_hash": "6RMCDPLEBHF4"
+    "chaotic_hash": "6RMCDPLEBHF4",
+    "build_cost": 2
   },
   "Fear Fight": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Fear_Fight",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/23/Fear_Fight.png/revision/latest?cb=20210812035236",
-    "chaotic_hash": "TX6HLR9O4SMJ"
+    "chaotic_hash": "TX6HLR9O4SMJ",
+    "build_cost": 2
   },
   "Geyser Gush": {
     "type_card": "courage-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Geyser_Gush",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b4/Geyser_Gush.png/revision/latest?cb=20210812033336",
-    "chaotic_hash": "LZM3W0A4QYUS"
+    "chaotic_hash": "LZM3W0A4QYUS",
+    "build_cost": 1
   },
   "Granite Balls": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Granite_Balls",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/40/Granite_Balls.png/revision/latest?cb=20210812033340",
-    "chaotic_hash": "362CRLHUGOID"
+    "chaotic_hash": "362CRLHUGOID",
+    "build_cost": 2
   },
   "Grounding Grapple": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Grounding_Grapple",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/19/Grounding_Grapple.png/revision/latest?cb=20210812033345",
-    "chaotic_hash": "7ECPJ61HB2Y3"
+    "chaotic_hash": "7ECPJ61HB2Y3",
+    "build_cost": 4
   },
   "Ice Disks": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Ice_Disks",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d1/Ice_Disks.png/revision/latest?cb=20210812032910",
-    "chaotic_hash": "VIUF3MXK51ZL"
+    "chaotic_hash": "VIUF3MXK51ZL",
+    "build_cost": 3
   },
   "Infectious Implosion": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Infectious_Implosion",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6d/Infectious_Implosion.png/revision/latest?cb=20210812033358",
-    "chaotic_hash": "FTX3KAR1I04V"
+    "chaotic_hash": "FTX3KAR1I04V",
+    "build_cost": 1
   },
   "Lavalanche": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Lavalanche",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f9/Lavalanche.png/revision/latest?cb=20210812033425",
-    "chaotic_hash": "WHZ0TV21JSF8"
+    "chaotic_hash": "WHZ0TV21JSF8",
+    "build_cost": 3
   },
   "Matagore": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Matagore",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/61/Matagore.png/revision/latest?cb=20210812035247",
-    "chaotic_hash": "AWZB8QVGLP4X"
+    "chaotic_hash": "AWZB8QVGLP4X",
+    "build_cost": 1
   },
   "Mineral Mayhem": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Mineral_Mayhem",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/de/Mineral_Mayhem.png/revision/latest?cb=20210812033510",
-    "chaotic_hash": "Y03ULTSHJARO"
+    "chaotic_hash": "Y03ULTSHJARO",
+    "build_cost": 1
   },
   "Petrifying Power": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Petrifying_Power",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/0e/Petrifying_Power.png/revision/latest?cb=20210812033531",
-    "chaotic_hash": "KFW8HAIQDXOU"
+    "chaotic_hash": "KFW8HAIQDXOU",
+    "build_cost": 0
   },
   "Pillar Quake": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Pillar_Quake",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5d/Pillar_Quake.png/revision/latest?cb=20210812033533",
-    "chaotic_hash": "ZI4MWUT7GHOL"
+    "chaotic_hash": "ZI4MWUT7GHOL",
+    "build_cost": 1
   },
   "Purifying Mud": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Purifying_Mud",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c4/Purifying_Mud.png/revision/latest?cb=20210812035251",
-    "chaotic_hash": "OAIMURECLT2G"
+    "chaotic_hash": "OAIMURECLT2G",
+    "build_cost": 1
   },
   "Rock Wave": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Rock_Wave",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e4/Rock_Wave.png/revision/latest?cb=20210812033557",
-    "chaotic_hash": "1GF5E7DV2YZS"
+    "chaotic_hash": "1GF5E7DV2YZS",
+    "build_cost": 2
   },
   "Rustoxic": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Rustoxic",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c2/Rustoxic.png/revision/latest?cb=20210812033559",
-    "chaotic_hash": "6ZTKVSI8YHBW"
+    "chaotic_hash": "6ZTKVSI8YHBW",
+    "build_cost": 1
   },
   "Slime Slam": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Slime_Slam",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/73/Slime_Slam.png/revision/latest?cb=20210812033615",
-    "chaotic_hash": "DE5ZGKFCMRP7"
+    "chaotic_hash": "DE5ZGKFCMRP7",
+    "build_cost": 1
   },
   "Sludge Gush": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Sludge_Gush",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/cb/Sludge_Gush.png/revision/latest?cb=20210812033618",
-    "chaotic_hash": "G26ES91A4UDR"
+    "chaotic_hash": "G26ES91A4UDR",
+    "build_cost": 3
   },
   "Streak Strike": {
     "type_card": "speed-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Streak_Strike",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/ae/Streak_Strike.png/revision/latest?cb=20210812033033",
-    "chaotic_hash": "DIOKJ8AZ1TH3"
+    "chaotic_hash": "DIOKJ8AZ1TH3",
+    "build_cost": 1
   },
   "Sunder Ground": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Sunder_Ground",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/81/Sunder_Ground.png/revision/latest?cb=20210812033632",
-    "chaotic_hash": "WOQGXD61IB43"
+    "chaotic_hash": "WOQGXD61IB43",
+    "build_cost": 0
   },
   "Swarming Destruction": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Swarming_Destruction",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/1b/Swarming_Destruction.png/revision/latest?cb=20210812033652",
-    "chaotic_hash": "5L0P3WJS46BQ"
+    "chaotic_hash": "5L0P3WJS46BQ",
+    "build_cost": 1
   },
   "Tectostrike": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Tectostrike",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a3/Tectostrike.png/revision/latest?cb=20210812033656",
-    "chaotic_hash": "8YLPA7DZ95G4"
+    "chaotic_hash": "8YLPA7DZ95G4",
+    "build_cost": 3
   },
   "Terrantula Tackle": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Terrantula_Tackle",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/05/Terrantula_Tackle.png/revision/latest?cb=20210812033659",
-    "chaotic_hash": "RJOUWE1G2QVX"
+    "chaotic_hash": "RJOUWE1G2QVX",
+    "build_cost": 3
   },
   "Terraport": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Terraport",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/fd/Terraport.png/revision/latest?cb=20210812033701",
-    "chaotic_hash": "B124MO3DGHLK"
+    "chaotic_hash": "B124MO3DGHLK",
+    "build_cost": 3
   },
   "Torrent of Water": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Torrent_of_Water",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f5/Torrent_of_Water.png/revision/latest?cb=20210812033042",
-    "chaotic_hash": "7Q3I05RFEAXW"
+    "chaotic_hash": "7Q3I05RFEAXW",
+    "build_cost": 1
   },
   "Trampling Tackle": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Trampling_Tackle",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b1/Trampling_Tackle.png/revision/latest?cb=20210812033043",
-    "chaotic_hash": "D6O1SQBL3CP7"
+    "chaotic_hash": "D6O1SQBL3CP7",
+    "build_cost": 1
   },
   "Vacuum Hemisphere": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Vacuum_Hemisphere",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e8/Vacuum_Hemisphere.png/revision/latest?cb=20210812033725",
-    "chaotic_hash": "R1QL2ZJAK5E4"
+    "chaotic_hash": "R1QL2ZJAK5E4",
+    "build_cost": 2
   },
   "Vine Snare": {
     "type_card": "earth-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Vine_Snare",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/02/Vine_Snare.png/revision/latest?cb=20210812033047",
-    "chaotic_hash": "4DMUW73VJ50H"
+    "chaotic_hash": "4DMUW73VJ50H",
+    "build_cost": 1
   },
   "Combustion Carnage": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Combustion_Carnage",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/ab/Combustion_Carnage.png/revision/latest?cb=20210812033136",
-    "chaotic_hash": "APMV9E1J7BXI"
+    "chaotic_hash": "APMV9E1J7BXI",
+    "build_cost": 0
   },
   "Danihilation": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Danihilation",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/05/Danihilation.png/revision/latest?cb=20210812033141",
-    "chaotic_hash": "6K9G74IA35MS"
+    "chaotic_hash": "6K9G74IA35MS",
+    "build_cost": 2
   },
   "Dry Touch": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Dry_Touch",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e5/Dry_Touch.png/revision/latest?cb=20210812033203",
-    "chaotic_hash": "LA0TX4MVPIUY"
+    "chaotic_hash": "LA0TX4MVPIUY",
+    "build_cost": 2
   },
   "Ember Swarm": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Ember_Swarm",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4c/Ember_Swarm.png/revision/latest?cb=20210812033217",
-    "chaotic_hash": "5SEUAYLO23ZG"
+    "chaotic_hash": "5SEUAYLO23ZG",
+    "build_cost": 1
   },
   "Emberwhip": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Emberwhip",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/ae/Emberwhip.png/revision/latest?cb=20210812033219",
-    "chaotic_hash": "1VICEOGQX92Y"
+    "chaotic_hash": "1VICEOGQX92Y",
+    "build_cost": 2
   },
   "Fire Ring": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Fire_Ring",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/35/Fire_Ring.png/revision/latest?cb=20210812033242",
-    "chaotic_hash": "0V8U5ZSYELFC"
+    "chaotic_hash": "0V8U5ZSYELFC",
+    "build_cost": 0
   },
   "Flame Breach": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Flame_Breach",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f3/Flame_Breach.png/revision/latest?cb=20210812033246",
-    "chaotic_hash": "7EZM530P19XO"
+    "chaotic_hash": "7EZM530P19XO",
+    "build_cost": 0
   },
   "Flame Fright": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Flame_Fright",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6b/Flame_Fright.png/revision/latest?cb=20210812033247",
-    "chaotic_hash": "6H1S9OVCWKAQ"
+    "chaotic_hash": "6H1S9OVCWKAQ",
+    "build_cost": 3
   },
   "Flame Orb": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Flame_Orb",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/0a/Flame_Orb.png/revision/latest?cb=20210812033249",
-    "chaotic_hash": "2TVP5MEYO7U3"
+    "chaotic_hash": "2TVP5MEYO7U3",
+    "build_cost": 2
   },
   "Flamebloom": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Flamebloom",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/fd/Flamebloom.png/revision/latest?cb=20210812033251",
-    "chaotic_hash": "9YHS7I8AVXMT"
+    "chaotic_hash": "9YHS7I8AVXMT",
+    "build_cost": 0
   },
   "Flaming Coals": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Flaming_Coals",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/77/Flaming_Coals.png/revision/latest?cb=20210812032849",
-    "chaotic_hash": "WZ0X75GPC6EK"
+    "chaotic_hash": "WZ0X75GPC6EK",
+    "build_cost": 3
   },
   "Force Balls": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Force_Balls",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d0/Force_Balls.png/revision/latest?cb=20210812033316",
-    "chaotic_hash": "SCWO9K1RYLX6"
+    "chaotic_hash": "SCWO9K1RYLX6",
+    "build_cost": 1
   },
   "Force Strike": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Force_Strike",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f6/Force_Strike.png/revision/latest?cb=20210812032852",
-    "chaotic_hash": "XOI5FD37RQH8"
+    "chaotic_hash": "XOI5FD37RQH8",
+    "build_cost": 2
   },
   "Gladiator's Fire": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Gladiator%27s_Fire",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a3/Gladiator%27s_Fire.png/revision/latest?cb=20210812033339",
-    "chaotic_hash": "BTO3JY5RAL7S"
+    "chaotic_hash": "BTO3JY5RAL7S",
+    "build_cost": 1
   },
   "Incinerase": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Incinerase",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/41/Incinerase.png/revision/latest?cb=20210812033355",
-    "chaotic_hash": "3IECY4QPRG8W"
+    "chaotic_hash": "3IECY4QPRG8W",
+    "build_cost": 0
   },
   "Magma Might": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Magma_Might",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c7/Magma_Might.png/revision/latest?cb=20210812033453",
-    "chaotic_hash": "65QL9C7RZA0W"
+    "chaotic_hash": "65QL9C7RZA0W",
+    "build_cost": 4
   },
   "Outwit": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Outwit",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/1e/Outwit.png/revision/latest?cb=20210812032935",
-    "chaotic_hash": "FY0P41OBTQ5K"
+    "chaotic_hash": "FY0P41OBTQ5K",
+    "build_cost": 1
   },
   "Perplexing Heat": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Perplexing_Heat",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/8a/Perplexing_Heat.png/revision/latest?cb=20210812032937",
-    "chaotic_hash": "BY50K342GST8"
+    "chaotic_hash": "BY50K342GST8",
+    "build_cost": 2
   },
   "Primordial Rage": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Primordial_Rage",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/db/Primordial_Rage.png/revision/latest?cb=20210812033538",
-    "chaotic_hash": "5PS39QH6TFI1"
+    "chaotic_hash": "5PS39QH6TFI1",
+    "build_cost": 1
   },
   "Reckless Defeat": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Reckless_Defeat",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/95/Reckless_Defeat.png/revision/latest?cb=20210812033005",
-    "chaotic_hash": "JUGZSE82CRQO"
+    "chaotic_hash": "JUGZSE82CRQO",
+    "build_cost": 1
   },
   "Smokesurge": {
     "type_card": "fire-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Smokesurge",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/39/Smokesurge.png/revision/latest?cb=20210812033620",
-    "chaotic_hash": "SX41JVCZW0M8"
+    "chaotic_hash": "SX41JVCZW0M8",
+    "build_cost": 0
   },
   "Steam Rage": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Steam_Rage",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/bc/Steam_Rage.png/revision/latest?cb=20210812033627",
-    "chaotic_hash": "RCM7SATY860O"
+    "chaotic_hash": "RCM7SATY860O",
+    "build_cost": 1
   },
   "Sudden Flare": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Sudden_Flare",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/7a/Sudden_Flare.png/revision/latest?cb=20210812033631",
-    "chaotic_hash": "02VLF13YBJ8M"
+    "chaotic_hash": "02VLF13YBJ8M",
+    "build_cost": 2
   },
   "Thermo Rings": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Thermo_Rings",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c6/Thermo_Rings.png/revision/latest?cb=20210812033702",
-    "chaotic_hash": "3IG2X9P1VDB7"
+    "chaotic_hash": "3IG2X9P1VDB7",
+    "build_cost": 1
   },
   "Torrent of Flame": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Torrent_of_Flame",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/01/Torrent_of_Flame.png/revision/latest?cb=20210812033711",
-    "chaotic_hash": "YTR1VXPHA756"
+    "chaotic_hash": "YTR1VXPHA756",
+    "build_cost": 2
   },
   "Web Cocoon": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Web_Cocoon",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d9/Web_Cocoon.png/revision/latest?cb=20210812033050",
-    "chaotic_hash": "L8FT2SZDJ0R9"
+    "chaotic_hash": "L8FT2SZDJ0R9",
+    "build_cost": 1
   },
   "Acid Wash": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Acid_Wash",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a0/Acid_Wash.png/revision/latest?cb=20210812033059",
-    "chaotic_hash": "2KYVQG6C7SH1"
+    "chaotic_hash": "2KYVQG6C7SH1",
+    "build_cost": 3
   },
   "Burning Rain": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Burning_Rain",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6d/Burning_Rain.png/revision/latest?cb=20210812032816",
-    "chaotic_hash": "6WZU435S2R71"
+    "chaotic_hash": "6WZU435S2R71",
+    "build_cost": 0
   },
   "Caustic Cascade": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Caustic_Cascade",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e1/Caustic_Cascade.png/revision/latest?cb=20210812033128",
-    "chaotic_hash": "597LEMIJFPY8"
+    "chaotic_hash": "597LEMIJFPY8",
+    "build_cost": 2
   },
   "Coral Balls": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Coral_Balls",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a5/Coral_Balls.png/revision/latest?cb=20210812033138",
-    "chaotic_hash": "4MZPAUJL5RFC"
+    "chaotic_hash": "4MZPAUJL5RFC",
+    "build_cost": 1
   },
   "Deadwater Devastation": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Deadwater_Devastation",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d5/Deadwater_Devastation.png/revision/latest?cb=20210812033151",
-    "chaotic_hash": "9W7ID5BHY3V4"
+    "chaotic_hash": "9W7ID5BHY3V4",
+    "build_cost": 4
   },
   "Degenervate": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Degenervate",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b5/Degenervate.png/revision/latest?cb=20210812033154",
-    "chaotic_hash": "ODCYIL58TGR4"
+    "chaotic_hash": "ODCYIL58TGR4",
+    "build_cost": 0
   },
   "Disempowerment Combo": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Disempowerment_Combo",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3a/Disempowerment_Combo.png/revision/latest?cb=20210812032828",
-    "chaotic_hash": "3VIBHKWMOC5U"
+    "chaotic_hash": "3VIBHKWMOC5U",
+    "build_cost": 4
   },
   "Electric Rain": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Electric_Rain",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a7/Electric_Rain.png/revision/latest?cb=20210812033212",
-    "chaotic_hash": "WYFPSUEJC0DI"
+    "chaotic_hash": "WYFPSUEJC0DI",
+    "build_cost": 2
   },
   "Electro-Web": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Electro-Web",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/36/Electro-Web.png/revision/latest?cb=20210812033213",
-    "chaotic_hash": "A8IOS752TQGY"
+    "chaotic_hash": "A8IOS752TQGY",
+    "build_cost": 2
   },
   "Extinguishing Fountain": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Extinguishing_Fountain",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2c/Extinguishing_Fountain.png/revision/latest?cb=20210812033236",
-    "chaotic_hash": "Z4MXL356KACU"
+    "chaotic_hash": "Z4MXL356KACU",
+    "build_cost": 2
   },
   "Flood Force": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Flood_Force",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d8/Flood_Force.png/revision/latest?cb=20210812033258",
-    "chaotic_hash": "BTADFPYCI3OH"
+    "chaotic_hash": "BTADFPYCI3OH",
+    "build_cost": 1
   },
   "Fluidmight": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Fluidmight",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/0e/Fluidmight.png/revision/latest?cb=20210812035238",
-    "chaotic_hash": "QM6OEDY7W1X4"
+    "chaotic_hash": "QM6OEDY7W1X4",
+    "build_cost": 3
   },
   "Frost Blight": {
     "type_card": "speed-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Frost_Blight",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d1/Frost_Blight.png/revision/latest?cb=20210812033324",
-    "chaotic_hash": "LYOK826UBEFP"
+    "chaotic_hash": "LYOK826UBEFP",
+    "build_cost": 2
   },
   "Ghost Gouge": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Ghost_Gouge",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f9/Ghost_Gouge.png/revision/latest?cb=20210812032853",
-    "chaotic_hash": "CAQVF40DTUM6"
+    "chaotic_hash": "CAQVF40DTUM6",
+    "build_cost": 1
   },
   "Hydro Balls": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Hydro_Balls",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/52/Hydro_Balls.png/revision/latest?cb=20210812035245",
-    "chaotic_hash": "41S3CD6A8EL2"
+    "chaotic_hash": "41S3CD6A8EL2",
+    "build_cost": 1
   },
   "Ice Sheet": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Ice_Sheet",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d6/Ice_Sheet.png/revision/latest?cb=20210812032912",
-    "chaotic_hash": "235YSM8W0KFC"
+    "chaotic_hash": "235YSM8W0KFC",
+    "build_cost": 3
   },
   "Inner Flood": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Inner_Flood",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/11/Inner_Flood.png/revision/latest?cb=20210812033403",
-    "chaotic_hash": "98IAGQM04KEY"
+    "chaotic_hash": "98IAGQM04KEY",
+    "build_cost": 0
   },
   "Kha'rall Crush": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Kha%27rall_Crush",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/70/Kha%27rall_Crush.png/revision/latest?cb=20210812033421",
-    "chaotic_hash": "PI8AK54029EO"
+    "chaotic_hash": "PI8AK54029EO",
+    "build_cost": 1
   },
   "Liquescent Swirl": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Liquescent_Swirl",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/08/Liquescent_Swirl.png/revision/latest?cb=20210812032922",
-    "chaotic_hash": "IZEDCHFPA01J"
+    "chaotic_hash": "IZEDCHFPA01J",
+    "build_cost": 0
   },
   "Mind Strike": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Mind_Strike",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/54/Mind_Strike.png/revision/latest?cb=20210812032927",
-    "chaotic_hash": "26IFD3T8UJZ5"
+    "chaotic_hash": "26IFD3T8UJZ5",
+    "build_cost": 2
   },
   "Morphwrath": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Morphwrath",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/36/Morphwrath.png/revision/latest?cb=20210812033516",
-    "chaotic_hash": "IZHCMXAT0J16"
+    "chaotic_hash": "IZHCMXAT0J16",
+    "build_cost": 1
   },
   "Mugician Steal": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Mugician_Steal",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/43/Mugician_Steal.png/revision/latest?cb=20210812033519",
-    "chaotic_hash": "24TIHA37VPGF"
+    "chaotic_hash": "24TIHA37VPGF",
+    "build_cost": 0
   },
   "Rage of Aa'une": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Rage_of_Aa%27une",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/eb/Rage_of_Aa%27une.png/revision/latest?cb=20210812033548",
-    "chaotic_hash": "VKRAB39E257H"
+    "chaotic_hash": "VKRAB39E257H",
+    "build_cost": 1
   },
   "Rainspears": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Rainspears",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a4/Rainspears.png/revision/latest?cb=20210812033549",
-    "chaotic_hash": "62MI5GTEWYZS"
+    "chaotic_hash": "62MI5GTEWYZS",
+    "build_cost": 3
   },
   "Rip Tide": {
     "type_card": "courage-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Rip_Tide",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6b/Rip_Tide.png/revision/latest?cb=20210812033009",
-    "chaotic_hash": "PRQW7ZD4HBMV"
+    "chaotic_hash": "PRQW7ZD4HBMV",
+    "build_cost": 1
   },
   "Solar Flare": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Solar_Flare",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5c/Solar_Flare.png/revision/latest?cb=20210812033622",
-    "chaotic_hash": "5O69K4STCF8I"
+    "chaotic_hash": "5O69K4STCF8I",
+    "build_cost": 3
   },
   "Stupefying Tide": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Stupefying_Tide",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/12/Stupefying_Tide.png/revision/latest?cb=20210812033036",
-    "chaotic_hash": "RKALX8TH9BWF"
+    "chaotic_hash": "RKALX8TH9BWF",
+    "build_cost": 2
   },
   "Supercooled Rain": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Supercooled_Rain",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c2/Supercooled_Rain.png/revision/latest?cb=20210812033636",
-    "chaotic_hash": "MVF92CE3DYA5"
+    "chaotic_hash": "MVF92CE3DYA5",
+    "build_cost": 5
   },
   "Tainted Thunderstorm": {
     "type_card": "water-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Tainted_Thunderstorm",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/bf/Tainted_Thunderstorm.png/revision/latest?cb=20210812033655",
-    "chaotic_hash": "US9MK2YRTGAO"
+    "chaotic_hash": "US9MK2YRTGAO",
+    "build_cost": 4
   },
   "Braveglint": {
     "type_card": "speed-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Braveglint",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/7b/Braveglint.png/revision/latest?cb=20190505041244",
-    "chaotic_hash": "PWX7EKOJHQS0"
+    "chaotic_hash": "PWX7EKOJHQS0",
+    "build_cost": 2
   },
   "Evaporize": {
     "type_card": "courage-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Evaporize",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b6/Evaporize.png/revision/latest?cb=20210812033235",
-    "chaotic_hash": "TEJDF073YHOV"
+    "chaotic_hash": "TEJDF073YHOV",
+    "build_cost": 0
   },
   "HeartSync": {
     "type_card": "courage-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/HeartSync",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3d/HeartSync.png/revision/latest?cb=20210812033348",
-    "chaotic_hash": "QBDLEYPFM4X9"
+    "chaotic_hash": "QBDLEYPFM4X9",
+    "build_cost": 0
   },
   "Megaroar": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Megaroar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/cf/Megaroar.png/revision/latest?cb=20210812033502",
-    "chaotic_hash": "7YMAZH4SDEXU"
+    "chaotic_hash": "7YMAZH4SDEXU",
+    "build_cost": 4
   },
   "Mindful Finish": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Mindful_Finish_(attack)",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/48/Mindful_Finish.png/revision/latest?cb=20210812032928",
-    "chaotic_hash": "5JHKY4Z7TA8O"
+    "chaotic_hash": "5JHKY4Z7TA8O",
+    "build_cost": 0
   },
   "Shadow Strike": {
     "type_card": "courage-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Shadow_Strike",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/46/Shadow_Strike.png/revision/latest?cb=20210812033605",
-    "chaotic_hash": "LHG95KMP0F1Q"
+    "chaotic_hash": "LHG95KMP0F1Q",
+    "build_cost": 0
   },
   "Skeletal Strike": {
     "type_card": "courage-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Skeletal_Strike",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/69/Skeletal_Strike.png/revision/latest?cb=20210812033611",
-    "chaotic_hash": "SK0TW9Y3F847"
+    "chaotic_hash": "SK0TW9Y3F847",
+    "build_cost": 2
   },
   "Spirit Gust": {
     "type_card": "courage-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Spirit_Gust",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2d/Spirit_Gust.png/revision/latest?cb=20210812033624",
-    "chaotic_hash": "ZH7485OLVJ3U"
+    "chaotic_hash": "ZH7485OLVJ3U",
+    "build_cost": 0
   },
   "Telekinetic Bolt": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Telekinetic_Bolt",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/26/Telekinetic_Bolt.png/revision/latest?cb=20210812033658",
-    "chaotic_hash": "629KL5H10BF4"
+    "chaotic_hash": "629KL5H10BF4",
+    "build_cost": 3
   },
   "Valor Continuum": {
     "type_card": "courage-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Valor_Continuum",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/77/Valor_Continuum.png/revision/latest?cb=20210812033726",
-    "chaotic_hash": "5Q86UVOTMDBZ"
+    "chaotic_hash": "5Q86UVOTMDBZ",
+    "build_cost": 0
   },
   "Alacritous Force": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Alacritous_Force",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/67/Alacritous_Force.png/revision/latest?cb=20210812033106",
-    "chaotic_hash": "FUX7CJ4L18GI"
+    "chaotic_hash": "FUX7CJ4L18GI",
+    "build_cost": 2
   },
   "Discipline Destruction": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Discipline_Destruction",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/13/Discipline_Destruction.png/revision/latest?cb=20210812033202",
-    "chaotic_hash": "CTW9AFK36JZ4"
+    "chaotic_hash": "CTW9AFK36JZ4",
+    "build_cost": 4
   },
   "Dry Liquid": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Dry_Liquid",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/05/Dry_Liquid.png/revision/latest?cb=20210812032830",
-    "chaotic_hash": "HEJFMIQSU0TO"
+    "chaotic_hash": "HEJFMIQSU0TO",
+    "build_cost": 1
   },
   "Ektospasm": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Ektospasm",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3d/Ektospasm.png/revision/latest?cb=20210812033210",
-    "chaotic_hash": "M963VYHDTQSC"
+    "chaotic_hash": "M963VYHDTQSC",
+    "build_cost": 0
   },
   "Fearless Strike": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Fearless_Strike",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/0c/Fearless_Strike.png/revision/latest?cb=20210812033239",
-    "chaotic_hash": "9R6UBMSQ1PI2"
+    "chaotic_hash": "9R6UBMSQ1PI2",
+    "build_cost": 2
   },
   "Fireram": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Fireram",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2f/Fireram.png/revision/latest?cb=20210812033245",
-    "chaotic_hash": "9AQRK6OMEP8U"
+    "chaotic_hash": "9AQRK6OMEP8U",
+    "build_cost": 3
   },
   "Flashwarp": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Flashwarp",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/0d/Flashwarp.png/revision/latest?cb=20210812033256",
-    "chaotic_hash": "RLG5VB3971FI"
+    "chaotic_hash": "RLG5VB3971FI",
+    "build_cost": 0
   },
   "Gravity Slam": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Gravity_Slam",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d0/Gravity_Slam.png/revision/latest?cb=20210812035241",
-    "chaotic_hash": "6ZRBHQ8FT13G"
+    "chaotic_hash": "6ZRBHQ8FT13G",
+    "build_cost": 2
   },
   "Magma Hack": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Magma_Hack",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/60/Magma_Hack.png/revision/latest?cb=20210812033452",
-    "chaotic_hash": "Q1F0UJ3S8TRA"
+    "chaotic_hash": "Q1F0UJ3S8TRA",
+    "build_cost": 1
   },
   "Power Pulse": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Power_Pulse",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a9/Power_Pulse.png/revision/latest?cb=20190430003309",
-    "chaotic_hash": "J1SEGM2ILB4Z"
+    "chaotic_hash": "J1SEGM2ILB4Z",
+    "build_cost": 2
   },
   "Powercut": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Powercut",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/26/Powercut.png/revision/latest?cb=20190505034532",
-    "chaotic_hash": "QK8VHF34C9X1"
+    "chaotic_hash": "QK8VHF34C9X1",
+    "build_cost": 0
   },
   "Prowl Strike": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Prowl_Strike",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/62/Prowl_Strike.png/revision/latest?cb=20210812033544",
-    "chaotic_hash": "4VX801QMRTJ7"
+    "chaotic_hash": "4VX801QMRTJ7",
+    "build_cost": 2
   },
   "Smartsmack": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Smartsmack",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/7d/Smartsmack.png/revision/latest?cb=20210812033619",
-    "chaotic_hash": "KYE0XTQ76H93"
+    "chaotic_hash": "KYE0XTQ76H93",
+    "build_cost": 2
   },
   "Synaptic Acceleration": {
     "type_card": "speed-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Synaptic_Acceleration",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/14/Synaptic_Acceleration.png/revision/latest?cb=20210812033654",
-    "chaotic_hash": "WAQ6J1MP7X89"
+    "chaotic_hash": "WAQ6J1MP7X89",
+    "build_cost": 1
   },
   "Traditionalist's Charge": {
     "type_card": "power-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Traditionalist%27s_Charge",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f0/Traditionalist%27s_Charge.png/revision/latest?cb=20210812033715",
-    "chaotic_hash": "ARXZT78OGIFM"
+    "chaotic_hash": "ARXZT78OGIFM",
+    "build_cost": 1
   },
   "Academy Strike": {
     "type_card": "speed-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Academy_Strike",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e2/Academy_Strike.png/revision/latest?cb=20210812033054",
-    "chaotic_hash": "VBI2ORYKUTQ4"
+    "chaotic_hash": "VBI2ORYKUTQ4",
+    "build_cost": 1
   },
   "Paral-Eyes": {
     "type_card": "speed-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Paral-Eyes",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/0c/Paral-Eyes.png/revision/latest?cb=20210812033526",
-    "chaotic_hash": "EPFQXUMD5V0C"
+    "chaotic_hash": "EPFQXUMD5V0C",
+    "build_cost": 2
   },
   "Scout's Strike": {
     "type_card": "speed-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Scout%27s_Strike",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a8/Scout%27s_Strike.png/revision/latest?cb=20210812033602",
-    "chaotic_hash": "6F4B3EK0OPG8"
+    "chaotic_hash": "6F4B3EK0OPG8",
+    "build_cost": 2
   },
   "Shriek Shock": {
     "type_card": "speed-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Shriek_Shock",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/17/Shriek_Shock.png/revision/latest?cb=20210812033608",
-    "chaotic_hash": "MLQH3TJDOGS6"
+    "chaotic_hash": "MLQH3TJDOGS6",
+    "build_cost": 0
   },
   "Delerium": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Delerium",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/7e/Delerium.png/revision/latest?cb=20210812033156",
-    "chaotic_hash": "P832J5C4VYZX"
+    "chaotic_hash": "P832J5C4VYZX",
+    "build_cost": 0
   },
   "Glacial Balls": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Glacial_Balls",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/9f/Glacial_Balls.png/revision/latest?cb=20210812033338",
-    "chaotic_hash": "DYAZE9K5QLC3"
+    "chaotic_hash": "DYAZE9K5QLC3",
+    "build_cost": 1
   },
   "Mind Grind": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Mind_Grind",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4b/Mind_Grind.png/revision/latest?cb=20210812032925",
-    "chaotic_hash": "OPSMAI56L29R"
+    "chaotic_hash": "OPSMAI56L29R",
+    "build_cost": 2
   },
   "Mind Mash": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Mind_Mash",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2f/Mind_Mash.png/revision/latest?cb=20210812033504",
-    "chaotic_hash": "9ZCP781UOLI5"
+    "chaotic_hash": "9ZCP781UOLI5",
+    "build_cost": 5
   },
   "Mindrazor": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Mindrazor",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/19/Mindrazor.png/revision/latest?cb=20210812033506",
-    "chaotic_hash": "TG1IFPLS53DH"
+    "chaotic_hash": "TG1IFPLS53DH",
+    "build_cost": 2
   },
   "Outsmart": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Outsmart",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b8/Outsmart.png/revision/latest?cb=20210812032934",
-    "chaotic_hash": "S53WKE2Y9AV4"
+    "chaotic_hash": "S53WKE2Y9AV4",
+    "build_cost": 0
   },
   "Sleep Sting": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Sleep_Sting",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/84/Sleep_Sting.png/revision/latest?cb=20210812033612",
-    "chaotic_hash": "UFL8WMCD7YB9"
+    "chaotic_hash": "UFL8WMCD7YB9",
+    "build_cost": 2
   },
   "Thinkray": {
     "type_card": "wisdow-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Thinkray",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2d/Thinkray.png/revision/latest?cb=20210812033704",
-    "chaotic_hash": "KVL5XWZIBYG3"
+    "chaotic_hash": "KVL5XWZIBYG3",
+    "build_cost": 0
   },
   "Aerodrone": {
     "type_card": "battlegear",
