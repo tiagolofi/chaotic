@@ -21,7 +21,7 @@ Foram utilizadas as bibliotecas requests e bs4 para [extração das urls](databa
 **Criatura**: _Suas cartas de monstro ou personagem. Estas são as cartas com as quais você joga, cada uma delas com habilidades diferentes. Nenhum deles é igual, pois todos têm estatísticas diferentes e um código exclusivo de 12 dígitos. O valor padrão é 3, mas você pode ter 1, 6, 10, 15 ou 21 em seu baralho de criaturas. Você sempre tem a mesma quantidade que seu oponente e sempre a mesma quantidade de Mugic._
 
 ```
-**Tipos de Criatura**: 
+Tipos de Criatura: 
 Única: Você não pode ter outra carta com o mesmo nome de uma carta Única em seu baralho.
 Leal: Você só pode incluir Criaturas da mesma Tribo como uma carta Leal no mesmo baralho daquela carta.
 Lendário: Você só pode ter uma carta Lendária em todo o seu baralho.
