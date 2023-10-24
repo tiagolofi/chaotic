@@ -3,427 +3,924 @@
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/File:AggroarMT.jpg",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/01/Aggroar.png/revision/latest?cb=20210813215711",
-    "chaotic_hash": "EQLAC0BSUTK8"
+    "chaotic_hash": "EQLAC0BSUTK8",
+    "stats": {
+      "Courage": 55,
+      "Power": 35,
+      "Wisdom": 65,
+      "Speed": 45,
+      "Energy": 40
+    }
   },
   "Agrino Jaldar": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Agrino_Jaldar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/bf/Agrino_Jaldar.png/revision/latest?cb=20210812041034",
-    "chaotic_hash": "DUWTP79OC23M"
+    "chaotic_hash": "DUWTP79OC23M",
+    "stats": {
+      "Courage": 80,
+      "Power": 50,
+      "Wisdom": 40,
+      "Speed": 55,
+      "Energy": 55
+    }
   },
   "Aimukk": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Aimukk",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/40/Aimukk.png/revision/latest?cb=20210812051206",
-    "chaotic_hash": "WXUGY2175QZF"
+    "chaotic_hash": "WXUGY2175QZF",
+    "stats": {
+      "Courage": 75,
+      "Power": 50,
+      "Wisdom": 20,
+      "Speed": 30,
+      "Energy": 35
+    }
   },
   "Ambolx": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ambolx",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/70/Ambolx.png/revision/latest?cb=20210812041040",
-    "chaotic_hash": "LA8W3KB5RDOZ"
+    "chaotic_hash": "LA8W3KB5RDOZ",
+    "stats": {
+      "Courage": 60,
+      "Power": 40,
+      "Wisdom": 80,
+      "Speed": 40,
+      "Energy": 40
+    }
   },
   "Aszil, The Young Queen": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Aszil",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2b/Aszil%2C_The_Young_Queen.png/revision/latest?cb=20210812041042",
-    "chaotic_hash": "1VCT5OK3AS7X"
+    "chaotic_hash": "1VCT5OK3AS7X",
+    "stats": {
+      "Courage": 80,
+      "Power": 30,
+      "Wisdom": 85,
+      "Speed": 35,
+      "Energy": 60
+    }
   },
   "Aureban": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Aureban",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b0/Aureban.png/revision/latest?cb=20210812041043",
-    "chaotic_hash": "571O3TBWSF4U"
+    "chaotic_hash": "571O3TBWSF4U",
+    "stats": {
+      "Courage": 80,
+      "Power": 50,
+      "Wisdom": 40,
+      "Speed": 55,
+      "Energy": 55
+    }
   },
   "Balaan": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Balaan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/cc/Balaan.png/revision/latest?cb=20210812041045",
-    "chaotic_hash": "VY0OKUDA7JSZ"
+    "chaotic_hash": "VY0OKUDA7JSZ",
+    "stats": {
+      "Courage": 65,
+      "Power": 35,
+      "Wisdom": 50,
+      "Speed": 25,
+      "Energy": 55
+    }
   },
   "Bierk": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Bierk",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/72/Bierk.png/revision/latest?cb=20210812041056",
-    "chaotic_hash": "B1LO7HGXWUAC"
+    "chaotic_hash": "B1LO7HGXWUAC",
+    "stats": {
+      "Courage": 65,
+      "Power": 50,
+      "Wisdom": 50,
+      "Speed": 40,
+      "Energy": 40
+    }
   },
   "Chaac": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Chaac",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/95/Chaac.png/revision/latest?cb=20210812041057",
-    "chaotic_hash": "ZFUOY1KLH5BD"
+    "chaotic_hash": "ZFUOY1KLH5BD",
+    "stats": {
+      "Courage": 70,
+      "Power": 40,
+      "Wisdom": 50,
+      "Speed": 35,
+      "Energy": 45
+    }
   },
   "Daj Huun": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Daj_Huun",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/72/Daj_Huun.png/revision/latest?cb=20210812051207",
-    "chaotic_hash": "AJP9ZX64W8T7"
+    "chaotic_hash": "AJP9ZX64W8T7",
+    "stats": {
+      "Courage": 70,
+      "Power": 50,
+      "Wisdom": 35,
+      "Speed": 70,
+      "Energy": 45
+    }
   },
   "Odu-Bathax": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Odu-Bathax",
     "img_url": "https://th.bing.com/th/id/OIP.JfW7DFi-B2SNEuN-LLrBPgAAAA?pid=ImgDet&rs=1",
-    "chaotic_hash": "A1JQ9BSOW54P"
+    "chaotic_hash": "A1JQ9BSOW54P",
+    "stats": {
+      "Courage": 55,
+      "Power": 60,
+      "Wisdom": 50,
+      "Speed": 40,
+      "Energy": 35
+    }
   },
   "Dasalin": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Dasalin",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6f/Dasalin.png/revision/latest?cb=20210812051208",
-    "chaotic_hash": "YUWQ4AD8613E"
+    "chaotic_hash": "YUWQ4AD8613E",
+    "stats": {
+      "Courage": 35,
+      "Power": 35,
+      "Wisdom": 65,
+      "Speed": 25,
+      "Energy": 40
+    }
   },
   "Dhilas": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Dhilas",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b8/Dhilas.png/revision/latest?cb=20210812041102",
-    "chaotic_hash": "9COXWGHJ8A6B"
+    "chaotic_hash": "9COXWGHJ8A6B",
+    "stats": {
+      "Courage": 65,
+      "Power": 45,
+      "Wisdom": 60,
+      "Speed": 30,
+      "Energy": 40
+    }
   },
   "Drazz": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Drazz",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/7b/Drazz.png/revision/latest?cb=20210812041104",
-    "chaotic_hash": "PHB7568C04QV"
+    "chaotic_hash": "PHB7568C04QV",
+    "stats": {
+      "Courage": 80,
+      "Power": 60,
+      "Wisdom": 35,
+      "Speed": 20,
+      "Energy": 60
+    }
   },
   "Dubin": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Dubin",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b5/Dubin.png/revision/latest?cb=20210812041106",
-    "chaotic_hash": "Y2PLTMSQDK87"
+    "chaotic_hash": "Y2PLTMSQDK87",
+    "stats": {
+      "Courage": 50,
+      "Power": 35,
+      "Wisdom": 50,
+      "Speed": 25,
+      "Energy": 30
+    }
   },
   "Ekuud": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ekuud",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/57/Ekuud.png/revision/latest?cb=20210812041118",
-    "chaotic_hash": "ZT4UJE6IYKP8"
+    "chaotic_hash": "ZT4UJE6IYKP8",
+    "stats": {
+      "Courage": 40,
+      "Power": 60,
+      "Wisdom": 30,
+      "Speed": 40,
+      "Energy": 45
+    }
   },
   "Elhadd": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Elhadd",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c8/Elhadd.png/revision/latest?cb=20210812051210",
-    "chaotic_hash": "P04HUA2861OX"
+    "chaotic_hash": "P04HUA2861OX",
+    "stats": {
+      "Courage": 100,
+      "Power": 50,
+      "Wisdom": 75,
+      "Speed": 80,
+      "Energy": 50
+    }
   },
   "Elna": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Elna",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/05/Elna.png/revision/latest?cb=20210812051211",
-    "chaotic_hash": "Y2PCV51DFGI8"
+    "chaotic_hash": "Y2PCV51DFGI8",
+    "stats": {
+      "Courage": 85,
+      "Power": 55,
+      "Wisdom": 45,
+      "Speed": 45,
+      "Energy": 65
+    }
   },
   "Faash": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Faash",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/25/Faash.png/revision/latest?cb=20210812041135",
-    "chaotic_hash": "FQLSG0YT4WC6"
+    "chaotic_hash": "FQLSG0YT4WC6",
+    "stats": {
+      "Courage": 50,
+      "Power": 65,
+      "Wisdom": 35,
+      "Speed": 55,
+      "Energy": 50
+    }
   },
   "Fliandar": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Fliandar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/98/Fliandar.png/revision/latest?cb=20210812041201",
-    "chaotic_hash": "YDZGH2T6E3BJ"
+    "chaotic_hash": "YDZGH2T6E3BJ",
+    "stats": {
+      "Courage": 85,
+      "Power": 45,
+      "Wisdom": 75,
+      "Speed": 35,
+      "Energy": 60
+    }
   },
   "Formicidor": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Formicidor",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/db/Formicidor.png/revision/latest?cb=20210812041202",
-    "chaotic_hash": "JS8UA9TOH3QZ"
+    "chaotic_hash": "JS8UA9TOH3QZ",
+    "stats": {
+      "Courage": 60,
+      "Power": 40,
+      "Wisdom": 35,
+      "Speed": 40,
+      "Energy": 40
+    }
   },
   "Galin": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Galin",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/45/Galin.png/revision/latest?cb=20210812041204",
-    "chaotic_hash": "I5YZK80964Q7"
+    "chaotic_hash": "I5YZK80964Q7",
+    "stats": {
+      "Courage": 65,
+      "Power": 70,
+      "Wisdom": 40,
+      "Speed": 65,
+      "Energy": 50
+    }
   },
   "Gareep": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Gareep",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/01/Gareep.png/revision/latest?cb=20210812041205",
-    "chaotic_hash": "G180CTX79B46"
+    "chaotic_hash": "G180CTX79B46",
+    "stats": {
+      "Courage": 70,
+      "Power": 50,
+      "Wisdom": 70,
+      "Speed": 30,
+      "Energy": 40
+    }
   },
   "Gazarbash, Infecting Terraformer": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Gazarbash",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/30/Gazarbash%2C_Infecting_Terraformer.png/revision/latest?cb=20210812041206",
-    "chaotic_hash": "H4LPE7JDRWOI"
+    "chaotic_hash": "H4LPE7JDRWOI",
+    "stats": {
+      "Courage": 70,
+      "Power": 35,
+      "Wisdom": 45,
+      "Speed": 45,
+      "Energy": 45
+    }
   },
   "Ghundac": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ghundac",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/26/Ghundac.png/revision/latest?cb=20210812041208",
-    "chaotic_hash": "50SF31E2IB6O"
+    "chaotic_hash": "50SF31E2IB6O",
+    "stats": {
+      "Courage": 80,
+      "Power": 40,
+      "Wisdom": 40,
+      "Speed": 80,
+      "Energy": 50
+    }
   },
   "Glapaal": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Glapaal",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/77/Glapaal.png/revision/latest?cb=20210812051213",
-    "chaotic_hash": "90VP3JWUYZR2"
+    "chaotic_hash": "90VP3JWUYZR2",
+    "stats": {
+      "Courage": 50,
+      "Power": 25,
+      "Wisdom": 60,
+      "Speed": 40,
+      "Energy": 35
+    }
   },
   "Gorram, Danian General": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Gorram",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/ec/Gorram%2C_Danian_General.png/revision/latest?cb=20210812041211",
-    "chaotic_hash": "JLMVYIA8EX95"
+    "chaotic_hash": "JLMVYIA8EX95",
+    "stats": {
+      "Courage": 85,
+      "Power": 50,
+      "Wisdom": 75,
+      "Speed": 35,
+      "Energy": 30
+    }
   },
   "Hammerdoom Chantcaller": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Hammerdoom_Chantcaller",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f2/Hammerdoom_Chantcaller.png/revision/latest?cb=20210812222308",
-    "chaotic_hash": "ZK8QDHGTIM9F"
+    "chaotic_hash": "ZK8QDHGTIM9F",
+    "stats": {
+      "Courage": 50,
+      "Power": 55,
+      "Wisdom": 40,
+      "Speed": 55,
+      "Energy": 65
+    }
   },
   "Hermatred": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Hermatred",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/52/Hermatred.png/revision/latest?cb=20210812041215",
-    "chaotic_hash": "JX91I4SFWCGE"
+    "chaotic_hash": "JX91I4SFWCGE",
+    "stats": {
+      "Courage": 85,
+      "Power": 50,
+      "Wisdom": 45,
+      "Speed": 30,
+      "Energy": 50
+    }
   },
   "Hiadrom": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Hiadrom",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d0/Hiadrom.png/revision/latest?cb=20210812041220",
-    "chaotic_hash": "Z72BR64FEGID"
+    "chaotic_hash": "Z72BR64FEGID",
+    "stats": {
+      "Courage": 70,
+      "Power": 35,
+      "Wisdom": 55,
+      "Speed": 40,
+      "Energy": 55
+    }
   },
   "Hota": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Hota",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/56/Hota.png/revision/latest?cb=20210812051216",
-    "chaotic_hash": "G43HKB5WXV1Q"
+    "chaotic_hash": "G43HKB5WXV1Q",
+    "stats": {
+      "Courage": 40,
+      "Power": 55,
+      "Wisdom": 35,
+      "Speed": 30,
+      "Energy": 30
+    }
   },
   "Illexia, The Danian Queen": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Illexia",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/02/Illexia%2C_The_Danian_Queen.png/revision/latest?cb=20210812041227",
-    "chaotic_hash": "DECWT8Q02ZVU"
+    "chaotic_hash": "DECWT8Q02ZVU",
+    "stats": {
+      "Courage": 50,
+      "Power": 65,
+      "Wisdom": 65,
+      "Speed": 25,
+      "Energy": 55
+    }
   },
   "Irrabeq": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Irrabeq",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/00/Irrabeq.png/revision/latest?cb=20210812041228",
-    "chaotic_hash": "R2I01EXT37OQ"
+    "chaotic_hash": "R2I01EXT37OQ",
+    "stats": {
+      "Courage": 75,
+      "Power": 35,
+      "Wisdom": 50,
+      "Speed": 60,
+      "Energy": 55
+    }
   },
   "Ivelaan": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ivelaan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/75/Ivelaan.png/revision/latest?cb=20210812041230",
-    "chaotic_hash": "ZTYO2FKSVMD7"
+    "chaotic_hash": "ZTYO2FKSVMD7",
+    "stats": {
+      "Courage": 80,
+      "Power": 50,
+      "Wisdom": 65,
+      "Speed": 75,
+      "Energy": 60
+    }
   },
   "Jaal": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Jaal",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f8/Jaal.png/revision/latest?cb=20210812041231",
-    "chaotic_hash": "HW14BOGSZ9QV"
+    "chaotic_hash": "HW14BOGSZ9QV",
+    "stats": {
+      "Courage": 45,
+      "Power": 35,
+      "Wisdom": 65,
+      "Speed": 30,
+      "Energy": 50
+    }
   },
   "Junda": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Junda",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/7c/Junda.png/revision/latest?cb=20210812041233",
-    "chaotic_hash": "43RB7W95T0XU"
+    "chaotic_hash": "43RB7W95T0XU",
+    "stats": {
+      "Courage": 35,
+      "Power": 55,
+      "Wisdom": 50,
+      "Speed": 40,
+      "Energy": 50
+    }
   },
   "Kalanju": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Kalanju",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f0/Kalanju.png/revision/latest?cb=20210812041234",
-    "chaotic_hash": "7B2SL5U4HKZ8"
+    "chaotic_hash": "7B2SL5U4HKZ8",
+    "stats": {
+      "Courage": 50,
+      "Power": 35,
+      "Wisdom": 55,
+      "Speed": 40,
+      "Energy": 40
+    }
   },
   "Kannen": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Kannen",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/9c/Kannen.png/revision/latest?cb=20210812041235",
-    "chaotic_hash": "H8ELGCK67R0M"
+    "chaotic_hash": "H8ELGCK67R0M",
+    "stats": {
+      "Courage": 25,
+      "Power": 20,
+      "Wisdom": 70,
+      "Speed": 25,
+      "Energy": 40
+    }
   },
   "Kapalor": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Kapalor",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f5/Kapalor.png/revision/latest?cb=20210812041237",
-    "chaotic_hash": "FQLUTO4R65BH"
+    "chaotic_hash": "FQLUTO4R65BH",
+    "stats": {
+      "Courage": 0,
+      "Power": 75,
+      "Wisdom": 40,
+      "Speed": 30,
+      "Energy": 35
+    }
   },
   "Katharaz": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Katharaz",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b5/Katharaz.png/revision/latest?cb=20210812041238",
-    "chaotic_hash": "C3RF8DZS2G6I"
+    "chaotic_hash": "C3RF8DZS2G6I",
+    "stats": {
+      "Courage": 50,
+      "Power": 30,
+      "Wisdom": 45,
+      "Speed": 35,
+      "Energy": 45
+    }
   },
   "Kebna": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Kebna",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/48/Kebna.png/revision/latest?cb=20210812051218",
-    "chaotic_hash": "O7RFG3BJ2WVU"
+    "chaotic_hash": "O7RFG3BJ2WVU",
+    "stats": {
+      "Courage": 65,
+      "Power": 30,
+      "Wisdom": 55,
+      "Speed": 35,
+      "Energy": 45
+    }
   },
   "Kelvedran": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Kelvedran",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/ee/Kelvedran.png/revision/latest?cb=20210812041242",
-    "chaotic_hash": "52FKUP87SW1J"
+    "chaotic_hash": "52FKUP87SW1J",
+    "stats": {
+      "Courage": 35,
+      "Power": 50,
+      "Wisdom": 35,
+      "Speed": 55,
+      "Energy": 40
+    }
   },
   "Kepiaan, Danian Lieutenant": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Kepiaan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/77/Kepiaan%2C_Danian_Lieutenant.png/revision/latest?cb=20210812041243",
-    "chaotic_hash": "EAKFJR973PMV"
+    "chaotic_hash": "EAKFJR973PMV",
+    "stats": {
+      "Courage": 40,
+      "Power": 40,
+      "Wisdom": 40,
+      "Speed": 40,
+      "Energy": 40
+    }
   },
   "Ketun": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ketun",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d9/Ketun.png/revision/latest?cb=20210812041244",
-    "chaotic_hash": "LCPJ2TU5KXVH"
+    "chaotic_hash": "LCPJ2TU5KXVH",
+    "stats": {
+      "Courage": 80,
+      "Power": 60,
+      "Wisdom": 80,
+      "Speed": 55,
+      "Energy": 50
+    }
   },
   "Khavakk": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Khavakk",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/ef/Khavakk.png/revision/latest?cb=20210812051219",
-    "chaotic_hash": "LPG80HVQWTUB"
+    "chaotic_hash": "LPG80HVQWTUB",
+    "stats": {
+      "Courage": 35,
+      "Power": 50,
+      "Wisdom": 35,
+      "Speed": 25,
+      "Energy": 30
+    }
   },
   "Khritlaan": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Khritlaan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/9b/Khritlaan.png/revision/latest?cb=20210812041248",
-    "chaotic_hash": "ESKV78ZP1HUR"
+    "chaotic_hash": "ESKV78ZP1HUR",
+    "stats": {
+      "Courage": 65,
+      "Power": 50,
+      "Wisdom": 65,
+      "Speed": 25,
+      "Energy": 40
+    }
   },
   "Klencka": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Klencka",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/26/Klencka.png/revision/latest?cb=20210812041251",
-    "chaotic_hash": "S58D6X12GPUA"
+    "chaotic_hash": "S58D6X12GPUA",
+    "stats": {
+      "Courage": 45,
+      "Power": 55,
+      "Wisdom": 50,
+      "Speed": 85,
+      "Energy": 55
+    }
   },
   "Kolmo": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Kolmo",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/95/Kolmo.png/revision/latest?cb=20210813220804",
-    "chaotic_hash": "C51823GE9HKD"
+    "chaotic_hash": "C51823GE9HKD",
+    "stats": {
+      "Courage": 60,
+      "Power": 55,
+      "Wisdom": 50,
+      "Speed": 40,
+      "Energy": 65
+    }
   },
   "Lendai": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Lendai",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/0c/Lendai.png/revision/latest?cb=20210812041254",
-    "chaotic_hash": "ZTH90UB64FVG"
+    "chaotic_hash": "ZTH90UB64FVG",
+    "stats": {
+      "Courage": 80,
+      "Power": 40,
+      "Wisdom": 60,
+      "Speed": 40,
+      "Energy": 55
+    }
   },
   "Lhad": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Lhad",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/63/Lhad.png/revision/latest?cb=20210812041256",
-    "chaotic_hash": "YGMFZ4DXESHB"
+    "chaotic_hash": "YGMFZ4DXESHB",
+    "stats": {
+      "Courage": 65,
+      "Power": 65,
+      "Wisdom": 70,
+      "Speed": 25,
+      "Energy": 40
+    }
   },
   "Lobanne": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Lobanne",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/1b/Lobanne.png/revision/latest?cb=20210812051221",
-    "chaotic_hash": "WKAR82O4TZXB"
+    "chaotic_hash": "WKAR82O4TZXB",
+    "stats": {
+      "Courage": 35,
+      "Power": 30,
+      "Wisdom": 55,
+      "Speed": 35,
+      "Energy": 35
+    }
   },
   "Lore": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Lore",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/fc/Lore.png/revision/latest?cb=20210812041315",
-    "chaotic_hash": "PE04CHRBWQ27"
+    "chaotic_hash": "PE04CHRBWQ27",
+    "stats": {
+      "Courage": 30,
+      "Power": 35,
+      "Wisdom": 70,
+      "Speed": 30,
+      "Energy": 25
+    }
   },
   "Mahrrant": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Mahrrant",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c0/Mahrrant.png/revision/latest?cb=20210812041320",
-    "chaotic_hash": "L268C4DRTPB9"
+    "chaotic_hash": "L268C4DRTPB9",
+    "stats": {
+      "Courage": 35,
+      "Power": 60,
+      "Wisdom": 65,
+      "Speed": 25,
+      "Energy": 40
+    }
   },
   "Makanaz": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Makanaz",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/03/Makanaz.png/revision/latest?cb=20210812041321",
-    "chaotic_hash": "4VUSZ0WCQ1MJ"
+    "chaotic_hash": "4VUSZ0WCQ1MJ",
+    "stats": {
+      "Courage": 75,
+      "Power": 90,
+      "Wisdom": 50,
+      "Speed": 75,
+      "Energy": 65
+    }
   },
   "Makrabon": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Makrabon",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/14/Makrabon.png/revision/latest?cb=20210812051222",
-    "chaotic_hash": "95HB7WPCT6XF"
+    "chaotic_hash": "95HB7WPCT6XF",
+    "stats": {
+      "Courage": 20,
+      "Power": 30,
+      "Wisdom": 50,
+      "Speed": 25,
+      "Energy": 35
+    }
   },
   "Makromil": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Makromil",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/70/Makromil.png/revision/latest?cb=20210812041325",
-    "chaotic_hash": "DYEQSKB8AJR3"
+    "chaotic_hash": "DYEQSKB8AJR3",
+    "stats": {
+      "Courage": 65,
+      "Power": 25,
+      "Wisdom": 35,
+      "Speed": 70,
+      "Energy": 50
+    }
   },
   "Mallash": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Mallash",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/38/Mallash.png/revision/latest?cb=20210812051224",
-    "chaotic_hash": "VFEKG0HYRZJ4"
+    "chaotic_hash": "VFEKG0HYRZJ4",
+    "stats": {
+      "Courage": 30,
+      "Power": 25,
+      "Wisdom": 45,
+      "Speed": 35,
+      "Energy": 30
+    }
   },
   "Masilbaat": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Masilbaat",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3c/Masilbaat.png/revision/latest?cb=20210812041328",
-    "chaotic_hash": "8O4X9MUKSLY0"
+    "chaotic_hash": "8O4X9MUKSLY0",
+    "stats": {
+      "Courage": 70,
+      "Power": 45,
+      "Wisdom": 55,
+      "Speed": 30,
+      "Energy": 50
+    }
   },
   "Mhein": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Mhein",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a2/Mhein.png/revision/latest?cb=20210812041330",
-    "chaotic_hash": "I3FSWD5GCZ6H"
+    "chaotic_hash": "I3FSWD5GCZ6H",
+    "stats": {
+      "Courage": 80,
+      "Power": 60,
+      "Wisdom": 40,
+      "Speed": 30,
+      "Energy": 50
+    }
   },
   "Mivindal": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Mivindal",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/ca/Mivindal.png/revision/latest?cb=20210812041340",
-    "chaotic_hash": "2IA8PYMCBE95"
+    "chaotic_hash": "2IA8PYMCBE95",
+    "stats": {
+      "Courage": 65,
+      "Power": 30,
+      "Wisdom": 45,
+      "Speed": 40,
+      "Energy": 40
+    }
   },
   "Nakal": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Nakal",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b5/Nakal.png/revision/latest?cb=20210812041343",
-    "chaotic_hash": "OC5AGLS0X9RT"
+    "chaotic_hash": "OC5AGLS0X9RT",
+    "stats": {
+      "Courage": 55,
+      "Power": 50,
+      "Wisdom": 30,
+      "Speed": 55,
+      "Energy": 30
+    }
   },
   "Necrabe": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Necrabe",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f2/Necrabe.png/revision/latest?cb=20210812041345",
-    "chaotic_hash": "0HQJSWROX541"
+    "chaotic_hash": "0HQJSWROX541",
+    "stats": {
+      "Courage": 100,
+      "Power": 25,
+      "Wisdom": 70,
+      "Speed": 35,
+      "Energy": 35
+    }
   },
   "Neekwin": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Neekwin",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5e/Neekwin.png/revision/latest?cb=20210812041346",
-    "chaotic_hash": "SEQVUOM8Z9C7"
+    "chaotic_hash": "SEQVUOM8Z9C7",
+    "stats": {
+      "Courage": 75,
+      "Power": 40,
+      "Wisdom": 90,
+      "Speed": 35,
+      "Energy": 65
+    }
   },
   "Nimmei": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Nimmei",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/19/Nimmei.png/revision/latest?cb=20210812041349",
-    "chaotic_hash": "PKCQ8ZBEFMJV"
+    "chaotic_hash": "PKCQ8ZBEFMJV",
+    "stats": {
+      "Courage": 75,
+      "Power": 45,
+      "Wisdom": 35,
+      "Speed": 50,
+      "Energy": 50
+    }
   },
   "Nukasai": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Nukasai",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/11/Nukasai.png/revision/latest?cb=20150425174901",
-    "chaotic_hash": "ZOARLHIJT3E7"
+    "chaotic_hash": "ZOARLHIJT3E7",
+    "stats": {
+      "Courage": 70,
+      "Power": 45,
+      "Wisdom": 60,
+      "Speed": 35,
+      "Energy": 50
+    }
   },
   "Nunk'worn": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Nunk%27worn",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b4/Nunk%27worn.png/revision/latest?cb=20210813220458",
-    "chaotic_hash": "M2FEG8ZP5YJ4"
+    "chaotic_hash": "M2FEG8ZP5YJ4",
+    "stats": {
+      "Courage": 50,
+      "Power": 70,
+      "Wisdom": 70,
+      "Speed": 45,
+      "Energy": 60
+    }
   },
   "Orbaat": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Orbaat",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f7/Orbaat.png/revision/latest?cb=20210812041407",
-    "chaotic_hash": "BYA48TIM1K20"
+    "chaotic_hash": "BYA48TIM1K20",
+    "stats": {
+      "Courage": 60,
+      "Power": 35,
+      "Wisdom": 60,
+      "Speed": 25,
+      "Energy": 40
+    }
   },
   "Ramarhvir, The Danian Hivebringer": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ramarhvir",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2b/Ramarhvir%2C_The_Danian_Hivebringer.png/revision/latest?cb=20210812041409",
-    "chaotic_hash": "O89BDC2U6YMJ"
+    "chaotic_hash": "O89BDC2U6YMJ",
+    "stats": {
+      "Courage": 35,
+      "Power": 65,
+      "Wisdom": 50,
+      "Speed": 25,
+      "Energy": 50
+    }
   },
   "Raznus, Ambassador to the Danians": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Raznus",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f8/Raznus%2C_Ambassador_to_the_Danians.png/revision/latest?cb=20210813220221",
-    "chaotic_hash": "XBQC0GTOSZEU"
+    "chaotic_hash": "XBQC0GTOSZEU",
+    "stats": {
+      "Courage": 60,
+      "Power": 20,
+      "Wisdom": 70,
+      "Speed": 40,
+      "Energy": 40
+    }
   },
   "Rebant": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Rebant",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f0/Rebant.png/revision/latest?cb=20210812041411",
-    "chaotic_hash": "2BQH30UZ8J79"
+    "chaotic_hash": "2BQH30UZ8J79",
+    "stats": {
+      "Courage": 95,
+      "Power": 20,
+      "Wisdom": 65,
+      "Speed": 40,
+      "Energy": 30
+    }
   },
   "Riggan": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Riggan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/fa/Riggan.png/revision/latest?cb=20210812041414",
-    "chaotic_hash": "ZDLP4I75MKOE"
+    "chaotic_hash": "ZDLP4I75MKOE",
+    "stats": {
+      "Courage": 65,
+      "Power": 40,
+      "Wisdom": 65,
+      "Speed": 35,
+      "Energy": 50
+    }
   },
   "Scepter of the Infernal Parasite": {
     "type_card": "battlegear",
@@ -435,793 +932,1717 @@
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Skartalas",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3c/Skartalas.png/revision/latest?cb=20210812051225",
-    "chaotic_hash": "X9LBMYQJV34E"
+    "chaotic_hash": "X9LBMYQJV34E",
+    "stats": {
+      "Courage": 55,
+      "Power": 45,
+      "Wisdom": 40,
+      "Speed": 55,
+      "Energy": 40
+    }
   },
   "Tabaal": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Tabaal",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/7b/Tabaal.png/revision/latest?cb=20210812041432",
-    "chaotic_hash": "DK4M8TLZIR0V"
+    "chaotic_hash": "DK4M8TLZIR0V",
+    "stats": {
+      "Courage": 65,
+      "Power": 30,
+      "Wisdom": 40,
+      "Speed": 60,
+      "Energy": 40
+    }
   },
   "Tarbok": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Tarbok",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/bd/Tarbok.png/revision/latest?cb=20210812041434",
-    "chaotic_hash": "IMFDJQZE0KW7"
+    "chaotic_hash": "IMFDJQZE0KW7",
+    "stats": {
+      "Courage": 75,
+      "Power": 35,
+      "Wisdom": 45,
+      "Speed": 40,
+      "Energy": 50
+    }
   },
   "Tarin": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Tarin",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/15/Tarin.png/revision/latest?cb=20210812041435",
-    "chaotic_hash": "426IYAC1GFTE"
+    "chaotic_hash": "426IYAC1GFTE",
+    "stats": {
+      "Courage": 75,
+      "Power": 40,
+      "Wisdom": 35,
+      "Speed": 40,
+      "Energy": 45
+    }
   },
   "Tarteme": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Tarteme",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b6/Tarteme.png/revision/latest?cb=20210812041437",
-    "chaotic_hash": "RYMGD26HKI0Z"
+    "chaotic_hash": "RYMGD26HKI0Z",
+    "stats": {
+      "Courage": 0,
+      "Power": 65,
+      "Wisdom": 35,
+      "Speed": 40,
+      "Energy": 40
+    }
   },
   "Tassanil": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Tassanil",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/50/Tassanil.png/revision/latest?cb=20210812041439",
-    "chaotic_hash": "IM8E1BLKU3JR"
+    "chaotic_hash": "IM8E1BLKU3JR",
+    "stats": {
+      "Courage": 60,
+      "Power": 45,
+      "Wisdom": 55,
+      "Speed": 50,
+      "Energy": 40
+    }
   },
   "Tharc, Tablet Translator": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Tharc",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4c/Tharc%2C_Tablet_Translator.png/revision/latest?cb=20210812041441",
-    "chaotic_hash": "P9IAS3CT1BKZ"
+    "chaotic_hash": "P9IAS3CT1BKZ",
+    "stats": {
+      "Courage": 70,
+      "Power": 30,
+      "Wisdom": 80,
+      "Speed": 30,
+      "Energy": 50
+    }
   },
   "Topar": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Topar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b5/Topar.png/revision/latest?cb=20210812041443",
-    "chaotic_hash": "V75CFBGW2D9R"
+    "chaotic_hash": "V75CFBGW2D9R",
+    "stats": {
+      "Courage": 70,
+      "Power": 45,
+      "Wisdom": 45,
+      "Speed": 30,
+      "Energy": 45
+    }
   },
   "Uholdan": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Uholdan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6c/Uholdan.png/revision/latest?cb=20210812041445",
-    "chaotic_hash": "E0YWGSA462XM"
+    "chaotic_hash": "E0YWGSA462XM",
+    "stats": {
+      "Courage": 70,
+      "Power": 50,
+      "Wisdom": 40,
+      "Speed": 55,
+      "Energy": 55
+    }
   },
   "Ulmquad": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ulmquad",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/de/Ulmquad.png/revision/latest?cb=20210812041446",
-    "chaotic_hash": "Z4E2LXQ75TFA"
+    "chaotic_hash": "Z4E2LXQ75TFA",
+    "stats": {
+      "Courage": 75,
+      "Power": 50,
+      "Wisdom": 40,
+      "Speed": 60,
+      "Energy": 55
+    }
   },
   "Valanii Levaan": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Valanii_Levaan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/dc/Valanii_Levaan.png/revision/latest?cb=20210812041448",
-    "chaotic_hash": "3FT0GW5ZJCBH"
+    "chaotic_hash": "3FT0GW5ZJCBH",
+    "stats": {
+      "Courage": 50,
+      "Power": 50,
+      "Wisdom": 15,
+      "Speed": 25,
+      "Energy": 50
+    }
   },
   "Valban": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Valban",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/08/Valban.png/revision/latest?cb=20210812041449",
-    "chaotic_hash": "DF56PG2Y7IQZ"
+    "chaotic_hash": "DF56PG2Y7IQZ",
+    "stats": {
+      "Courage": 75,
+      "Power": 40,
+      "Wisdom": 65,
+      "Speed": 40,
+      "Energy": 55
+    }
   },
   "Vilrik Landfarer": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Vilrik_Landfarer",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/93/Vilrik_Landfarer.png/revision/latest?cb=20210812041450",
-    "chaotic_hash": "QDRKEWZ51JHF"
+    "chaotic_hash": "QDRKEWZ51JHF",
+    "stats": {
+      "Courage": 45,
+      "Power": 35,
+      "Wisdom": 70,
+      "Speed": 40,
+      "Energy": 35
+    }
   },
   "Vollash": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Vollash",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5d/Vollash.png/revision/latest?cb=20100106161537",
-    "chaotic_hash": "2OXAYDJ15G6B"
+    "chaotic_hash": "2OXAYDJ15G6B",
+    "stats": {
+      "Courage": 55,
+      "Power": 70,
+      "Wisdom": 40,
+      "Speed": 45,
+      "Energy": 45
+    }
   },
   "Vunhra": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Vunhra",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/92/Vunhra.png/revision/latest?cb=20210812041452",
-    "chaotic_hash": "UT4E9LVHR6W5"
+    "chaotic_hash": "UT4E9LVHR6W5",
+    "stats": {
+      "Courage": 45,
+      "Power": 45,
+      "Wisdom": 80,
+      "Speed": 25,
+      "Energy": 40
+    }
   },
   "Wamma": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Wamma_(creature)",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/61/Wamma.png/revision/latest?cb=20210812041457",
-    "chaotic_hash": "BSE09FWJX6VU"
+    "chaotic_hash": "BSE09FWJX6VU",
+    "stats": {
+      "Courage": 40,
+      "Power": 55,
+      "Wisdom": 30,
+      "Speed": 25,
+      "Energy": 50
+    }
   },
   "Yondaf": {
     "type_card": "danians",
     "parent_link": "https://chaotic.fandom.com/wiki/Yondaf",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f9/Yondaf.png/revision/latest?cb=20210812041504",
-    "chaotic_hash": "LY7S4ZVUEPBO"
+    "chaotic_hash": "LY7S4ZVUEPBO",
+    "stats": {
+      "Courage": 50,
+      "Power": 35,
+      "Wisdom": 65,
+      "Speed": 20,
+      "Energy": 30
+    }
   },
   "Aa'une the Oligarch, Projection": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Aa%27une_the_Oligarch",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/33/Aa%27une_the_Oligarch%2C_Projection.png/revision/latest?cb=20210819221101",
-    "chaotic_hash": "186MF59WOKJC"
+    "chaotic_hash": "186MF59WOKJC",
+    "stats": {
+      "Courage": 50,
+      "Power": 50,
+      "Wisdom": 50,
+      "Speed": 50,
+      "Energy": 50
+    }
   },
   "Ab lop1": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ab%27lop",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c3/Ab_lop1.jpg/revision/latest?cb=20160427212836",
-    "chaotic_hash": "ZKUJHXOCI326"
+    "chaotic_hash": "ZKUJHXOCI326",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
   },
   "M'arrillian": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Vitar%27zu",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f6/Marrillian-icon.png/revision/latest?cb=20090820165855",
-    "chaotic_hash": "7QWFC2JIL68Z"
+    "chaotic_hash": "7QWFC2JIL68Z",
+    "stats": {
+      "Courage": 50,
+      "Power": 40,
+      "Wisdom": 40,
+      "Speed": 90,
+      "Energy": 45
+    }
   },
   "Anger'keem": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Anger%27keem",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/94/Anger%27keem.png/revision/latest?cb=20210813220418",
-    "chaotic_hash": "RHC4GMUP6V2I"
+    "chaotic_hash": "RHC4GMUP6V2I",
+    "stats": {
+      "Courage": 35,
+      "Power": 55,
+      "Wisdom": 65,
+      "Speed": 35,
+      "Energy": 40
+    }
   },
   "Ast'imal": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ast%27imal",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/9e/Ast%27imal.png/revision/latest?cb=20210813220420",
-    "chaotic_hash": "X98BCYZAUVLE"
+    "chaotic_hash": "X98BCYZAUVLE",
+    "stats": {
+      "Courage": 50,
+      "Power": 45,
+      "Wisdom": 70,
+      "Speed": 50,
+      "Energy": 40
+    }
   },
   "Aval'par": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Aval%27par",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/8a/Aval%27par.png/revision/latest?cb=20210813220421",
-    "chaotic_hash": "DVYK7OQUWA32"
+    "chaotic_hash": "DVYK7OQUWA32",
+    "stats": {
+      "Courage": 35,
+      "Power": 70,
+      "Wisdom": 40,
+      "Speed": 65,
+      "Energy": 50
+    }
   },
   "Bahrakatan, The Coralsmith": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Bahrakatan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b4/Bahrakatan%2C_The_Coralsmith.png/revision/latest?cb=20210813220423",
-    "chaotic_hash": "79O83Y56D4UT"
+    "chaotic_hash": "79O83Y56D4UT",
+    "stats": {
+      "Courage": 60,
+      "Power": 75,
+      "Wisdom": 60,
+      "Speed": 50,
+      "Energy": 40
+    }
   },
   "Blak'drin": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Blak%27drin",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/95/Blak%27drin.png/revision/latest?cb=20210813220424",
-    "chaotic_hash": "LTS7CO29AJP0"
+    "chaotic_hash": "LTS7CO29AJP0",
+    "stats": {
+      "Courage": 60,
+      "Power": 65,
+      "Wisdom": 55,
+      "Speed": 70,
+      "Energy": 45
+    }
   },
   "Bo'aam": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Bo%27aam",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e5/Bo%27aam.png/revision/latest?cb=20210813220425",
-    "chaotic_hash": "RC40Q158BFV2"
+    "chaotic_hash": "RC40Q158BFV2",
+    "stats": {
+      "Courage": 55,
+      "Power": 50,
+      "Wisdom": 85,
+      "Speed": 40,
+      "Energy": 45
+    }
   },
   "Dreg'ora": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Dreg%27ora",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e1/Dreg%27ora.png/revision/latest?cb=20211118053947",
-    "chaotic_hash": "KDHFLJ2OXCMQ"
+    "chaotic_hash": "KDHFLJ2OXCMQ",
+    "stats": {
+      "Courage": 55,
+      "Power": 65,
+      "Wisdom": 25,
+      "Speed": 35,
+      "Energy": 55
+    }
   },
   "Erak'tabb": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Erak%27tabb",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/58/Erak%27tabb.png/revision/latest?cb=20090818180008",
-    "chaotic_hash": "IM36WCXHA9OL"
+    "chaotic_hash": "IM36WCXHA9OL",
+    "stats": {
+      "Courage": 40,
+      "Power": 55,
+      "Wisdom": 85,
+      "Speed": 25,
+      "Energy": 45
+    }
   },
   "Fal'makin": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Fal%27makin",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c9/Fal%27makin.png/revision/latest?cb=20210813220433",
-    "chaotic_hash": "PVIW4TS8OA20"
+    "chaotic_hash": "PVIW4TS8OA20",
+    "stats": {
+      "Courage": 40,
+      "Power": 55,
+      "Wisdom": 90,
+      "Speed": 60,
+      "Energy": 50
+    }
   },
   "Fla'Gamp": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Fla%27gamp",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e2/Fla%27Gamp.png/revision/latest?cb=20130303184917",
-    "chaotic_hash": "G4X3OWDERU8L"
+    "chaotic_hash": "G4X3OWDERU8L",
+    "stats": {
+      "Courage": 70,
+      "Power": 15,
+      "Wisdom": 50,
+      "Speed": 65,
+      "Energy": 55
+    }
   },
   "Gal'drad": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Gal%27drad",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3b/Gal%27drad.png/revision/latest?cb=20210813220437",
-    "chaotic_hash": "IXMLVK3QRUZP"
+    "chaotic_hash": "IXMLVK3QRUZP",
+    "stats": {
+      "Courage": 65,
+      "Power": 85,
+      "Wisdom": 35,
+      "Speed": 40,
+      "Energy": 50
+    }
   },
   "Gan'nim": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Gan%27nim",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/91/Gan%27nim.png/revision/latest?cb=20210813220438",
-    "chaotic_hash": "7BAWF6PJL3TQ"
+    "chaotic_hash": "7BAWF6PJL3TQ",
+    "stats": {
+      "Courage": 90,
+      "Power": 90,
+      "Wisdom": 50,
+      "Speed": 15,
+      "Energy": 45
+    }
   },
   "Ghar'lag": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ghar%27lag",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/9e/Ghar%27lag.png/revision/latest?cb=20210813220440",
-    "chaotic_hash": "6YQZASFUP9V0"
+    "chaotic_hash": "6YQZASFUP9V0",
+    "stats": {
+      "Courage": 40,
+      "Power": 35,
+      "Wisdom": 65,
+      "Speed": 75,
+      "Energy": 60
+    }
   },
   "Ihun'kalin": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ihun%27kalin",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b2/Ihun%27kalin.png/revision/latest?cb=20210813220403",
-    "chaotic_hash": "L9613TYKOB2S"
+    "chaotic_hash": "L9613TYKOB2S",
+    "stats": {
+      "Courage": 55,
+      "Power": 60,
+      "Wisdom": 40,
+      "Speed": 85,
+      "Energy": 45
+    }
   },
   "Ikub'ra": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ikub%27ra",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e0/Ikub%27ra.png/revision/latest?cb=20211122000421",
-    "chaotic_hash": "MB53G1AT28SE"
+    "chaotic_hash": "MB53G1AT28SE",
+    "stats": {
+      "Courage": 40,
+      "Power": 40,
+      "Wisdom": 90,
+      "Speed": 50,
+      "Energy": 45
+    }
   },
   "Jus'hebban": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Jus%27hebban",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/36/Jus%27hebban.png/revision/latest?cb=20130303201325",
-    "chaotic_hash": "EV12BSWMR65Q"
+    "chaotic_hash": "EV12BSWMR65Q",
+    "stats": {
+      "Courage": 45,
+      "Power": 25,
+      "Wisdom": 90,
+      "Speed": 95,
+      "Energy": 50
+    }
   },
   "Ki'bro": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ki%27bro",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/7d/Ki%27bro.png/revision/latest?cb=20130324021041",
-    "chaotic_hash": "V8ZD01E62TM9"
+    "chaotic_hash": "V8ZD01E62TM9",
+    "stats": {
+      "Courage": 60,
+      "Power": 30,
+      "Wisdom": 50,
+      "Speed": 40,
+      "Energy": 50
+    }
   },
   "Klik'ssi": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Klik%27ssi",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/74/Klik%27ssi.png/revision/latest?cb=20210813220448",
-    "chaotic_hash": "E0495ACVWL8H"
+    "chaotic_hash": "E0495ACVWL8H",
+    "stats": {
+      "Courage": 50,
+      "Power": 80,
+      "Wisdom": 70,
+      "Speed": 50,
+      "Energy": 40
+    }
   },
   "Lam'inkal": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Lam%27inkal",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/ab/Lam%27inkal.png/revision/latest?cb=20210813220450",
-    "chaotic_hash": "7CSXOKZ6D283"
+    "chaotic_hash": "7CSXOKZ6D283",
+    "stats": {
+      "Courage": 25,
+      "Power": 50,
+      "Wisdom": 55,
+      "Speed": 25,
+      "Energy": 60
+    }
   },
   "Seeryn, Servant of Fire": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Seeryn,_Servant_of_Fire",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2f/Featured.png/revision/latest?cb=20150403175928",
-    "chaotic_hash": "KBU7F65TGR0Z"
+    "chaotic_hash": "KBU7F65TGR0Z",
+    "stats": {
+      "Courage": 45,
+      "Power": 80,
+      "Wisdom": 40,
+      "Speed": 45,
+      "Energy": 35
+    }
   },
   "Mock'adyn": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Mock%27adyn",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e7/Mock%27adyn.png/revision/latest?cb=20130906033420",
-    "chaotic_hash": "AM2DH4VJ6C90"
+    "chaotic_hash": "AM2DH4VJ6C90",
+    "stats": {
+      "Courage": 45,
+      "Power": 40,
+      "Wisdom": 50,
+      "Speed": 35,
+      "Energy": 35
+    }
   },
   "Neth'uar": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Neth%27uar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/32/Neth%27uar.png/revision/latest?cb=20210813220408",
-    "chaotic_hash": "WL6YQK84DFPH"
+    "chaotic_hash": "WL6YQK84DFPH",
+    "stats": {
+      "Courage": 85,
+      "Power": 55,
+      "Wisdom": 45,
+      "Speed": 65,
+      "Energy": 55
+    }
   },
   "Nis'dabba": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Nis%27dabba",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/34/Nis%27dabba.png/revision/latest?cb=20210813220457",
-    "chaotic_hash": "WVG5SHOR0F2E"
+    "chaotic_hash": "WVG5SHOR0F2E",
+    "stats": {
+      "Courage": 45,
+      "Power": 35,
+      "Wisdom": 60,
+      "Speed": 60,
+      "Energy": 50
+    }
   },
   "Part'soa": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Part%27soa",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/ae/Part%27soa.png/revision/latest?cb=20130309201442",
-    "chaotic_hash": "F6CSZBRH1VOL"
+    "chaotic_hash": "F6CSZBRH1VOL",
+    "stats": {
+      "Courage": 30,
+      "Power": 35,
+      "Wisdom": 80,
+      "Speed": 40,
+      "Energy": 45
+    }
   },
   "Phelphor": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Phelphor",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/12/Phelphor.png/revision/latest?cb=20210816175011",
-    "chaotic_hash": "CKWZAS0PF915"
+    "chaotic_hash": "CKWZAS0PF915",
+    "stats": {
+      "Courage": 55,
+      "Power": 65,
+      "Wisdom": 60,
+      "Speed": 50,
+      "Energy": 45
+    }
   },
   "Rath'tab": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Rath%27tab",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c3/Rath%27tab.png/revision/latest?cb=20210813220409",
-    "chaotic_hash": "EJP1ZVBIA6S8"
+    "chaotic_hash": "EJP1ZVBIA6S8",
+    "stats": {
+      "Courage": 60,
+      "Power": 20,
+      "Wisdom": 100,
+      "Speed": 40,
+      "Energy": 40
+    }
   },
   "Ri'oha": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ri%27oha",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e6/Ri%27oha.png/revision/latest?cb=20130303201958",
-    "chaotic_hash": "T1ML5VX27KH6"
+    "chaotic_hash": "T1ML5VX27KH6",
+    "stats": {
+      "Courage": 50,
+      "Power": 60,
+      "Wisdom": 45,
+      "Speed": 40,
+      "Energy": 40
+    }
   },
   "Ritzu'dag": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ritzu%27dag",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d1/Ritzu%27dag.png/revision/latest?cb=20210813220410",
-    "chaotic_hash": "5E6KULXQZ1A7"
+    "chaotic_hash": "5E6KULXQZ1A7",
+    "stats": {
+      "Courage": 50,
+      "Power": 50,
+      "Wisdom": 50,
+      "Speed": 50,
+      "Energy": 50
+    }
   },
   "Rol'doi": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Rol%27doi",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/14/Rol%27doi.png/revision/latest?cb=20130303202133",
-    "chaotic_hash": "E8WHJSRD39FM"
+    "chaotic_hash": "E8WHJSRD39FM",
+    "stats": {
+      "Courage": 90,
+      "Power": 50,
+      "Wisdom": 40,
+      "Speed": 40,
+      "Energy": 45
+    }
   },
   "Son'las": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Son%27las",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/84/Son%27las.png/revision/latest?cb=20210813220513",
-    "chaotic_hash": "4QB7ZOSFRVXL"
+    "chaotic_hash": "4QB7ZOSFRVXL",
+    "stats": {
+      "Courage": 50,
+      "Power": 45,
+      "Wisdom": 60,
+      "Speed": 70,
+      "Energy": 50
+    }
   },
   "Tir'baleen": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Tir%27baleen",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/9d/Tir%27baleen.png/revision/latest?cb=20210813220516",
-    "chaotic_hash": "HIZ6ULOT3P95"
+    "chaotic_hash": "HIZ6ULOT3P95",
+    "stats": {
+      "Courage": 25,
+      "Power": 40,
+      "Wisdom": 85,
+      "Speed": 35,
+      "Energy": 45
+    }
   },
   "Vix'ben": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Vix%27ben",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/ef/Vix%27ben.png/revision/latest?cb=20110713190726",
-    "chaotic_hash": "560LDRIYXKOB"
+    "chaotic_hash": "560LDRIYXKOB",
+    "stats": {
+      "Courage": 35,
+      "Power": 40,
+      "Wisdom": 65,
+      "Speed": 35,
+      "Energy": 35
+    }
   },
   "Wilt'dred": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Wilt%27dred",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/1e/Wilt%27dred.png/revision/latest?cb=20210813220520",
-    "chaotic_hash": "HV694W38U75B"
+    "chaotic_hash": "HV694W38U75B",
+    "stats": {
+      "Courage": 40,
+      "Power": 65,
+      "Wisdom": 70,
+      "Speed": 45,
+      "Energy": 50
+    }
   },
   "Xis'torq": {
-    "type_card": "marrilians",
+    "type_card": "marrillians",
     "parent_link": "https://chaotic.fandom.com/wiki/Xis%27torq",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/62/Xis%27torq.png/revision/latest?cb=20210813220412",
-    "chaotic_hash": "LQDZEO0I7XB5"
+    "chaotic_hash": "LQDZEO0I7XB5",
+    "stats": {
+      "Courage": 60,
+      "Power": 50,
+      "Wisdom": 70,
+      "Speed": 50,
+      "Energy": 45
+    }
   },
   "Abin-Wor": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Abin-Wor",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6a/Abin-Wor.png/revision/latest?cb=20210813220424",
-    "chaotic_hash": "5WLOKZGUT0I3"
+    "chaotic_hash": "5WLOKZGUT0I3",
+    "stats": {
+      "Courage": 25,
+      "Power": 30,
+      "Wisdom": 55,
+      "Speed": 45,
+      "Energy": 30
+    }
   },
   "Adomo": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Adomo",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/08/Adomo.png/revision/latest?cb=20190903120902",
-    "chaotic_hash": "9HTDX8UPQ0YZ"
+    "chaotic_hash": "9HTDX8UPQ0YZ",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
   },
   "Ailav": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ailav",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/20/Ailav.png/revision/latest?cb=20090707152151",
-    "chaotic_hash": "SL1XI2A4WR7V"
+    "chaotic_hash": "SL1XI2A4WR7V",
+    "stats": {
+      "Courage": 50,
+      "Power": 30,
+      "Wisdom": 60,
+      "Speed": 75,
+      "Energy": 50
+    }
   },
   "Ajara": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ajara",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4f/Ajara.png/revision/latest?cb=20110511163156",
-    "chaotic_hash": "SBDWIOJ4GH89"
+    "chaotic_hash": "SBDWIOJ4GH89",
+    "stats": {
+      "Courage": 40,
+      "Power": 35,
+      "Wisdom": 40,
+      "Speed": 80,
+      "Energy": 40
+    }
   },
   "Akkalbi": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Akkalbi",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/cd/Akkalbi.png/revision/latest?cb=20210813220429",
-    "chaotic_hash": "9Z8FDA1HVGLI"
+    "chaotic_hash": "9Z8FDA1HVGLI",
+    "stats": {
+      "Courage": 55,
+      "Power": 20,
+      "Wisdom": 70,
+      "Speed": 35,
+      "Energy": 45
+    }
   },
   "Alazdan": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Alazdan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/ea/Alazdan.png/revision/latest?cb=20210813220431",
-    "chaotic_hash": "YVT1L8A06OZP"
+    "chaotic_hash": "YVT1L8A06OZP",
+    "stats": {
+      "Courage": 55,
+      "Power": 35,
+      "Wisdom": 65,
+      "Speed": 20,
+      "Energy": 40
+    }
   },
   "Appelai": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Appelai",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c4/Appelai.png/revision/latest?cb=20210813220443",
-    "chaotic_hash": "35FK417SXI6Y"
+    "chaotic_hash": "35FK417SXI6Y",
+    "stats": {
+      "Courage": 50,
+      "Power": 45,
+      "Wisdom": 60,
+      "Speed": 35,
+      "Energy": 40
+    }
   },
   "Ario": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ario",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/1e/Ario.png/revision/latest?cb=20210813220454",
-    "chaotic_hash": "G4OQT3Z1CL2W"
+    "chaotic_hash": "G4OQT3Z1CL2W",
+    "stats": {
+      "Courage": 50,
+      "Power": 55,
+      "Wisdom": 25,
+      "Speed": 55,
+      "Energy": 40
+    }
   },
   "Arkanin": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Arkanin",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/09/Arkanin.png/revision/latest?cb=20210813220508",
-    "chaotic_hash": "1M0XZKVB3QGI"
+    "chaotic_hash": "1M0XZKVB3QGI",
+    "stats": {
+      "Courage": 55,
+      "Power": 35,
+      "Wisdom": 70,
+      "Speed": 55,
+      "Energy": 40
+    }
   },
   "Biondu": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Biondu",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5f/Biondu.png/revision/latest?cb=20210813220521",
-    "chaotic_hash": "1VL3SBQOHRD2"
+    "chaotic_hash": "1VL3SBQOHRD2",
+    "stats": {
+      "Courage": 45,
+      "Power": 40,
+      "Wisdom": 30,
+      "Speed": 35,
+      "Energy": 40
+    }
   },
   "Bivike": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Bivike",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/bb/Bivike.png/revision/latest?cb=20210813220523",
-    "chaotic_hash": "OS4YPW53V1IQ"
+    "chaotic_hash": "OS4YPW53V1IQ",
+    "stats": {
+      "Courage": 65,
+      "Power": 50,
+      "Wisdom": 40,
+      "Speed": 70,
+      "Energy": 50
+    }
   },
   "Blazvatan": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Blazvatan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/73/Blazvatan.png/revision/latest?cb=20210909045157",
-    "chaotic_hash": "YI0GAPM9JQ84"
+    "chaotic_hash": "YI0GAPM9JQ84",
+    "stats": {
+      "Courage": 150,
+      "Power": 75,
+      "Wisdom": 50,
+      "Speed": 150,
+      "Energy": 70
+    }
   },
   "Brathe": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Brathe",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/95/Brathe.png/revision/latest?cb=20210813220536",
-    "chaotic_hash": "1H5X6ZDUCBJQ"
+    "chaotic_hash": "1H5X6ZDUCBJQ",
+    "stats": {
+      "Courage": 55,
+      "Power": 45,
+      "Wisdom": 65,
+      "Speed": 55,
+      "Energy": 55
+    }
   },
   "Bylkian": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Bylkian",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/ee/Bylkian.png/revision/latest?cb=20210813220538",
-    "chaotic_hash": "IHLX4M1QCB9Z"
+    "chaotic_hash": "IHLX4M1QCB9Z",
+    "stats": {
+      "Courage": 50,
+      "Power": 15,
+      "Wisdom": 50,
+      "Speed": 30,
+      "Energy": 35
+    }
   },
   "Dibanni": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Dibanni",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/03/Dibanni.png/revision/latest?cb=20210813220543",
-    "chaotic_hash": "HSAQYJVF917P"
+    "chaotic_hash": "HSAQYJVF917P",
+    "stats": {
+      "Courage": 55,
+      "Power": 35,
+      "Wisdom": 70,
+      "Speed": 55,
+      "Energy": 30
+    }
   },
   "Drimesse": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Drimesse",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/00/Drimesse.png/revision/latest?cb=20190512052111",
-    "chaotic_hash": "COJFG4D09VBQ"
+    "chaotic_hash": "COJFG4D09VBQ",
+    "stats": {
+      "Courage": 30,
+      "Power": 30,
+      "Wisdom": 60,
+      "Speed": 40,
+      "Energy": 45
+    }
   },
   "Ebberim": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ebberim",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/36/Ebberim.png/revision/latest?cb=20210813220556",
-    "chaotic_hash": "PO4R6G513TKS"
+    "chaotic_hash": "PO4R6G513TKS",
+    "stats": {
+      "Courage": 50,
+      "Power": 40,
+      "Wisdom": 45,
+      "Speed": 70,
+      "Energy": 35
+    }
   },
   "Ebbikka": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ebbikka",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/52/Ebbikka.png/revision/latest?cb=20210813220607",
-    "chaotic_hash": "RAMKEYTVFLQ6"
+    "chaotic_hash": "RAMKEYTVFLQ6",
+    "stats": {
+      "Courage": 50,
+      "Power": 35,
+      "Wisdom": 65,
+      "Speed": 85,
+      "Energy": 50
+    }
   },
   "Epaluo": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Epaluo",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/81/Epaluo.png/revision/latest?cb=20210813220612",
-    "chaotic_hash": "O8MUJBZSP1TR"
+    "chaotic_hash": "O8MUJBZSP1TR",
+    "stats": {
+      "Courage": 0,
+      "Power": 30,
+      "Wisdom": 75,
+      "Speed": 60,
+      "Energy": 50
+    }
   },
   "Epitrinne": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Epitrinne",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6d/Epitrinne.png/revision/latest?cb=20210813220624",
-    "chaotic_hash": "SHUE41AK9T58"
+    "chaotic_hash": "SHUE41AK9T58",
+    "stats": {
+      "Courage": 70,
+      "Power": 30,
+      "Wisdom": 45,
+      "Speed": 95,
+      "Energy": 60
+    }
   },
   "Ere": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ere",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c0/Ere.png/revision/latest?cb=20190513052419",
-    "chaotic_hash": "9F7RZ4K2BCHA"
+    "chaotic_hash": "9F7RZ4K2BCHA",
+    "stats": {
+      "Courage": 50,
+      "Power": 75,
+      "Wisdom": 20,
+      "Speed": 100,
+      "Energy": 50
+    }
   },
   "Farhkaj": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Farhkaj",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/72/Farhkaj.png/revision/latest?cb=20210812041150",
-    "chaotic_hash": "7IGZ56PMC0S9"
+    "chaotic_hash": "7IGZ56PMC0S9",
+    "stats": {
+      "Courage": 35,
+      "Power": 55,
+      "Wisdom": 45,
+      "Speed": 75,
+      "Energy": 60
+    }
   },
   "Fasseph": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Fasseph",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/ad/Fasseph.png/revision/latest?cb=20210813220638",
-    "chaotic_hash": "RV32QMOXJBI6"
+    "chaotic_hash": "RV32QMOXJBI6",
+    "stats": {
+      "Courage": 65,
+      "Power": 25,
+      "Wisdom": 60,
+      "Speed": 80,
+      "Energy": 55
+    }
   },
   "Fazkaal": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Fazkaal",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/74/Fazkaal.png/revision/latest?cb=20210813220640",
-    "chaotic_hash": "53DQOVRP6H48"
+    "chaotic_hash": "53DQOVRP6H48",
+    "stats": {
+      "Courage": 35,
+      "Power": 45,
+      "Wisdom": 50,
+      "Speed": 30,
+      "Energy": 55
+    }
   },
   "Fivarth": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Fivarth",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/de/Fivarth.png/revision/latest?cb=20190512051133",
-    "chaotic_hash": "EFGWHICY5XZ8"
+    "chaotic_hash": "EFGWHICY5XZ8",
+    "stats": {
+      "Courage": 15,
+      "Power": 15,
+      "Wisdom": 15,
+      "Speed": 15,
+      "Energy": 15
+    }
   },
   "Gaffat-ra": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Gaffat-ra",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f6/Gaffat-ra.png/revision/latest?cb=20210813220652",
-    "chaotic_hash": "O3G9REP2DUAZ"
+    "chaotic_hash": "O3G9REP2DUAZ",
+    "stats": {
+      "Courage": 40,
+      "Power": 100,
+      "Wisdom": 100,
+      "Speed": 50,
+      "Energy": 50
+    }
   },
   "Gintanai, The Forgotten": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Gintanai",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/7c/Gintanai%2C_The_Forgotten.png/revision/latest?cb=20210813220707",
-    "chaotic_hash": "OL6DP1G2MSIF"
+    "chaotic_hash": "OL6DP1G2MSIF",
+    "stats": {
+      "Courage": 120,
+      "Power": 120,
+      "Wisdom": 30,
+      "Speed": 120,
+      "Energy": 60
+    }
   },
   "Glost": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Glost",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/de/Glost.png/revision/latest?cb=20211011061838",
-    "chaotic_hash": "J2ZO6AQB0PFY"
+    "chaotic_hash": "J2ZO6AQB0PFY",
+    "stats": {
+      "Courage": 75,
+      "Power": 50,
+      "Wisdom": 30,
+      "Speed": 75,
+      "Energy": 45
+    }
   },
   "Gnarlus": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Gnarlus",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/eb/Gnarlus.png/revision/latest?cb=20210813220711",
-    "chaotic_hash": "U8Z4RSCMX6A0"
+    "chaotic_hash": "U8Z4RSCMX6A0",
+    "stats": {
+      "Courage": 50,
+      "Power": 30,
+      "Wisdom": 30,
+      "Speed": 65,
+      "Energy": 45
+    }
   },
   "Grantkae, Mipedian General": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Grantkae",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/23/Grantkae%2C_Mipedian_General.png/revision/latest?cb=20210813220713",
-    "chaotic_hash": "GI01LCPYHQK2"
+    "chaotic_hash": "GI01LCPYHQK2",
+    "stats": {
+      "Courage": 50,
+      "Power": 50,
+      "Wisdom": 65,
+      "Speed": 85,
+      "Energy": 55
+    }
   },
   "Habekh": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Habekh",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/92/Habekh.png/revision/latest?cb=20210719035837",
-    "chaotic_hash": "DGM0VKQUCE74"
+    "chaotic_hash": "DGM0VKQUCE74",
+    "stats": {
+      "Courage": 45,
+      "Power": 35,
+      "Wisdom": 60,
+      "Speed": 60,
+      "Energy": 30
+    }
   },
   "Headmaster Ankhyja": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Headmaster_Ankhyja,_Seeker_of_the_Art",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e2/Headmaster_Ankhyja.png/revision/latest?cb=20210813220717",
-    "chaotic_hash": "L0K1DFPYRHQT"
+    "chaotic_hash": "L0K1DFPYRHQT",
+    "stats": {
+      "Courage": 55,
+      "Power": 75,
+      "Wisdom": 45,
+      "Speed": 100,
+      "Energy": 65
+    }
   },
   "Ifjann": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ifjann",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/9c/Ifjann.png/revision/latest?cb=20210813220719",
-    "chaotic_hash": "THKVQL18X5YF"
+    "chaotic_hash": "THKVQL18X5YF",
+    "stats": {
+      "Courage": 30,
+      "Power": 30,
+      "Wisdom": 60,
+      "Speed": 70,
+      "Energy": 45
+    }
   },
   "Iflar, The Crown Prince": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Iflar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a5/Iflar%2C_The_Crown_Prince.png/revision/latest?cb=20090707155306",
-    "chaotic_hash": "QSEKGZ9PFTMC"
+    "chaotic_hash": "QSEKGZ9PFTMC",
+    "stats": {
+      "Courage": 30,
+      "Power": 20,
+      "Wisdom": 50,
+      "Speed": 75,
+      "Energy": 45
+    }
   },
   "Ixxik": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ixxik",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/7a/Ixxik.png/revision/latest?cb=20090926193832",
-    "chaotic_hash": "KWIZG76SRQ34"
+    "chaotic_hash": "KWIZG76SRQ34",
+    "stats": {
+      "Courage": 90,
+      "Power": 80,
+      "Wisdom": 30,
+      "Speed": 80,
+      "Energy": 85
+    }
   },
   "Jorre, Mipedian Lieutenant": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Jorre",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/78/Jorre%2C_Mipedian_Lieutenant.png/revision/latest?cb=20210813220725",
-    "chaotic_hash": "9VGXWDEHBC85"
+    "chaotic_hash": "9VGXWDEHBC85",
+    "stats": {
+      "Courage": 40,
+      "Power": 30,
+      "Wisdom": 25,
+      "Speed": 80,
+      "Energy": 35
+    }
   },
   "Jumbad": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Jumbad",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/ee/Jumbad.png/revision/latest?cb=20210813220727",
-    "chaotic_hash": "EKYPZDXQLOAI"
+    "chaotic_hash": "EKYPZDXQLOAI",
+    "stats": {
+      "Courage": 30,
+      "Power": 25,
+      "Wisdom": 60,
+      "Speed": 75,
+      "Energy": 50
+    }
   },
   "Khenti": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Khenti",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6c/Khenti.png/revision/latest?cb=20210813220740",
-    "chaotic_hash": "7Y10IM6GQEJK"
+    "chaotic_hash": "7Y10IM6GQEJK",
+    "stats": {
+      "Courage": 65,
+      "Power": 40,
+      "Wisdom": 35,
+      "Speed": 90,
+      "Energy": 50
+    }
   },
   "Khorror": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Khorror",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4f/Khorror.png/revision/latest?cb=20210813220742",
-    "chaotic_hash": "VKB3AYH7SMG6"
+    "chaotic_hash": "VKB3AYH7SMG6",
+    "stats": {
+      "Courage": 100,
+      "Power": 100,
+      "Wisdom": 15,
+      "Speed": 100,
+      "Energy": 130
+    }
   },
   "Kileron, Warbeast of the Dust Storm": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Kileron",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/65/Kileron%2C_Warbeast_of_the_Dust_Storm.png/revision/latest?cb=20210813220744",
-    "chaotic_hash": "RJOL72KM0SXU"
+    "chaotic_hash": "RJOL72KM0SXU",
+    "stats": {
+      "Courage": 40,
+      "Power": 70,
+      "Wisdom": 30,
+      "Speed": 70,
+      "Energy": 50
+    }
   },
   "Kojjbel": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Kojjbel",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/0e/Kojjbel.png/revision/latest?cb=20210813220759",
-    "chaotic_hash": "A9IWCDF30JOT"
+    "chaotic_hash": "A9IWCDF30JOT",
+    "stats": {
+      "Courage": 65,
+      "Power": 35,
+      "Wisdom": 35,
+      "Speed": 85,
+      "Energy": 55
+    }
   },
   "Kolmo, Purified": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Kolmo/Purified",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d6/Kolmo%2C_Purified.png/revision/latest?cb=20210813220802",
-    "chaotic_hash": "WI81MEJ2GH4Q"
+    "chaotic_hash": "WI81MEJ2GH4Q",
+    "stats": {
+      "Courage": 70,
+      "Power": 45,
+      "Wisdom": 45,
+      "Speed": 95,
+      "Energy": 45
+    }
   },
   "Lanker": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Lanker",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/fa/Lanker.png/revision/latest?cb=20210813220815",
-    "chaotic_hash": "BJQRI9EF7PUG"
+    "chaotic_hash": "BJQRI9EF7PUG",
+    "stats": {
+      "Courage": 75,
+      "Power": 50,
+      "Wisdom": 90,
+      "Speed": 30,
+      "Energy": 30
+    }
   },
   "Majjcan": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Majjcan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/76/Majjcan.png/revision/latest?cb=20210813220820",
-    "chaotic_hash": "9T2GU7XLBFYD"
+    "chaotic_hash": "9T2GU7XLBFYD",
+    "stats": {
+      "Courage": 70,
+      "Power": 40,
+      "Wisdom": 50,
+      "Speed": 80,
+      "Energy": 60
+    }
   },
   "Malvadine": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Malvadine",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d7/Malvadine.png/revision/latest?cb=20210823160310",
-    "chaotic_hash": "OQF0WX25YEGM"
+    "chaotic_hash": "OQF0WX25YEGM",
+    "stats": {
+      "Courage": 50,
+      "Power": 75,
+      "Wisdom": 40,
+      "Speed": 55,
+      "Energy": 50
+    }
   },
   "Marquis Darini": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Marquis_Darini",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f4/Marquis_Darini.png/revision/latest?cb=20080607180752",
-    "chaotic_hash": "8X71FBUV3MIT"
+    "chaotic_hash": "8X71FBUV3MIT",
+    "stats": {
+      "Courage": 45,
+      "Power": 40,
+      "Wisdom": 65,
+      "Speed": 40,
+      "Energy": 40
+    }
   },
   "Melke": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Melke",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a6/Melke.png/revision/latest?cb=20190512050313",
-    "chaotic_hash": "U4YPOCX6IK59"
+    "chaotic_hash": "U4YPOCX6IK59",
+    "stats": {
+      "Courage": 60,
+      "Power": 30,
+      "Wisdom": 20,
+      "Speed": 65,
+      "Energy": 40
+    }
   },
   "Mizkio": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Mizkio",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/55/Mizkio.png/revision/latest?cb=20211026080111",
-    "chaotic_hash": "LEFMAWS63YP8"
+    "chaotic_hash": "LEFMAWS63YP8",
+    "stats": {
+      "Courage": 55,
+      "Power": 45,
+      "Wisdom": 40,
+      "Speed": 65,
+      "Energy": 45
+    }
   },
   "Munnari": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Munnari",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6d/Munnari.png/revision/latest?cb=20090707165042",
-    "chaotic_hash": "ALIUDOMVFSWX"
+    "chaotic_hash": "ALIUDOMVFSWX",
+    "stats": {
+      "Courage": 40,
+      "Power": 50,
+      "Wisdom": 50,
+      "Speed": 70,
+      "Energy": 35
+    }
   },
   "Na-inna": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Na-inna",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5f/Na-inna.png/revision/latest?cb=20210822223909",
-    "chaotic_hash": "ES19ZTMP3QCA"
+    "chaotic_hash": "ES19ZTMP3QCA",
+    "stats": {
+      "Courage": 60,
+      "Power": 20,
+      "Wisdom": 50,
+      "Speed": 50,
+      "Energy": 45
+    }
   },
   "Ninren": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ninren",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/ff/Ninren.png/revision/latest?cb=20210813220827",
-    "chaotic_hash": "UHGZ6MRL35DS"
+    "chaotic_hash": "UHGZ6MRL35DS",
+    "stats": {
+      "Courage": 90,
+      "Power": 90,
+      "Wisdom": 25,
+      "Speed": 150,
+      "Energy": 70
+    }
   },
   "Otinee": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Otinee",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d1/Otinee.png/revision/latest?cb=20090707154725",
-    "chaotic_hash": "5TK2WBMJVRFI"
+    "chaotic_hash": "5TK2WBMJVRFI",
+    "stats": {
+      "Courage": 35,
+      "Power": 40,
+      "Wisdom": 55,
+      "Speed": 65,
+      "Energy": 55
+    }
   },
   "Owayki": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Owayki",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/00/Owayki.png/revision/latest?cb=20210813220843",
-    "chaotic_hash": "YXIQ4FM1TV67"
+    "chaotic_hash": "YXIQ4FM1TV67",
+    "stats": {
+      "Courage": 40,
+      "Power": 50,
+      "Wisdom": 45,
+      "Speed": 85,
+      "Energy": 60
+    }
   },
   "Prince Mudeenu": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Prince_Mudeenu",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/49/Prince_Mudeenu.png/revision/latest?cb=20210813220857",
-    "chaotic_hash": "KRFAQE2CU74V"
+    "chaotic_hash": "KRFAQE2CU74V",
+    "stats": {
+      "Courage": 55,
+      "Power": 35,
+      "Wisdom": 70,
+      "Speed": 30,
+      "Energy": 45
+    }
   },
   "Qwun": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Qwun",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c2/Qwun.png/revision/latest?cb=20210813220914",
-    "chaotic_hash": "JMZ6K53CWXBQ"
+    "chaotic_hash": "JMZ6K53CWXBQ",
+    "stats": {
+      "Courage": 55,
+      "Power": 40,
+      "Wisdom": 55,
+      "Speed": 90,
+      "Energy": 35
+    }
   },
   "Ranun": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ranun",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/92/Ranun.png/revision/latest?cb=20210813220925",
-    "chaotic_hash": "DAGHK6WB4EFQ"
+    "chaotic_hash": "DAGHK6WB4EFQ",
+    "stats": {
+      "Courage": 45,
+      "Power": 25,
+      "Wisdom": 55,
+      "Speed": 45,
+      "Energy": 35
+    }
   },
   "Raquanni": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Raquanni",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b2/Raquanni.png/revision/latest?cb=20210813220927",
-    "chaotic_hash": "HADTJEFP7V4B"
+    "chaotic_hash": "HADTJEFP7V4B",
+    "stats": {
+      "Courage": 30,
+      "Power": 25,
+      "Wisdom": 80,
+      "Speed": 50,
+      "Energy": 45
+    }
   },
   "Rasbma Darini": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Rasbma_Darini",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/61/Rasbma_Darini.png/revision/latest?cb=20210813220928",
-    "chaotic_hash": "G42RL9OD6VWH"
+    "chaotic_hash": "G42RL9OD6VWH",
+    "stats": {
+      "Courage": 45,
+      "Power": 55,
+      "Wisdom": 50,
+      "Speed": 85,
+      "Energy": 55
+    }
   },
   "Ribbian": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ribbian",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/0a/Ribbian.png/revision/latest?cb=20210813220930",
-    "chaotic_hash": "3TUKFZQ6L9SH"
+    "chaotic_hash": "3TUKFZQ6L9SH",
+    "stats": {
+      "Courage": 45,
+      "Power": 50,
+      "Wisdom": 40,
+      "Speed": 45,
+      "Energy": 40
+    }
   },
   "Ruhban": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ruhban",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/11/Ruhban.png/revision/latest?cb=20090707165253",
-    "chaotic_hash": "HSWT2GEA3RIC"
+    "chaotic_hash": "HSWT2GEA3RIC",
+    "stats": {
+      "Courage": 30,
+      "Power": 45,
+      "Wisdom": 55,
+      "Speed": 85,
+      "Energy": 60
+    }
   },
   "Saand": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Saand",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/13/Saand.png/revision/latest?cb=20190512033725",
-    "chaotic_hash": "G8ZWROH9JQE0"
+    "chaotic_hash": "G8ZWROH9JQE0",
+    "stats": {
+      "Courage": 50,
+      "Power": 30,
+      "Wisdom": 50,
+      "Speed": 75,
+      "Energy": 50
+    }
   },
   "Savell": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Savell",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/18/Savell.png/revision/latest?cb=20210813220946",
-    "chaotic_hash": "TIUDOQ01YJZ8"
+    "chaotic_hash": "TIUDOQ01YJZ8",
+    "stats": {
+      "Courage": 25,
+      "Power": 30,
+      "Wisdom": 55,
+      "Speed": 60,
+      "Energy": 40
+    }
   },
   "Sepmek": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Sepmek",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d5/Sepmek.png/revision/latest?cb=20210813220948",
-    "chaotic_hash": "3ABGDL8CT2ZO"
+    "chaotic_hash": "3ABGDL8CT2ZO",
+    "stats": {
+      "Courage": 45,
+      "Power": 25,
+      "Wisdom": 60,
+      "Speed": 85,
+      "Energy": 45
+    }
   },
   "Shimmark": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Shimmark",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/75/Shimmark.png/revision/latest?cb=20210813220950",
-    "chaotic_hash": "8GPCUKDSWJ2L"
+    "chaotic_hash": "8GPCUKDSWJ2L",
+    "stats": {
+      "Courage": 60,
+      "Power": 50,
+      "Wisdom": 30,
+      "Speed": 70,
+      "Energy": 45
+    }
   },
   "Shinadd": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Shinadd",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4e/Shinadd.png/revision/latest?cb=20210813221003",
-    "chaotic_hash": "BAIZFTX2US86"
+    "chaotic_hash": "BAIZFTX2US86",
+    "stats": {
+      "Courage": 60,
+      "Power": 35,
+      "Wisdom": 30,
+      "Speed": 100,
+      "Energy": 40
+    }
   },
   "Silv, Servant of Air": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Silv,_Servant_of_Air",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/dc/Silv%2C_Servant_of_Air.png/revision/latest?cb=20210813221019",
-    "chaotic_hash": "KD9F05PRX2MO"
+    "chaotic_hash": "KD9F05PRX2MO",
+    "stats": {
+      "Courage": 40,
+      "Power": 35,
+      "Wisdom": 30,
+      "Speed": 85,
+      "Energy": 40
+    }
   },
   "Sirri": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Sirri",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4b/Sirri.png/revision/latest?cb=20210813221021",
-    "chaotic_hash": "2XOGWKM7HSFP"
+    "chaotic_hash": "2XOGWKM7HSFP",
+    "stats": {
+      "Courage": 50,
+      "Power": 50,
+      "Wisdom": 35,
+      "Speed": 80,
+      "Energy": 50
+    }
   },
   "Skerrel the Wise": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Skerrel_the_Wise",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2d/Skerrel_the_Wise.png/revision/latest?cb=20230504051009",
-    "chaotic_hash": "Y52BW6QSM4EH"
+    "chaotic_hash": "Y52BW6QSM4EH",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
   },
   "Sobtjek": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Sobtjek",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3a/Sobtjek.png/revision/latest?cb=20210813221032",
-    "chaotic_hash": "X1KPG8574WHC"
+    "chaotic_hash": "X1KPG8574WHC",
+    "stats": {
+      "Courage": 40,
+      "Power": 25,
+      "Wisdom": 65,
+      "Speed": 40,
+      "Energy": 30
+    }
   },
   "Taffial": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Taffial",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e6/Taffial.png/revision/latest?cb=20210813221048",
-    "chaotic_hash": "W34YMJ76HE1U"
+    "chaotic_hash": "W34YMJ76HE1U",
+    "stats": {
+      "Courage": 60,
+      "Power": 50,
+      "Wisdom": 60,
+      "Speed": 65,
+      "Energy": 45
+    }
   },
   "Tianne": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Tiaane",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f6/Tianne.png/revision/latest?cb=20090831220110",
-    "chaotic_hash": "QK3XDLP9VEO0"
+    "chaotic_hash": "QK3XDLP9VEO0",
+    "stats": {
+      "Courage": 60,
+      "Power": 30,
+      "Wisdom": 50,
+      "Speed": 30,
+      "Energy": 40
+    }
   },
   "Tinnoi": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Tinnoi",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/88/Tinnoi.png/revision/latest?cb=20210813221112",
-    "chaotic_hash": "LSVDQZ1T9HI3"
+    "chaotic_hash": "LSVDQZ1T9HI3",
+    "stats": {
+      "Courage": 40,
+      "Power": 60,
+      "Wisdom": 20,
+      "Speed": 60,
+      "Energy": 45
+    }
   },
   "Titanix": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Titanix",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5b/Titanix.png/revision/latest?cb=20210813221121",
-    "chaotic_hash": "P5KBZ9CJ32UO"
+    "chaotic_hash": "P5KBZ9CJ32UO",
+    "stats": {
+      "Courage": 75,
+      "Power": 50,
+      "Wisdom": 20,
+      "Speed": 75,
+      "Energy": 60
+    }
   },
   "Ubliqun": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Ubliqun",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2c/Ubliqun.png/revision/latest?cb=20210813221127",
-    "chaotic_hash": "FVS1GWMHRLZC"
+    "chaotic_hash": "FVS1GWMHRLZC",
+    "stats": {
+      "Courage": 35,
+      "Power": 45,
+      "Wisdom": 60,
+      "Speed": 60,
+      "Energy": 35
+    }
   },
   "Uboraan": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Uboraan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/16/Uboraan.png/revision/latest?cb=20210813221139",
-    "chaotic_hash": "GVX8AB1K7JZ4"
+    "chaotic_hash": "GVX8AB1K7JZ4",
+    "stats": {
+      "Courage": 50,
+      "Power": 75,
+      "Wisdom": 20,
+      "Speed": 75,
+      "Energy": 50
+    }
   },
   "Uro": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Uro",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/60/Uro.png/revision/latest?cb=20210813221141",
-    "chaotic_hash": "5MVE0UJYW8B9"
+    "chaotic_hash": "5MVE0UJYW8B9",
+    "stats": {
+      "Courage": 60,
+      "Power": 60,
+      "Wisdom": 40,
+      "Speed": 60,
+      "Energy": 45
+    }
   },
   "Vasquin": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Vasquin",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/8d/Vasquin.png/revision/latest?cb=20190415221014",
-    "chaotic_hash": "Y21RB8FMCVU3"
+    "chaotic_hash": "Y21RB8FMCVU3",
+    "stats": {
+      "Courage": 65,
+      "Power": 40,
+      "Wisdom": 85,
+      "Speed": 35,
+      "Energy": 55
+    }
   },
   "Vinta": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Vinta",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/dc/Vinta.png/revision/latest?cb=20210813221146",
-    "chaotic_hash": "DYREHG2JMBK8"
+    "chaotic_hash": "DYREHG2JMBK8",
+    "stats": {
+      "Courage": 40,
+      "Power": 60,
+      "Wisdom": 35,
+      "Speed": 40,
+      "Energy": 35
+    }
   },
   "Warriors of Owayki": {
     "type_card": "battlegear",
@@ -1233,1063 +2654,2302 @@
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Wistanne",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d0/Wistanne.png/revision/latest?cb=20210813221148",
-    "chaotic_hash": "68JTGM23PS7A"
+    "chaotic_hash": "68JTGM23PS7A",
+    "stats": {
+      "Courage": 30,
+      "Power": 45,
+      "Wisdom": 45,
+      "Speed": 50,
+      "Energy": 40
+    }
   },
   "Xelfe": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Xelfe",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/21/Xelfe.png/revision/latest?cb=20210813221158",
-    "chaotic_hash": "KROA4IXE0DFU"
+    "chaotic_hash": "KROA4IXE0DFU",
+    "stats": {
+      "Courage": 50,
+      "Power": 40,
+      "Wisdom": 35,
+      "Speed": 80,
+      "Energy": 40
+    }
   },
   "Yterio": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Yterio",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e9/Yterio.png/revision/latest?cb=20090707170027",
-    "chaotic_hash": "ZA8P0EDWRV7U"
+    "chaotic_hash": "ZA8P0EDWRV7U",
+    "stats": {
+      "Courage": 80,
+      "Power": 60,
+      "Wisdom": 40,
+      "Speed": 50,
+      "Energy": 55
+    }
   },
   "Zhade": {
     "type_card": "mipedians",
     "parent_link": "https://chaotic.fandom.com/wiki/Zhade",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/82/Zhade.png/revision/latest?cb=20210813221204",
-    "chaotic_hash": "345OQ7USAM6L"
+    "chaotic_hash": "345OQ7USAM6L",
+    "stats": {
+      "Courage": 65,
+      "Power": 60,
+      "Wisdom": 40,
+      "Speed": 60,
+      "Energy": 30
+    }
   },
   "Accato": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Accato",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/26/Accato.png/revision/latest?cb=20210813215709",
-    "chaotic_hash": "W0Z3SY4RFKO2"
+    "chaotic_hash": "W0Z3SY4RFKO2",
+    "stats": {
+      "Courage": 55,
+      "Power": 45,
+      "Wisdom": 70,
+      "Speed": 35,
+      "Energy": 65
+    }
   },
   "Afjak": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Afjak",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/37/Afjak.png/revision/latest?cb=20210813215710",
-    "chaotic_hash": "1G7WD3BEXTZV"
+    "chaotic_hash": "1G7WD3BEXTZV",
+    "stats": {
+      "Courage": 80,
+      "Power": 40,
+      "Wisdom": 65,
+      "Speed": 30,
+      "Energy": 30
+    }
   },
   "Akkerbal": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Akkerbal",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2f/Akkerbal.png/revision/latest?cb=20210813215729",
-    "chaotic_hash": "1KYJW375SR60"
+    "chaotic_hash": "1KYJW375SR60",
+    "stats": {
+      "Courage": 60,
+      "Power": 30,
+      "Wisdom": 75,
+      "Speed": 55,
+      "Energy": 45
+    }
   },
   "Akkrean": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Akkrean",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/22/Akkrean.png/revision/latest?cb=20210813215731",
-    "chaotic_hash": "1AQOFZ2KLI7V"
+    "chaotic_hash": "1AQOFZ2KLI7V",
+    "stats": {
+      "Courage": 40,
+      "Power": 40,
+      "Wisdom": 70,
+      "Speed": 45,
+      "Energy": 35
+    }
   },
   "Antidaeon": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Antidaeon",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e3/Antidaeon.png/revision/latest?cb=20210813215732",
-    "chaotic_hash": "86LM0FVO7C3A"
+    "chaotic_hash": "86LM0FVO7C3A",
+    "stats": {
+      "Courage": 35,
+      "Power": 60,
+      "Wisdom": 40,
+      "Speed": 70,
+      "Energy": 40
+    }
   },
   "Arbeid": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Arbeid",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/8e/Arbeid.png/revision/latest?cb=20210813215734",
-    "chaotic_hash": "O7FEV0X69MBR"
+    "chaotic_hash": "O7FEV0X69MBR",
+    "stats": {
+      "Courage": 45,
+      "Power": 30,
+      "Wisdom": 50,
+      "Speed": 35,
+      "Energy": 35
+    }
   },
   "Arctus, Heptadd's Squire": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Arctus",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/63/Arctus%2C_Heptadd%27s_Squire.png/revision/latest?cb=20211227061105",
-    "chaotic_hash": "FMZJD78BWHKE"
+    "chaotic_hash": "FMZJD78BWHKE",
+    "stats": {
+      "Courage": 100,
+      "Power": 50,
+      "Wisdom": 75,
+      "Speed": 40,
+      "Energy": 60
+    }
   },
   "Arias": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Arias",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/27/Arias.png/revision/latest?cb=20210813215735",
-    "chaotic_hash": "865IX94QV7E3"
+    "chaotic_hash": "865IX94QV7E3",
+    "stats": {
+      "Courage": 55,
+      "Power": 65,
+      "Wisdom": 30,
+      "Speed": 55,
+      "Energy": 50
+    }
   },
   "Arrthoa": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Arrthoa",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/22/Arrthoa.png/revision/latest?cb=20120424004529",
-    "chaotic_hash": "Q7OT136WPDEV"
+    "chaotic_hash": "Q7OT136WPDEV",
+    "stats": {
+      "Courage": 65,
+      "Power": 50,
+      "Wisdom": 65,
+      "Speed": 60,
+      "Energy": 60
+    }
   },
   "Attacat": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Attacat",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/85/Attacat.png/revision/latest?cb=20210904015414",
-    "chaotic_hash": "BJP60TIYR1VQ"
+    "chaotic_hash": "BJP60TIYR1VQ",
+    "stats": {
+      "Courage": 30,
+      "Power": 65,
+      "Wisdom": 60,
+      "Speed": 105,
+      "Energy": 50
+    }
   },
   "Biakan": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Biakan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d3/Biakan.png/revision/latest?cb=20210813215745",
-    "chaotic_hash": "0H7TE8Y1OJG6"
+    "chaotic_hash": "0H7TE8Y1OJG6",
+    "stats": {
+      "Courage": 55,
+      "Power": 45,
+      "Wisdom": 75,
+      "Speed": 40,
+      "Energy": 50
+    }
   },
   "Bidua": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Bidua",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4a/Bidua.png/revision/latest?cb=20210813215747",
-    "chaotic_hash": "LDB7OUQMHT5V"
+    "chaotic_hash": "LDB7OUQMHT5V",
+    "stats": {
+      "Courage": 70,
+      "Power": 30,
+      "Wisdom": 70,
+      "Speed": 85,
+      "Energy": 55
+    }
   },
   "Blazier": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Blazier",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/7e/Blazier.png/revision/latest?cb=20210813215802",
-    "chaotic_hash": "3GIM1JLWR7BA"
+    "chaotic_hash": "3GIM1JLWR7BA",
+    "stats": {
+      "Courage": 35,
+      "Power": 40,
+      "Wisdom": 60,
+      "Speed": 25,
+      "Energy": 40
+    }
   },
   "Bodal": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Bodal",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c3/Bodal.png/revision/latest?cb=20210813215813",
-    "chaotic_hash": "JBMADX6C34Y9"
+    "chaotic_hash": "JBMADX6C34Y9",
+    "stats": {
+      "Courage": 40,
+      "Power": 40,
+      "Wisdom": 80,
+      "Speed": 60,
+      "Energy": 45
+    }
   },
   "Clodor": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Clodor",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a4/Clodor.png/revision/latest?cb=20210813215814",
-    "chaotic_hash": "LHK8WS3QG4ZE"
+    "chaotic_hash": "LHK8WS3QG4ZE",
+    "stats": {
+      "Courage": 40,
+      "Power": 55,
+      "Wisdom": 95,
+      "Speed": 35,
+      "Energy": 50
+    }
   },
   "Crawsectus": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Crawsectus",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/49/Crawsectus.png/revision/latest?cb=20210813215815",
-    "chaotic_hash": "DXH36YMBVE04"
+    "chaotic_hash": "DXH36YMBVE04",
+    "stats": {
+      "Courage": 60,
+      "Power": 45,
+      "Wisdom": 40,
+      "Speed": 25,
+      "Energy": 50
+    }
   },
   "Dalgad": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Dalgad",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e8/Dalgad.png/revision/latest?cb=20210813215817",
-    "chaotic_hash": "4HSWQ2FBIGD6"
+    "chaotic_hash": "4HSWQ2FBIGD6",
+    "stats": {
+      "Courage": 50,
+      "Power": 70,
+      "Wisdom": 75,
+      "Speed": 40,
+      "Energy": 60
+    }
   },
   "Donmar": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Donmar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/7b/Donmar.png/revision/latest?cb=20210813215818",
-    "chaotic_hash": "URVPQGDZO5F8"
+    "chaotic_hash": "URVPQGDZO5F8",
+    "stats": {
+      "Courage": 45,
+      "Power": 65,
+      "Wisdom": 65,
+      "Speed": 50,
+      "Energy": 45
+    }
   },
   "Drabe": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Drabe",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5e/Drabe.png/revision/latest?cb=20210813215821",
-    "chaotic_hash": "Z5SRQ1TOL3GW"
+    "chaotic_hash": "Z5SRQ1TOL3GW",
+    "stats": {
+      "Courage": 55,
+      "Power": 30,
+      "Wisdom": 65,
+      "Speed": 35,
+      "Energy": 50
+    }
   },
   "Dractyl": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Dractyl",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/7f/Dractyl.png/revision/latest?cb=20211227062304",
-    "chaotic_hash": "HCEMRK1DOT0X"
+    "chaotic_hash": "HCEMRK1DOT0X",
+    "stats": {
+      "Courage": 25,
+      "Power": 70,
+      "Wisdom": 50,
+      "Speed": 75,
+      "Energy": 40
+    }
   },
   "Ebkeex, Patchwork Minion": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Ebkeex,_Patchwork_Minion",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b6/Ebkeex%2C_Patchwork_Minion.png/revision/latest?cb=20210813215828",
-    "chaotic_hash": "XWS2TI4AD81G"
+    "chaotic_hash": "XWS2TI4AD81G",
+    "stats": {
+      "Courage": 65,
+      "Power": 40,
+      "Wisdom": 80,
+      "Speed": 80,
+      "Energy": 60
+    }
   },
   "Eremia": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Eremia",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/59/Eremia.png/revision/latest?cb=20210813215829",
-    "chaotic_hash": "APXILKCWTU4V"
+    "chaotic_hash": "APXILKCWTU4V",
+    "stats": {
+      "Courage": 70,
+      "Power": 60,
+      "Wisdom": 65,
+      "Speed": 45,
+      "Energy": 60
+    }
   },
   "Ettala": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Ettala",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2e/Ettala.png/revision/latest?cb=20210813215833",
-    "chaotic_hash": "3WCF01YMZ4TB"
+    "chaotic_hash": "3WCF01YMZ4TB",
+    "stats": {
+      "Courage": 50,
+      "Power": 50,
+      "Wisdom": 20,
+      "Speed": 30,
+      "Energy": 35
+    }
   },
   "Frafdo": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Frafdo",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b1/Frafdo.png/revision/latest?cb=20210813215834",
-    "chaotic_hash": "74IW90GXTF6E"
+    "chaotic_hash": "74IW90GXTF6E",
+    "stats": {
+      "Courage": 85,
+      "Power": 80,
+      "Wisdom": 45,
+      "Speed": 75,
+      "Energy": 35
+    }
   },
   "Garv": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Garv",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4a/Garv.png/revision/latest?cb=20210813215838",
-    "chaotic_hash": "C0W6YO8PADVM"
+    "chaotic_hash": "C0W6YO8PADVM",
+    "stats": {
+      "Courage": 50,
+      "Power": 25,
+      "Wisdom": 75,
+      "Speed": 30,
+      "Energy": 55
+    }
   },
   "Gespedan": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Gespedan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/9b/Gespedan.png/revision/latest?cb=20210813215839",
-    "chaotic_hash": "I3597W4VGUKT"
+    "chaotic_hash": "I3597W4VGUKT",
+    "stats": {
+      "Courage": 45,
+      "Power": 50,
+      "Wisdom": 35,
+      "Speed": 100,
+      "Energy": 35
+    }
   },
   "Gimwei": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Gimwei",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e9/Gimwei.png/revision/latest?cb=20210813215841",
-    "chaotic_hash": "2MTB1UPKY9EA"
+    "chaotic_hash": "2MTB1UPKY9EA",
+    "stats": {
+      "Courage": 70,
+      "Power": 40,
+      "Wisdom": 85,
+      "Speed": 35,
+      "Energy": 60
+    }
   },
   "Grindaald": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Grindaald",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/ac/Grindaald.png/revision/latest?cb=20210813215844",
-    "chaotic_hash": "K5BHZYOC610S"
+    "chaotic_hash": "K5BHZYOC610S",
+    "stats": {
+      "Courage": 25,
+      "Power": 35,
+      "Wisdom": 60,
+      "Speed": 40,
+      "Energy": 35
+    }
   },
   "Gronmor": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Gronmor",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/bc/Gronmor.png/revision/latest?cb=20120322161540",
-    "chaotic_hash": "97GZ5FPJ4HY6"
+    "chaotic_hash": "97GZ5FPJ4HY6",
+    "stats": {
+      "Courage": 75,
+      "Power": 50,
+      "Wisdom": 80,
+      "Speed": 50,
+      "Energy": 60
+    }
   },
   "Herken": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Herken",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/ca/Herken.png/revision/latest?cb=20210813215909",
-    "chaotic_hash": "W5GQBJD29L7Z"
+    "chaotic_hash": "W5GQBJD29L7Z",
+    "stats": {
+      "Courage": 60,
+      "Power": 25,
+      "Wisdom": 75,
+      "Speed": 30,
+      "Energy": 50
+    }
   },
   "Hifdan": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Hifdan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/18/Hifdan.png/revision/latest?cb=20210813215910",
-    "chaotic_hash": "AVRFWGT8CMLS"
+    "chaotic_hash": "AVRFWGT8CMLS",
+    "stats": {
+      "Courage": 50,
+      "Power": 25,
+      "Wisdom": 35,
+      "Speed": 35,
+      "Energy": 40
+    }
   },
   "Hoton": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Hoton",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b1/Hoton.png/revision/latest?cb=20210813215912",
-    "chaotic_hash": "OYC17R3Z92PL"
+    "chaotic_hash": "OYC17R3Z92PL",
+    "stats": {
+      "Courage": 50,
+      "Power": 25,
+      "Wisdom": 80,
+      "Speed": 35,
+      "Energy": 40
+    }
   },
   "Hune Canin": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Hune_Canin",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/33/Hune_Canin.png/revision/latest?cb=20210813215913",
-    "chaotic_hash": "R8AFIE4HSPKW"
+    "chaotic_hash": "R8AFIE4HSPKW",
+    "stats": {
+      "Courage": 60,
+      "Power": 50,
+      "Wisdom": 75,
+      "Speed": 30,
+      "Energy": 35
+    }
   },
   "Hune Marquard": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Hune_Marquard",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/86/Hune_Marquard.png/revision/latest?cb=20210813215916",
-    "chaotic_hash": "IV06KGUXHFJP"
+    "chaotic_hash": "IV06KGUXHFJP",
+    "stats": {
+      "Courage": 40,
+      "Power": 35,
+      "Wisdom": 65,
+      "Speed": 50,
+      "Energy": 30
+    }
   },
   "Hune Paltanin": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Hune_Paltanin",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f2/Hune_Paltanin.png/revision/latest?cb=20210813215918",
-    "chaotic_hash": "OSU4K925XQJI"
+    "chaotic_hash": "OSU4K925XQJI",
+    "stats": {
+      "Courage": 75,
+      "Power": 15,
+      "Wisdom": 110,
+      "Speed": 15,
+      "Energy": 40
+    }
   },
   "Ikkatosh, Guardian of Nature": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Ikkatosh",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6f/Ikkatosh%2C_Guardian_of_Nature.png/revision/latest?cb=20210813215929",
-    "chaotic_hash": "EFQJ2VRW4IM6"
+    "chaotic_hash": "EFQJ2VRW4IM6",
+    "stats": {
+      "Courage": 45,
+      "Power": 35,
+      "Wisdom": 85,
+      "Speed": 60,
+      "Energy": 55
+    }
   },
   "Illiar": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Illiar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5f/Illiar.png/revision/latest?cb=20210813215932",
-    "chaotic_hash": "I5SVQF2J8UK9"
+    "chaotic_hash": "I5SVQF2J8UK9",
+    "stats": {
+      "Courage": 70,
+      "Power": 40,
+      "Wisdom": 80,
+      "Speed": 60,
+      "Energy": 55
+    }
   },
   "Intress": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Intress",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/79/Intress.png/revision/latest?cb=20210819032929",
-    "chaotic_hash": "8PIDXC7210AG"
+    "chaotic_hash": "8PIDXC7210AG",
+    "stats": {
+      "Courage": 40,
+      "Power": 35,
+      "Wisdom": 40,
+      "Speed": 55,
+      "Energy": 40
+    }
   },
   "Iparu": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Iparu",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/58/Iparu.png/revision/latest?cb=20210813215948",
-    "chaotic_hash": "CBP8KJOSQFAD"
+    "chaotic_hash": "CBP8KJOSQFAD",
+    "stats": {
+      "Courage": 25,
+      "Power": 25,
+      "Wisdom": 25,
+      "Speed": 25,
+      "Energy": 50
+    }
   },
   "Issaley": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Issaley",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/28/Issaley.png/revision/latest?cb=20210813220004",
-    "chaotic_hash": "UD26B74LWFVJ"
+    "chaotic_hash": "UD26B74LWFVJ",
+    "stats": {
+      "Courage": 60,
+      "Power": 50,
+      "Wisdom": 75,
+      "Speed": 40,
+      "Energy": 55
+    }
   },
   "Jaidwarl": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Jaidwarl",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/ef/Jaidwarl.png/revision/latest?cb=20210813220016",
-    "chaotic_hash": "7M012JRFQWEU"
+    "chaotic_hash": "7M012JRFQWEU",
+    "stats": {
+      "Courage": 45,
+      "Power": 45,
+      "Wisdom": 70,
+      "Speed": 30,
+      "Energy": 50
+    }
   },
   "Kalt": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Kalt",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4f/Kalt.png/revision/latest?cb=20210813220018",
-    "chaotic_hash": "2LC3PK8XGVBE"
+    "chaotic_hash": "2LC3PK8XGVBE",
+    "stats": {
+      "Courage": 55,
+      "Power": 30,
+      "Wisdom": 35,
+      "Speed": 40,
+      "Energy": 40
+    }
   },
   "Karraba": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Karraba",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/9b/Karraba.png/revision/latest?cb=20210813220019",
-    "chaotic_hash": "QYRVG5A7XCUZ"
+    "chaotic_hash": "QYRVG5A7XCUZ",
+    "stats": {
+      "Courage": 60,
+      "Power": 30,
+      "Wisdom": 40,
+      "Speed": 40,
+      "Energy": 35
+    }
   },
   "Kinnianne, Ambassador to the Mipedians": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Kinnianne",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/1d/Kinnianne%2C_Ambassador_to_the_Mipedians.png/revision/latest?cb=20210813220021",
-    "chaotic_hash": "28RDE9TGHM4A"
+    "chaotic_hash": "28RDE9TGHM4A",
+    "stats": {
+      "Courage": 60,
+      "Power": 35,
+      "Wisdom": 65,
+      "Speed": 60,
+      "Energy": 50
+    }
   },
   "Kiru": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Kiru",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/0a/Kiru.png/revision/latest?cb=20210812222359",
-    "chaotic_hash": "GVE6M7JBLDFT"
+    "chaotic_hash": "GVE6M7JBLDFT",
+    "stats": {
+      "Courage": 70,
+      "Power": 90,
+      "Wisdom": 40,
+      "Speed": 75,
+      "Energy": 55
+    }
   },
   "Korg": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Korg",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/93/Korg.png/revision/latest?cb=20210813220022",
-    "chaotic_hash": "DZ8G0R1OUH6W"
+    "chaotic_hash": "DZ8G0R1OUH6W",
+    "stats": {
+      "Courage": 60,
+      "Power": 35,
+      "Wisdom": 70,
+      "Speed": 25,
+      "Energy": 35
+    }
   },
   "Laarina": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Laarina",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3e/Laarina.png/revision/latest?cb=20210813220023",
-    "chaotic_hash": "A72U6FGT0LED"
+    "chaotic_hash": "A72U6FGT0LED",
+    "stats": {
+      "Courage": 35,
+      "Power": 20,
+      "Wisdom": 50,
+      "Speed": 30,
+      "Energy": 30
+    }
   },
   "Loderool": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Loderool",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/8f/Loderool.png/revision/latest?cb=20120904175615",
-    "chaotic_hash": "YW5362IHCDR0"
+    "chaotic_hash": "YW5362IHCDR0",
+    "stats": {
+      "Courage": 65,
+      "Power": 70,
+      "Wisdom": 50,
+      "Speed": 30,
+      "Energy": 55
+    }
   },
   "Lomma": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Lomma",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/92/Lomma.png/revision/latest?cb=20210813220029",
-    "chaotic_hash": "MBHEZQXSF2TJ"
+    "chaotic_hash": "MBHEZQXSF2TJ",
+    "stats": {
+      "Courage": 55,
+      "Power": 50,
+      "Wisdom": 60,
+      "Speed": 35,
+      "Energy": 40
+    }
   },
   "Lystone": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Lystone",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/34/Lystone.png/revision/latest?cb=20210813220040",
-    "chaotic_hash": "UT9MHV0J3W7G"
+    "chaotic_hash": "UT9MHV0J3W7G",
+    "stats": {
+      "Courage": 25,
+      "Power": 30,
+      "Wisdom": 60,
+      "Speed": 25,
+      "Energy": 30
+    }
   },
   "Maglax": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Maglax",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a2/Maglax.png/revision/latest?cb=20210813220053",
-    "chaotic_hash": "2I58BFD6JT79"
+    "chaotic_hash": "2I58BFD6JT79",
+    "stats": {
+      "Courage": 70,
+      "Power": 60,
+      "Wisdom": 25,
+      "Speed": 30,
+      "Energy": 40
+    }
   },
   "Mezzmarr": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Mezzmarr",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/16/Mezzmarr.png/revision/latest?cb=20210813220116",
-    "chaotic_hash": "1OEX065TSYW8"
+    "chaotic_hash": "1OEX065TSYW8",
+    "stats": {
+      "Courage": 30,
+      "Power": 55,
+      "Wisdom": 55,
+      "Speed": 55,
+      "Energy": 45
+    }
   },
   "Mommark": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Mommark",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/98/Mommark.png/revision/latest?cb=20210813220119",
-    "chaotic_hash": "ZEQSKU3TV6HR"
+    "chaotic_hash": "ZEQSKU3TV6HR",
+    "stats": {
+      "Courage": 50,
+      "Power": 20,
+      "Wisdom": 45,
+      "Speed": 35,
+      "Energy": 30
+    }
   },
   "Najarin": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Najarin",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6a/Najarin.png/revision/latest?cb=20210813220127",
-    "chaotic_hash": "S5QBGVLX4IMH"
+    "chaotic_hash": "S5QBGVLX4IMH",
+    "stats": {
+      "Courage": 60,
+      "Power": 30,
+      "Wisdom": 90,
+      "Speed": 35,
+      "Energy": 30
+    }
   },
   "Nebres": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Nebres",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/57/Nebres.png/revision/latest?cb=20210813220134",
-    "chaotic_hash": "4HCJ2XM5PF3Z"
+    "chaotic_hash": "4HCJ2XM5PF3Z",
+    "stats": {
+      "Courage": 70,
+      "Power": 80,
+      "Wisdom": 45,
+      "Speed": 50,
+      "Energy": 50
+    }
   },
   "Neffa": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Neffa",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/ca/Neffa.png/revision/latest?cb=20210813220147",
-    "chaotic_hash": "B98GHZAUV6EP"
+    "chaotic_hash": "B98GHZAUV6EP",
+    "stats": {
+      "Courage": 50,
+      "Power": 25,
+      "Wisdom": 80,
+      "Speed": 35,
+      "Energy": 40
+    }
   },
   "Okaxor": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Okaxor",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/bd/Okaxor.png/revision/latest?cb=20140330172626",
-    "chaotic_hash": "4OAVD5R76ECB"
+    "chaotic_hash": "4OAVD5R76ECB",
+    "stats": {
+      "Courage": 45,
+      "Power": 25,
+      "Wisdom": 75,
+      "Speed": 30,
+      "Energy": 40
+    }
   },
   "Olkiex": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Olkiex",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/66/Olkiex.png/revision/latest?cb=20210813220155",
-    "chaotic_hash": "E24DAK3W8LPQ"
+    "chaotic_hash": "E24DAK3W8LPQ",
+    "stats": {
+      "Courage": 40,
+      "Power": 65,
+      "Wisdom": 70,
+      "Speed": 30,
+      "Energy": 50
+    }
   },
   "Owis": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Owis",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/fa/Owis.png/revision/latest?cb=20210813220158",
-    "chaotic_hash": "HZS7QV9X1T25"
+    "chaotic_hash": "HZS7QV9X1T25",
+    "stats": {
+      "Courage": 60,
+      "Power": 25,
+      "Wisdom": 55,
+      "Speed": 30,
+      "Energy": 45
+    }
   },
   "Porthyn": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Porthyn",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/37/Porthyn.png/revision/latest?cb=20210813220213",
-    "chaotic_hash": "YVWIZHFDTOLK"
+    "chaotic_hash": "YVWIZHFDTOLK",
+    "stats": {
+      "Courage": 90,
+      "Power": 50,
+      "Wisdom": 60,
+      "Speed": 50,
+      "Energy": 55
+    }
   },
   "Prantix": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Prantix",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/40/Prantix.png/revision/latest?cb=20210813220215",
-    "chaotic_hash": "P0EVWYQI9DM8"
+    "chaotic_hash": "P0EVWYQI9DM8",
+    "stats": {
+      "Courage": 40,
+      "Power": 50,
+      "Wisdom": 30,
+      "Speed": 40,
+      "Energy": 30
+    }
   },
   "Psimion": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Psimion",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/83/Psimion.png/revision/latest?cb=20210813220217",
-    "chaotic_hash": "PS0IT6FOAV9G"
+    "chaotic_hash": "PS0IT6FOAV9G",
+    "stats": {
+      "Courage": 45,
+      "Power": 30,
+      "Wisdom": 55,
+      "Speed": 40,
+      "Energy": 45
+    }
   },
   "Quadore": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Quadore",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/16/Quadore.png/revision/latest?cb=20210813220218",
-    "chaotic_hash": "8C23RZTB4VYS"
+    "chaotic_hash": "8C23RZTB4VYS",
+    "stats": {
+      "Courage": 60,
+      "Power": 20,
+      "Wisdom": 65,
+      "Speed": 60,
+      "Energy": 40
+    }
   },
   "Quisk": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Quisk",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f9/Quisk.png/revision/latest?cb=20081009053824",
-    "chaotic_hash": "AY0U3ES6VIH7"
+    "chaotic_hash": "AY0U3ES6VIH7",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
   },
   "Raimusa": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Raimusa",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4b/Raimusa.png/revision/latest?cb=20211029053730",
-    "chaotic_hash": "WA2USJQPGOBC"
+    "chaotic_hash": "WA2USJQPGOBC",
+    "stats": {
+      "Courage": 60,
+      "Power": 65,
+      "Wisdom": 40,
+      "Speed": 45,
+      "Energy": 50
+    }
   },
   "Rav": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Rav",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/8c/Rav.png/revision/latest?cb=20210816182740",
-    "chaotic_hash": "AU48S3C9QOHR"
+    "chaotic_hash": "AU48S3C9QOHR",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
   },
   "Rellim": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Rellim",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/39/Rellim.png/revision/latest?cb=20210813220225",
-    "chaotic_hash": "PAJQG7YV23MH"
+    "chaotic_hash": "PAJQG7YV23MH",
+    "stats": {
+      "Courage": 50,
+      "Power": 65,
+      "Wisdom": 60,
+      "Speed": 40,
+      "Energy": 50
+    }
   },
   "Silchaw": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Silchaw",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/75/Silchaw.png/revision/latest?cb=20210813220236",
-    "chaotic_hash": "VXUYQFLG916E"
+    "chaotic_hash": "VXUYQFLG916E",
+    "stats": {
+      "Courage": 80,
+      "Power": 40,
+      "Wisdom": 60,
+      "Speed": 30,
+      "Energy": 60
+    }
   },
   "Simalin": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Simalin",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b9/Simalin.png/revision/latest?cb=20210813220238",
-    "chaotic_hash": "MQP1DOG3UY8T"
+    "chaotic_hash": "MQP1DOG3UY8T",
+    "stats": {
+      "Courage": 70,
+      "Power": 50,
+      "Wisdom": 40,
+      "Speed": 60,
+      "Energy": 45
+    }
   },
   "Slurhk": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Slurhk",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/98/Slurhk.png/revision/latest?cb=20211227055645",
-    "chaotic_hash": "XOY8IH3K9SWQ"
+    "chaotic_hash": "XOY8IH3K9SWQ",
+    "stats": {
+      "Courage": 45,
+      "Power": 35,
+      "Wisdom": 35,
+      "Speed": 40,
+      "Energy": 50
+    }
   },
   "Somnort": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Somnort",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f4/Somnort.png/revision/latest?cb=20161117034359",
-    "chaotic_hash": "ZQ73R50F69I8"
+    "chaotic_hash": "ZQ73R50F69I8",
+    "stats": {
+      "Courage": 60,
+      "Power": 30,
+      "Wisdom": 65,
+      "Speed": 45,
+      "Energy": 55
+    }
   },
   "Staluk": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Staluk",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3d/Staluk.png/revision/latest?cb=20210813220254",
-    "chaotic_hash": "L3R6XF2MO8D9"
+    "chaotic_hash": "L3R6XF2MO8D9",
+    "stats": {
+      "Courage": 35,
+      "Power": 45,
+      "Wisdom": 25,
+      "Speed": 40,
+      "Energy": 50
+    }
   },
   "Sukoval": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Sukoval",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/40/Sukoval.png/revision/latest?cb=20110810172108",
-    "chaotic_hash": "S0JGI8TR6WCU"
+    "chaotic_hash": "S0JGI8TR6WCU",
+    "stats": {
+      "Courage": 30,
+      "Power": 55,
+      "Wisdom": 80,
+      "Speed": 55,
+      "Energy": 45
+    }
   },
   "Tangath Toborn": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Tangath_Toborn",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/79/Tangath_Toborn.png/revision/latest?cb=20210813220302",
-    "chaotic_hash": "8F4CPVI5JS2G"
+    "chaotic_hash": "8F4CPVI5JS2G",
+    "stats": {
+      "Courage": 40,
+      "Power": 45,
+      "Wisdom": 40,
+      "Speed": 30,
+      "Energy": 30
+    }
   },
   "Targubaj": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Targubaj",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a0/Targubaj.png/revision/latest?cb=20210813220306",
-    "chaotic_hash": "JE0SF64U3VXC"
+    "chaotic_hash": "JE0SF64U3VXC",
+    "stats": {
+      "Courage": 45,
+      "Power": 55,
+      "Wisdom": 65,
+      "Speed": 50,
+      "Energy": 45
+    }
   },
   "Tartarek": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Tartarek",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f1/Tartarek.png/revision/latest?cb=20180408001158",
-    "chaotic_hash": "YJCMQAV1K784"
+    "chaotic_hash": "YJCMQAV1K784",
+    "stats": {
+      "Courage": 90,
+      "Power": 45,
+      "Wisdom": 90,
+      "Speed": 25,
+      "Energy": 35
+    }
   },
   "Trimdaal": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Trimdaal",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/74/Trimdaal.png/revision/latest?cb=20140315231706",
-    "chaotic_hash": "Q6F4EY0Z3BKU"
+    "chaotic_hash": "Q6F4EY0Z3BKU",
+    "stats": {
+      "Courage": 45,
+      "Power": 50,
+      "Wisdom": 80,
+      "Speed": 40,
+      "Energy": 45
+    }
   },
   "Ulfhedinn": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Ulfhedinn",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/57/Ulfhedinn.png/revision/latest?cb=20210813220314",
-    "chaotic_hash": "14P5SXZ0L283"
+    "chaotic_hash": "14P5SXZ0L283",
+    "stats": {
+      "Courage": 70,
+      "Power": 80,
+      "Wisdom": 45,
+      "Speed": 50,
+      "Energy": 50
+    }
   },
   "Unda, Servant of Water": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Unda,_Servant_of_Water",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/ad/Unda%2C_Servant_of_Water.png/revision/latest?cb=20210813220315",
-    "chaotic_hash": "Q17J46MLHFED"
+    "chaotic_hash": "Q17J46MLHFED",
+    "stats": {
+      "Courage": 55,
+      "Power": 35,
+      "Wisdom": 80,
+      "Speed": 45,
+      "Energy": 40
+    }
   },
   "Unkown Dwarf Creature": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Unkown_Dwarf_Creature",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c1/Unkown_Dwarf_Creature.png/revision/latest?cb=20230429074107",
-    "chaotic_hash": "FB2X9DHITO4M"
+    "chaotic_hash": "FB2X9DHITO4M",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
   },
   "Velreth": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Velreth",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/de/Velreth.png/revision/latest?cb=20210813220317",
-    "chaotic_hash": "A6BK2OTYHGML"
+    "chaotic_hash": "A6BK2OTYHGML",
+    "stats": {
+      "Courage": 55,
+      "Power": 80,
+      "Wisdom": 40,
+      "Speed": 25,
+      "Energy": 45
+    }
   },
   "Vidav": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Vidav_Master_Strategist",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/1b/Vidav.png/revision/latest?cb=20210813220320",
-    "chaotic_hash": "4ZS0H5I6WREA"
+    "chaotic_hash": "4ZS0H5I6WREA",
+    "stats": {
+      "Courage": 45,
+      "Power": 30,
+      "Wisdom": 50,
+      "Speed": 35,
+      "Energy": 35
+    }
   },
   "Viqtarr": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Viqtarr",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/76/Viqtarr.png/revision/latest?cb=20210813220322",
-    "chaotic_hash": "4X7LEQ1U856I"
+    "chaotic_hash": "4X7LEQ1U856I",
+    "stats": {
+      "Courage": 75,
+      "Power": 45,
+      "Wisdom": 75,
+      "Speed": 35,
+      "Energy": 40
+    }
   },
   "Wrenges": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Wrenges",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/83/Wrenges.png/revision/latest?cb=20210813220349",
-    "chaotic_hash": "39JZRDFW2MP6"
+    "chaotic_hash": "39JZRDFW2MP6",
+    "stats": {
+      "Courage": 30,
+      "Power": 25,
+      "Wisdom": 45,
+      "Speed": 40,
+      "Energy": 35
+    }
   },
   "Wytod": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Wytod",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/16/Wytod.png/revision/latest?cb=20210813220401",
-    "chaotic_hash": "EPTFQ2LS31VZ"
+    "chaotic_hash": "EPTFQ2LS31VZ",
+    "stats": {
+      "Courage": 50,
+      "Power": 25,
+      "Wisdom": 55,
+      "Speed": 30,
+      "Energy": 40
+    }
   },
   "Xaerv": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Xaerv",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/37/Xaerv.png/revision/latest?cb=20210813220407",
-    "chaotic_hash": "3E549A7POHTS"
+    "chaotic_hash": "3E549A7POHTS",
+    "stats": {
+      "Courage": 40,
+      "Power": 25,
+      "Wisdom": 45,
+      "Speed": 60,
+      "Energy": 30
+    }
   },
   "Yokkis": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Yokkis",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/02/Yokkis.png/revision/latest?cb=20210813220421",
-    "chaotic_hash": "Q81CIJTB4Y62"
+    "chaotic_hash": "Q81CIJTB4Y62",
+    "stats": {
+      "Courage": 20,
+      "Power": 20,
+      "Wisdom": 20,
+      "Speed": 20,
+      "Energy": 50
+    }
   },
   "Zalic": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Zalic",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/da/Zalic.png/revision/latest?cb=20211015091051",
-    "chaotic_hash": "IMUX380R6TPZ"
+    "chaotic_hash": "IMUX380R6TPZ",
+    "stats": {
+      "Courage": 45,
+      "Power": 55,
+      "Wisdom": 40,
+      "Speed": 40,
+      "Energy": 45
+    }
   },
   "Orth, The Empowerer": {
     "type_card": "overworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/%C3%98rth",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b0/%C3%98rth%2C_The_Empowerer.png/revision/latest?cb=20210813220156",
-    "chaotic_hash": "1ZJVB9KC47WM"
+    "chaotic_hash": "1ZJVB9KC47WM",
+    "stats": {
+      "Courage": 85,
+      "Power": 100,
+      "Wisdom": 40,
+      "Speed": 20,
+      "Energy": 40
+    }
   },
   "Agitos": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Agitos",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/ae/Agitos.png/revision/latest?cb=20210812223905",
-    "chaotic_hash": "UI5PLKAE7WTV"
+    "chaotic_hash": "UI5PLKAE7WTV",
+    "stats": {
+      "Courage": 65,
+      "Power": 40,
+      "Wisdom": 85,
+      "Speed": 35,
+      "Energy": 55
+    }
   },
   "Anarkiar": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Anarkiar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/32/Anarkiar.png/revision/latest?cb=20210812222158",
-    "chaotic_hash": "7FA15B8CVTWI"
+    "chaotic_hash": "7FA15B8CVTWI",
+    "stats": {
+      "Courage": 60,
+      "Power": 85,
+      "Wisdom": 30,
+      "Speed": 40,
+      "Energy": 60
+    }
   },
   "Aokua": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Aokua",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3f/Aokua.png/revision/latest?cb=20210812222200",
-    "chaotic_hash": "36M5SWADO4QY"
+    "chaotic_hash": "36M5SWADO4QY",
+    "stats": {
+      "Courage": 100,
+      "Power": 100,
+      "Wisdom": 100,
+      "Speed": 100,
+      "Energy": 50
+    }
   },
   "Asadab": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Asadab",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2c/Asadab.png/revision/latest?cb=20210812223907",
-    "chaotic_hash": "CSLVKUY364M8"
+    "chaotic_hash": "CSLVKUY364M8",
+    "stats": {
+      "Courage": 20,
+      "Power": 55,
+      "Wisdom": 55,
+      "Speed": 30,
+      "Energy": 25
+    }
   },
   "Atrapol": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Atrapol",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5c/Atrapol.png/revision/latest?cb=20210812223908",
-    "chaotic_hash": "K7G0PD3QCR1Y"
+    "chaotic_hash": "K7G0PD3QCR1Y",
+    "stats": {
+      "Courage": 65,
+      "Power": 55,
+      "Wisdom": 25,
+      "Speed": 15,
+      "Energy": 45
+    }
   },
   "Banshor": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Banshor",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d4/Banshor.png/revision/latest?cb=20210812222209",
-    "chaotic_hash": "P81FEJLVS9CK"
+    "chaotic_hash": "P81FEJLVS9CK",
+    "stats": {
+      "Courage": 75,
+      "Power": 85,
+      "Wisdom": 65,
+      "Speed": 50,
+      "Energy": 60
+    }
   },
   "Barath Beyond": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Barath_Beyond",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/22/Barath_Beyond.png/revision/latest?cb=20210812223910",
-    "chaotic_hash": "M5WFZDGV6CRI"
+    "chaotic_hash": "M5WFZDGV6CRI",
+    "stats": {
+      "Courage": 40,
+      "Power": 85,
+      "Wisdom": 15,
+      "Speed": 65,
+      "Energy": 60
+    }
   },
   "Blaaxa": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Blaaxa",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/a3/Blaaxa.png/revision/latest?cb=20210812222214",
-    "chaotic_hash": "LMCP6RKUBVXT"
+    "chaotic_hash": "LMCP6RKUBVXT",
+    "stats": {
+      "Courage": 30,
+      "Power": 35,
+      "Wisdom": 70,
+      "Speed": 45,
+      "Energy": 25
+    }
   },
   "Bladez": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Bladez",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/03/Bladez.png/revision/latest?cb=20210812222216",
-    "chaotic_hash": "UD5KMRCO76XH"
+    "chaotic_hash": "UD5KMRCO76XH",
+    "stats": {
+      "Courage": 80,
+      "Power": 90,
+      "Wisdom": 35,
+      "Speed": 30,
+      "Energy": 60
+    }
   },
   "Brimflame": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Brimflame",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/1f/Brimflame.png/revision/latest?cb=20210812222219",
-    "chaotic_hash": "UQ3O7DVCR0JX"
+    "chaotic_hash": "UQ3O7DVCR0JX",
+    "stats": {
+      "Courage": 60,
+      "Power": 90,
+      "Wisdom": 45,
+      "Speed": 60,
+      "Energy": 60
+    }
   },
   "Cerbie": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Cerbie",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/10/Cerbie.png/revision/latest?cb=20210812222220",
-    "chaotic_hash": "JKDVG07ZQ925"
+    "chaotic_hash": "JKDVG07ZQ925",
+    "stats": {
+      "Courage": 50,
+      "Power": 95,
+      "Wisdom": 25,
+      "Speed": 45,
+      "Energy": 60
+    }
   },
   "Chargola": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Chargola",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/33/Chargola.png/revision/latest?cb=20210812222231",
-    "chaotic_hash": "JMR6O3V1Y49W"
+    "chaotic_hash": "JMR6O3V1Y49W",
+    "stats": {
+      "Courage": 75,
+      "Power": 85,
+      "Wisdom": 65,
+      "Speed": 50,
+      "Energy": 60
+    }
   },
   "Cyrenox": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Cyrenox",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/08/Cyrenox.png/revision/latest?cb=20210812222233",
-    "chaotic_hash": "HJFKS4G9DYIW"
+    "chaotic_hash": "HJFKS4G9DYIW",
+    "stats": {
+      "Courage": 50,
+      "Power": 75,
+      "Wisdom": 30,
+      "Speed": 50,
+      "Energy": 55
+    }
   },
   "Dardemus": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Dardemus",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/ad/Dardemus.png/revision/latest?cb=20210812222234",
-    "chaotic_hash": "04XK2YB7WE6V"
+    "chaotic_hash": "04XK2YB7WE6V",
+    "stats": {
+      "Courage": 60,
+      "Power": 75,
+      "Wisdom": 20,
+      "Speed": 65,
+      "Energy": 50
+    }
   },
   "Drakness": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Drakness",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4e/Drakness.png/revision/latest?cb=20210812222235",
-    "chaotic_hash": "5TXWRH4VAQ2G"
+    "chaotic_hash": "5TXWRH4VAQ2G",
+    "stats": {
+      "Courage": 65,
+      "Power": 45,
+      "Wisdom": 85,
+      "Speed": 50,
+      "Energy": 40
+    }
   },
   "Dyrtax": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Dyrtax",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/dc/Dyrtax.png/revision/latest?cb=20210812222239",
-    "chaotic_hash": "57LY3FCQDBTW"
+    "chaotic_hash": "57LY3FCQDBTW",
+    "stats": {
+      "Courage": 35,
+      "Power": 60,
+      "Wisdom": 45,
+      "Speed": 65,
+      "Energy": 45
+    }
   },
   "Eximiar": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Eximiar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/18/Eximiar.png/revision/latest?cb=20210812222243",
-    "chaotic_hash": "DVW0CAHL85B2"
+    "chaotic_hash": "DVW0CAHL85B2",
+    "stats": {
+      "Courage": 60,
+      "Power": 70,
+      "Wisdom": 30,
+      "Speed": 15,
+      "Energy": 55
+    }
   },
   "Galmedar": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Galmedar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/02/Galmedar.png/revision/latest?cb=20210812223911",
-    "chaotic_hash": "DA2WRK76XMCU"
+    "chaotic_hash": "DA2WRK76XMCU",
+    "stats": {
+      "Courage": 75,
+      "Power": 100,
+      "Wisdom": 60,
+      "Speed": 35,
+      "Energy": 60
+    }
   },
   "Gambreor": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Gambreor",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/9e/Gambreor.png/revision/latest?cb=20210812222246",
-    "chaotic_hash": "SLTZ3E7KX9WJ"
+    "chaotic_hash": "SLTZ3E7KX9WJ",
+    "stats": {
+      "Courage": 35,
+      "Power": 50,
+      "Wisdom": 45,
+      "Speed": 45,
+      "Energy": 35
+    }
   },
   "Geltod": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Geltod",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d6/Geltod.png/revision/latest?cb=20210812222248",
-    "chaotic_hash": "JOY5LQGEKRIT"
+    "chaotic_hash": "JOY5LQGEKRIT",
+    "stats": {
+      "Courage": 45,
+      "Power": 70,
+      "Wisdom": 45,
+      "Speed": 40,
+      "Energy": 45
+    }
   },
   "Getterek": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Getterek",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/28/Getterek.png/revision/latest?cb=20210812223913",
-    "chaotic_hash": "LMBEOSRQF1Y5"
+    "chaotic_hash": "LMBEOSRQF1Y5",
+    "stats": {
+      "Courage": 50,
+      "Power": 95,
+      "Wisdom": 25,
+      "Speed": 45,
+      "Energy": 60
+    }
   },
   "Ghuul": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Ghuul",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3c/Ghuul.png/revision/latest?cb=20210812222303",
-    "chaotic_hash": "H4J3LTS9VEBF"
+    "chaotic_hash": "H4J3LTS9VEBF",
+    "stats": {
+      "Courage": 50,
+      "Power": 85,
+      "Wisdom": 15,
+      "Speed": 35,
+      "Energy": 35
+    }
   },
   "Grook": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Grook",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/df/Grook.png/revision/latest?cb=20210812222305",
-    "chaotic_hash": "VE42PY9SXBWO"
+    "chaotic_hash": "VE42PY9SXBWO",
+    "stats": {
+      "Courage": 30,
+      "Power": 110,
+      "Wisdom": 20,
+      "Speed": 60,
+      "Energy": 45
+    }
   },
   "H'earring": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/H%27earring",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6d/H%27earring.png/revision/latest?cb=20110811190301",
-    "chaotic_hash": "PU0GRW1MHCXI"
+    "chaotic_hash": "PU0GRW1MHCXI",
+    "stats": {
+      "Courage": 70,
+      "Power": 30,
+      "Wisdom": 55,
+      "Speed": 45,
+      "Energy": 50
+    }
   },
   "Illazar": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Illazar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f1/Illazar.png/revision/latest?cb=20210812222315",
-    "chaotic_hash": "6X7W8YU0LPO1"
+    "chaotic_hash": "6X7W8YU0LPO1",
+    "stats": {
+      "Courage": 45,
+      "Power": 70,
+      "Wisdom": 60,
+      "Speed": 55,
+      "Energy": 40
+    }
   },
   "Ilx": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Ilx",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/94/Ilx.png/revision/latest?cb=20210812222326",
-    "chaotic_hash": "2O1I37RXQPHD"
+    "chaotic_hash": "2O1I37RXQPHD",
+    "stats": {
+      "Courage": 60,
+      "Power": 90,
+      "Wisdom": 25,
+      "Speed": 35,
+      "Energy": 70
+    }
   },
   "Irsenog": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Irsenog",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4e/Irsenog.png/revision/latest?cb=20210812223914",
-    "chaotic_hash": "RV2PSU8F9M6Q"
+    "chaotic_hash": "RV2PSU8F9M6Q",
+    "stats": {
+      "Courage": 0,
+      "Power": 60,
+      "Wisdom": 30,
+      "Speed": 40,
+      "Energy": 50
+    }
   },
   "Jiggorex": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Jiggorex",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f2/Jiggorex.png/revision/latest?cb=20140102022203",
-    "chaotic_hash": "HV90CM2DGT5U"
+    "chaotic_hash": "HV90CM2DGT5U",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
   },
   "Kaal": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Kaal",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/ef/Kaal.png/revision/latest?cb=20210812222334",
-    "chaotic_hash": "BHVZOSLAMKEX"
+    "chaotic_hash": "BHVZOSLAMKEX",
+    "stats": {
+      "Courage": 60,
+      "Power": 95,
+      "Wisdom": 30,
+      "Speed": 60,
+      "Energy": 50
+    }
   },
   "Kamangareth": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Kamangareth",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/7/7a/Kamangareth.png/revision/latest?cb=20210812222348",
-    "chaotic_hash": "4W6SPCXB1R07"
+    "chaotic_hash": "4W6SPCXB1R07",
+    "stats": {
+      "Courage": 60,
+      "Power": 70,
+      "Wisdom": 30,
+      "Speed": 55,
+      "Energy": 55
+    }
   },
   "Kerric": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Kerric",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5f/Kerric.png/revision/latest?cb=20210812222349",
-    "chaotic_hash": "XDJRH0KGYWA4"
+    "chaotic_hash": "XDJRH0KGYWA4",
+    "stats": {
+      "Courage": 45,
+      "Power": 30,
+      "Wisdom": 45,
+      "Speed": 65,
+      "Energy": 50
+    }
   },
   "Ketacc": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Ketacc",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/ae/Ketacc.png/revision/latest?cb=20210812222351",
-    "chaotic_hash": "LZ7BI81TUPF4"
+    "chaotic_hash": "LZ7BI81TUPF4",
+    "stats": {
+      "Courage": 75,
+      "Power": 80,
+      "Wisdom": 40,
+      "Speed": 20,
+      "Energy": 70
+    }
   },
   "Khybon": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Khybon",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d8/Khybon.png/revision/latest?cb=20210812222355",
-    "chaotic_hash": "4R7H16WQCYLJ"
+    "chaotic_hash": "4R7H16WQCYLJ",
+    "stats": {
+      "Courage": 75,
+      "Power": 25,
+      "Wisdom": 85,
+      "Speed": 20,
+      "Energy": 40
+    }
   },
   "Khybon's Engineered Automaton": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Khybon%27s_Engineered_Automaton",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/ba/Khybon%27s_Engineered_Automaton.png/revision/latest?cb=20120905005557",
-    "chaotic_hash": "1LZT35RYGO4P"
+    "chaotic_hash": "1LZT35RYGO4P",
+    "stats": {
+      "Courage": 30,
+      "Power": 50,
+      "Wisdom": 20,
+      "Speed": 20,
+      "Energy": 40
+    }
   },
   "Klasp": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Klasp",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f7/Klasp.png/revision/latest?cb=20210812222402",
-    "chaotic_hash": "M921PESGK5Y4"
+    "chaotic_hash": "M921PESGK5Y4",
+    "stats": {
+      "Courage": 65,
+      "Power": 95,
+      "Wisdom": 30,
+      "Speed": 65,
+      "Energy": 65
+    }
   },
   "Klawam": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Klawam",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/9d/Klawam.png/revision/latest?cb=20210812222404",
-    "chaotic_hash": "6T8S435XWZRO"
+    "chaotic_hash": "6T8S435XWZRO",
+    "stats": {
+      "Courage": 15,
+      "Power": 95,
+      "Wisdom": 15,
+      "Speed": 60,
+      "Energy": 45
+    }
   },
   "Kopond": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Kopond",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/1b/Kopond.png/revision/latest?cb=20210812222407",
-    "chaotic_hash": "MGOI1ACQ8ZB9"
+    "chaotic_hash": "MGOI1ACQ8ZB9",
+    "stats": {
+      "Courage": 30,
+      "Power": 15,
+      "Wisdom": 50,
+      "Speed": 20,
+      "Energy": 20
+    }
   },
   "Kraade": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Kraade",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/87/Kraade.png/revision/latest?cb=20210812222419",
-    "chaotic_hash": "HLE4RP2Y367U"
+    "chaotic_hash": "HLE4RP2Y367U",
+    "stats": {
+      "Courage": 50,
+      "Power": 65,
+      "Wisdom": 40,
+      "Speed": 50,
+      "Energy": 45
+    }
   },
   "Kreaal": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Kreaal",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f5/Kreaal.png/revision/latest?cb=20210812223916",
-    "chaotic_hash": "KXDYE1IJUP36"
+    "chaotic_hash": "KXDYE1IJUP36",
+    "stats": {
+      "Courage": 40,
+      "Power": 85,
+      "Wisdom": 15,
+      "Speed": 50,
+      "Energy": 65
+    }
   },
   "Krekk": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Krekk",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/36/Krekk.png/revision/latest?cb=20210812222424",
-    "chaotic_hash": "TQP0WJA5I1KM"
+    "chaotic_hash": "TQP0WJA5I1KM",
+    "stats": {
+      "Courage": 10,
+      "Power": 85,
+      "Wisdom": 20,
+      "Speed": 60,
+      "Energy": 40
+    }
   },
   "Kughar": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Kughar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/92/Kughar.png/revision/latest?cb=20210812222426",
-    "chaotic_hash": "KQTC94U5E17D"
+    "chaotic_hash": "KQTC94U5E17D",
+    "stats": {
+      "Courage": 65,
+      "Power": 85,
+      "Wisdom": 25,
+      "Speed": 45,
+      "Energy": 50
+    }
   },
   "Lord Van Bloot": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Lord_Van_Bloot",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d0/Lord_Van_Bloot.png/revision/latest?cb=20210812222427",
-    "chaotic_hash": "15YXA9JG8IBH"
+    "chaotic_hash": "15YXA9JG8IBH",
+    "stats": {
+      "Courage": 75,
+      "Power": 115,
+      "Wisdom": 50,
+      "Speed": 95,
+      "Energy": 65
+    }
   },
   "Lyssta": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Lyssta",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/df/Lyssta.png/revision/latest?cb=20210812223917",
-    "chaotic_hash": "IAWGV57H2SB4"
+    "chaotic_hash": "IAWGV57H2SB4",
+    "stats": {
+      "Courage": 60,
+      "Power": 80,
+      "Wisdom": 30,
+      "Speed": 55,
+      "Energy": 60
+    }
   },
   "Magmon": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Magmon",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/00/Magmon.png/revision/latest?cb=20210812222436",
-    "chaotic_hash": "ORQW7V4H3M8B"
+    "chaotic_hash": "ORQW7V4H3M8B",
+    "stats": {
+      "Courage": 75,
+      "Power": 60,
+      "Wisdom": 20,
+      "Speed": 35,
+      "Energy": 55
+    }
   },
   "Miklon": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Miklon",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/8c/Miklon.png/revision/latest?cb=20210812222441",
-    "chaotic_hash": "RDUGXWI25S9Z"
+    "chaotic_hash": "RDUGXWI25S9Z",
+    "stats": {
+      "Courage": 20,
+      "Power": 75,
+      "Wisdom": 30,
+      "Speed": 60,
+      "Energy": 50
+    }
   },
   "Mishmoshmish": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Mishmoshmish",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c3/Mishmoshmish.png/revision/latest?cb=20210812222443",
-    "chaotic_hash": "KFWB7DVQO8ES"
+    "chaotic_hash": "KFWB7DVQO8ES",
+    "stats": {
+      "Courage": 35,
+      "Power": 60,
+      "Wisdom": 45,
+      "Speed": 65,
+      "Energy": 45
+    }
   },
   "Narfall": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Narfall",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/af/Narfall.png/revision/latest?cb=20210812222445",
-    "chaotic_hash": "MQ0ZCU59SD1I"
+    "chaotic_hash": "MQ0ZCU59SD1I",
+    "stats": {
+      "Courage": 45,
+      "Power": 70,
+      "Wisdom": 45,
+      "Speed": 40,
+      "Energy": 50
+    }
   },
   "Nauthilax": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Nauthilax",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/92/Nauthilax.png/revision/latest?cb=20210812222500",
-    "chaotic_hash": "TX2SYGEH8BOP"
+    "chaotic_hash": "TX2SYGEH8BOP",
+    "stats": {
+      "Courage": 70,
+      "Power": 60,
+      "Wisdom": 40,
+      "Speed": 55,
+      "Energy": 60
+    }
   },
   "Nivenna": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Nivenna",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5f/Nivenna.png/revision/latest?cb=20210812222515",
-    "chaotic_hash": "P8IWSMDALX95"
+    "chaotic_hash": "P8IWSMDALX95",
+    "stats": {
+      "Courage": 40,
+      "Power": 50,
+      "Wisdom": 90,
+      "Speed": 60,
+      "Energy": 30
+    }
   },
   "Ooloo": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Ooloo",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c2/Ooloo.png/revision/latest?cb=20210812222517",
-    "chaotic_hash": "8UZG3DM2964C"
+    "chaotic_hash": "8UZG3DM2964C",
+    "stats": {
+      "Courage": 40,
+      "Power": 70,
+      "Wisdom": 35,
+      "Speed": 40,
+      "Energy": 55
+    }
   },
   "Ornathor": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Ornathor",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/de/Ornathor.png/revision/latest?cb=20210812222520",
-    "chaotic_hash": "9GDB06S5WTXV"
+    "chaotic_hash": "9GDB06S5WTXV",
+    "stats": {
+      "Courage": 75,
+      "Power": 55,
+      "Wisdom": 45,
+      "Speed": 55,
+      "Energy": 45
+    }
   },
   "Ozlai, Chaor's Pilot": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Ozlai",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5d/Ozlai%2C_Chaor%27s_Pilot.png/revision/latest?cb=20210812222521",
-    "chaotic_hash": "XVI3GDU0Y52C"
+    "chaotic_hash": "XVI3GDU0Y52C",
+    "stats": {
+      "Courage": 70,
+      "Power": 40,
+      "Wisdom": 30,
+      "Speed": 85,
+      "Energy": 45
+    }
   },
   "Piddan": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Piddan",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c2/Piddan.png/revision/latest?cb=20210812223919",
-    "chaotic_hash": "0QF67H5J4BAV"
+    "chaotic_hash": "0QF67H5J4BAV",
+    "stats": {
+      "Courage": 50,
+      "Power": 60,
+      "Wisdom": 20,
+      "Speed": 50,
+      "Energy": 45
+    }
   },
   "Pyrithion": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Pyrithion",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f2/Pyrithion.png/revision/latest?cb=20210812222530",
-    "chaotic_hash": "PL6KBD23UE5H"
+    "chaotic_hash": "PL6KBD23UE5H",
+    "stats": {
+      "Courage": 25,
+      "Power": 80,
+      "Wisdom": 40,
+      "Speed": 65,
+      "Energy": 50
+    }
   },
   "Ragetrod": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Ragetrod",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/eb/Ragetrod.png/revision/latest?cb=20210812222532",
-    "chaotic_hash": "TJGYCHU9QLFB"
+    "chaotic_hash": "TJGYCHU9QLFB",
+    "stats": {
+      "Courage": 55,
+      "Power": 75,
+      "Wisdom": 40,
+      "Speed": 50,
+      "Energy": 55
+    }
   },
   "Rarran": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Rarran",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/9e/Rarran.png/revision/latest?cb=20210812222544",
-    "chaotic_hash": "SBWTOGQRDLJ0"
+    "chaotic_hash": "SBWTOGQRDLJ0",
+    "stats": {
+      "Courage": 65,
+      "Power": 60,
+      "Wisdom": 30,
+      "Speed": 60,
+      "Energy": 50
+    }
   },
   "Rothar": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Rothar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/dc/Rothar.png/revision/latest?cb=20210812222548",
-    "chaotic_hash": "29PO6GJB1XLT"
+    "chaotic_hash": "29PO6GJB1XLT",
+    "stats": {
+      "Courage": 75,
+      "Power": 90,
+      "Wisdom": 25,
+      "Speed": 50,
+      "Energy": 70
+    }
   },
   "Savitsa": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Savitsa",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3c/Savitsa.png/revision/latest?cb=20210812222550",
-    "chaotic_hash": "D6BRZ41PTS0A"
+    "chaotic_hash": "D6BRZ41PTS0A",
+    "stats": {
+      "Courage": 30,
+      "Power": 70,
+      "Wisdom": 30,
+      "Speed": 70,
+      "Energy": 55
+    }
   },
   "Skithia": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Skithia",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2d/Skithia.png/revision/latest?cb=20210812222555",
-    "chaotic_hash": "IT3CRD94KOGV"
+    "chaotic_hash": "IT3CRD94KOGV",
+    "stats": {
+      "Courage": 65,
+      "Power": 25,
+      "Wisdom": 55,
+      "Speed": 40,
+      "Energy": 35
+    }
   },
   "Skorblust": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Skorblust",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4a/Skorblust.png/revision/latest?cb=20210812222557",
-    "chaotic_hash": "L4YHUJGDPBRE"
+    "chaotic_hash": "L4YHUJGDPBRE",
+    "stats": {
+      "Courage": 60,
+      "Power": 80,
+      "Wisdom": 20,
+      "Speed": 50,
+      "Energy": 55
+    }
   },
   "Skreeth": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Skreeth",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/55/Skreeth.png/revision/latest?cb=20210812223921",
-    "chaotic_hash": "BFU5JTQA7MIZ"
+    "chaotic_hash": "BFU5JTQA7MIZ",
+    "stats": {
+      "Courage": 80,
+      "Power": 65,
+      "Wisdom": 60,
+      "Speed": 20,
+      "Energy": 55
+    }
   },
   "Slufurah": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Slufurah",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/1c/Slufurah.png/revision/latest?cb=20210812222602",
-    "chaotic_hash": "M5HQSDB1WIAZ"
+    "chaotic_hash": "M5HQSDB1WIAZ",
+    "stats": {
+      "Courage": 45,
+      "Power": 65,
+      "Wisdom": 65,
+      "Speed": 20,
+      "Energy": 40
+    }
   },
   "Solvis": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Solvis",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e5/Solvis.png/revision/latest?cb=20210812223922",
-    "chaotic_hash": "VPKZ3MCR4O86"
+    "chaotic_hash": "VPKZ3MCR4O86",
+    "stats": {
+      "Courage": 45,
+      "Power": 60,
+      "Wisdom": 65,
+      "Speed": 35,
+      "Energy": 40
+    }
   },
   "Spyder": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Spyder",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/ca/Spyder.png/revision/latest?cb=20170422191329",
-    "chaotic_hash": "9O8V1DGAW50B"
+    "chaotic_hash": "9O8V1DGAW50B",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
   },
   "Stelgar": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Stelgar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/1a/Stelgar.png/revision/latest?cb=20210812222608",
-    "chaotic_hash": "JHM1SQ7LYPRO"
+    "chaotic_hash": "JHM1SQ7LYPRO",
+    "stats": {
+      "Courage": 65,
+      "Power": 65,
+      "Wisdom": 65,
+      "Speed": 65,
+      "Energy": 65
+    }
   },
   "Strikto": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Strikto",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b9/Strikto.png/revision/latest?cb=20210812222617",
-    "chaotic_hash": "0VQHBEST92DU"
+    "chaotic_hash": "0VQHBEST92DU",
+    "stats": {
+      "Courage": 50,
+      "Power": 45,
+      "Wisdom": 75,
+      "Speed": 40,
+      "Energy": 40
+    }
   },
   "Swassa": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Swassa",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2c/Swassa.png/revision/latest?cb=20210812222618",
-    "chaotic_hash": "O91GYU205KIL"
+    "chaotic_hash": "O91GYU205KIL",
+    "stats": {
+      "Courage": 45,
+      "Power": 65,
+      "Wisdom": 45,
+      "Speed": 55,
+      "Energy": 50
+    }
   },
   "Takinom": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Takinom",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/52/Takinom.png/revision/latest?cb=20210812222623",
-    "chaotic_hash": "IT2ODSQYLWA3"
+    "chaotic_hash": "IT2ODSQYLWA3",
+    "stats": {
+      "Courage": 60,
+      "Power": 65,
+      "Wisdom": 20,
+      "Speed": 90,
+      "Energy": 40
+    }
   },
   "Tasqa": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Tasqa",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d2/Tasqa.png/revision/latest?cb=20210812222626",
-    "chaotic_hash": "XKUSJY48PBF6"
+    "chaotic_hash": "XKUSJY48PBF6",
+    "stats": {
+      "Courage": 35,
+      "Power": 55,
+      "Wisdom": 50,
+      "Speed": 35,
+      "Energy": 45
+    }
   },
   "Toadore": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Toadore",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f4/Toadore.png/revision/latest?cb=20210812222628",
-    "chaotic_hash": "5J10ZKLQF8IX"
+    "chaotic_hash": "5J10ZKLQF8IX",
+    "stats": {
+      "Courage": 60,
+      "Power": 70,
+      "Wisdom": 30,
+      "Speed": 35,
+      "Energy": 50
+    }
   },
   "Tomugar": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Tomugar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c4/Tomugar.png/revision/latest?cb=20210812222630",
-    "chaotic_hash": "P6HKJ7CR5GX1"
+    "chaotic_hash": "P6HKJ7CR5GX1",
+    "stats": {
+      "Courage": 35,
+      "Power": 50,
+      "Wisdom": 60,
+      "Speed": 25,
+      "Energy": 40
+    }
   },
   "Torrna": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Torrna",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/56/Torrna.png/revision/latest?cb=20210812222633",
-    "chaotic_hash": "IOCHG1E60X2Y"
+    "chaotic_hash": "IOCHG1E60X2Y",
+    "stats": {
+      "Courage": 50,
+      "Power": 80,
+      "Wisdom": 40,
+      "Speed": 65,
+      "Energy": 55
+    }
   },
   "Toxis": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Toxis",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/15/Toxis.png/revision/latest?cb=20210812222635",
-    "chaotic_hash": "HFL71EWX2KQD"
+    "chaotic_hash": "HFL71EWX2KQD",
+    "stats": {
+      "Courage": 45,
+      "Power": 70,
+      "Wisdom": 40,
+      "Speed": 50,
+      "Energy": 50
+    }
   },
   "Uksum": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Uksum",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2d/Uksum.png/revision/latest?cb=20210812222645",
-    "chaotic_hash": "9ORBA3GYEMIK"
+    "chaotic_hash": "9ORBA3GYEMIK",
+    "stats": {
+      "Courage": 60,
+      "Power": 95,
+      "Wisdom": 15,
+      "Speed": 35,
+      "Energy": 20
+    }
   },
   "Ulmar": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Ulmar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c1/Ulmar.png/revision/latest?cb=20210812222650",
-    "chaotic_hash": "0W3BGFMY19TZ"
+    "chaotic_hash": "0W3BGFMY19TZ",
+    "stats": {
+      "Courage": 40,
+      "Power": 20,
+      "Wisdom": 70,
+      "Speed": 35,
+      "Energy": 25
+    }
   },
   "Ultadur": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Ultadur",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/ed/Ultadur.png/revision/latest?cb=20210812222659",
-    "chaotic_hash": "VSH2JOIBD35Z"
+    "chaotic_hash": "VSH2JOIBD35Z",
+    "stats": {
+      "Courage": 40,
+      "Power": 85,
+      "Wisdom": 30,
+      "Speed": 75,
+      "Energy": 55
+    }
   },
   "Ustabe": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Ustabe",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/60/Ustabe.png/revision/latest?cb=20210812222711",
-    "chaotic_hash": "58T3X0L4EKVU"
+    "chaotic_hash": "58T3X0L4EKVU",
+    "stats": {
+      "Courage": 35,
+      "Power": 85,
+      "Wisdom": 20,
+      "Speed": 60,
+      "Energy": 60
+    }
   },
   "Voorx": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Voorx",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/53/Voorx.png/revision/latest?cb=20210812222714",
-    "chaotic_hash": "QFKPYV2IR0DJ"
+    "chaotic_hash": "QFKPYV2IR0DJ",
+    "stats": {
+      "Courage": 40,
+      "Power": 70,
+      "Wisdom": 60,
+      "Speed": 30,
+      "Energy": 50
+    }
   },
   "Vyll": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Vyll",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/de/Vyll.png/revision/latest?cb=20210812223924",
-    "chaotic_hash": "WJQVBA7EPYZU"
+    "chaotic_hash": "WJQVBA7EPYZU",
+    "stats": {
+      "Courage": 55,
+      "Power": 35,
+      "Wisdom": 75,
+      "Speed": 30,
+      "Energy": 40
+    }
   },
   "Xield": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Zhield",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/62/Xield.png/revision/latest?cb=20210812223925",
-    "chaotic_hash": "TVM4Z3RHFBWX"
+    "chaotic_hash": "TVM4Z3RHFBWX",
+    "stats": {
+      "Courage": 95,
+      "Power": 40,
+      "Wisdom": 35,
+      "Speed": 15,
+      "Energy": 20
+    }
   },
   "Zalvar Portal": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Zalvar",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/91/Zalvar_Portal.jpg/revision/latest?cb=20211010072447",
-    "chaotic_hash": "G3JH6UCF4QL5"
+    "chaotic_hash": "G3JH6UCF4QL5",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
   },
   "Zamool, Lord Van Bloot's Enforcer": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Zamool",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b7/Zamool%2C_Lord_Van_Bloot%27s_Enforcer.png/revision/latest?cb=20210812222720",
-    "chaotic_hash": "7FG9U1KDC086"
+    "chaotic_hash": "7FG9U1KDC086",
+    "stats": {
+      "Courage": 75,
+      "Power": 60,
+      "Wisdom": 40,
+      "Speed": 80,
+      "Energy": 55
+    }
   },
   "Zapetur": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Zapetur",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/21/Zapetur.png/revision/latest?cb=20210812222721",
-    "chaotic_hash": "WVU9RH68C201"
+    "chaotic_hash": "WVU9RH68C201",
+    "stats": {
+      "Courage": 55,
+      "Power": 60,
+      "Wisdom": 25,
+      "Speed": 35,
+      "Energy": 35
+    }
   },
   "Zaur": {
     "type_card": "underworlders",
     "parent_link": "https://chaotic.fandom.com/wiki/Zaur",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/21/Zaur.png/revision/latest?cb=20210812222723",
-    "chaotic_hash": "2TK03M9F8XWI"
+    "chaotic_hash": "2TK03M9F8XWI",
+    "stats": {
+      "Courage": 65,
+      "Power": 75,
+      "Wisdom": 35,
+      "Speed": 25,
+      "Energy": 50
+    }
   },
   "Anthem of Stone": {
     "type_card": "generic-mugic",
@@ -2556,25 +5216,25 @@
     "chaotic_hash": "64IK5B2FHLCD"
   },
   "Calling of Aa'une": {
-    "type_card": "marrilian-mugic",
+    "type_card": "marrillian-mugic",
     "parent_link": "https://chaotic.fandom.com/wiki/Calling_of_Aa%27une",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/09/Calling_of_Aa%27une.png/revision/latest?cb=20210812091305",
     "chaotic_hash": "0LSUGR4TK5DB"
   },
   "Curemorph Chords": {
-    "type_card": "marrilian-mugic",
+    "type_card": "marrillian-mugic",
     "parent_link": "https://chaotic.fandom.com/wiki/Curemorph_Chords",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5e/Curemorph_Chords.png/revision/latest?cb=20210812091307",
     "chaotic_hash": "T1LY3AW2K0PH"
   },
   "Denial Refrain of the Deep": {
-    "type_card": "marrilian-mugic",
+    "type_card": "marrillian-mugic",
     "parent_link": "https://chaotic.fandom.com/wiki/Denial_Refrain_of_the_Deep",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3c/Denial_Refrain_of_the_Deep.png/revision/latest?cb=20210812174409",
     "chaotic_hash": "XHU870LESCIZ"
   },
   "Intimidating Melody of M'arr": {
-    "type_card": "marrilian-mugic",
+    "type_card": "marrillian-mugic",
     "parent_link": "https://chaotic.fandom.com/wiki/Intimidating_Melody_of_M%27arr",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b2/Intimidating_Melody_of_M%27arr.png/revision/latest?cb=20210812091312",
     "chaotic_hash": "21BZLTOSCEKD"
@@ -2592,19 +5252,19 @@
     "chaotic_hash": "04QJ87Y6LWUK"
   },
   "Ostinato of Oban'emre": {
-    "type_card": "marrilian-mugic",
+    "type_card": "marrillian-mugic",
     "parent_link": "https://chaotic.fandom.com/wiki/Ostinato_of_Oban%27emre",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3f/Ostinato_of_Oban%27emre.png/revision/latest?cb=20210812091316",
     "chaotic_hash": "HTA5EG3KCMSP"
   },
   "Requiem of Fear": {
-    "type_card": "marrilian-mugic",
+    "type_card": "marrillian-mugic",
     "parent_link": "https://chaotic.fandom.com/wiki/Requiem_of_Fear",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/1/11/Requiem_of_Fear.png/revision/latest?cb=20210812091318",
     "chaotic_hash": "H7KLWMUXAJQO"
   },
   "Requiem of Lost Minds": {
-    "type_card": "marrilian-mugic",
+    "type_card": "marrillian-mugic",
     "parent_link": "https://chaotic.fandom.com/wiki/Requiem_of_Lost_Minds",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f4/Requiem_of_Lost_Minds.png/revision/latest?cb=20210812091319",
     "chaotic_hash": "3Q84CALZWOIK"
@@ -2616,13 +5276,13 @@
     "chaotic_hash": "FH7RBALW03V5"
   },
   "Symphonic Pelagic Maresong": {
-    "type_card": "marrilian-mugic",
+    "type_card": "marrillian-mugic",
     "parent_link": "https://chaotic.fandom.com/wiki/Symphonic_Pelagic_Maresong",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6a/Symphonic_Pelagic_Maresong.png/revision/latest?cb=20210812091322",
     "chaotic_hash": "MJLCH09BK6S3"
   },
   "Unheard Melody": {
-    "type_card": "marrilian-mugic",
+    "type_card": "marrillian-mugic",
     "parent_link": "https://chaotic.fandom.com/wiki/Unheard_Melody",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6a/Unheard_Melody.png/revision/latest?cb=20210812091324",
     "chaotic_hash": "HD3TRFY0MZU9"
@@ -3186,31 +5846,31 @@
     "chaotic_hash": "XABJIY8T54WK"
   },
   "AZAIA Mindscrying Chamber": {
-    "type_card": "marrilian-location",
+    "type_card": "marrillian-location",
     "parent_link": "https://chaotic.fandom.com/wiki/AZAIA_Mindscrying_Chamber",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f8/AZAIA_Mindscrying_Chamber.png/revision/latest?cb=20210812055437",
     "chaotic_hash": "65PRTB1IDY43"
   },
   "Chamber Of Waves": {
-    "type_card": "marrilian-location",
+    "type_card": "marrillian-location",
     "parent_link": "https://chaotic.fandom.com/wiki/Chamber_Of_Waves",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/eb/Chamber_Of_Waves.png/revision/latest?cb=20230227053111",
     "chaotic_hash": "KOYCV85721RF"
   },
   "Deadrange Gong": {
-    "type_card": "marrilian-location",
+    "type_card": "marrillian-location",
     "parent_link": "https://chaotic.fandom.com/wiki/Deadrange_Gong",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/93/Deadrange_Gong.png/revision/latest?cb=20210812055558",
     "chaotic_hash": "OLWE2B5JCD8Y"
   },
   "Hall of Fatigue": {
-    "type_card": "marrilian-location",
+    "type_card": "marrillian-location",
     "parent_link": "https://chaotic.fandom.com/wiki/Hall_of_Fatigue",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/d1/Hall_of_Fatigue.png/revision/latest?cb=20210812055730",
     "chaotic_hash": "WRCKAE0J3VXI"
   },
   "Numin Voidland": {
-    "type_card": "marrilian-location",
+    "type_card": "marrillian-location",
     "parent_link": "https://chaotic.fandom.com/wiki/Numin_Voidland",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/d/dd/Numin_Voidland.png/revision/latest?cb=20210812055928",
     "chaotic_hash": "6V1CWAHU5QKI"
@@ -3222,31 +5882,31 @@
     "chaotic_hash": "I584V9ESX6UD"
   },
   "Psikoom Madness Chamber": {
-    "type_card": "marrilian-location",
+    "type_card": "marrillian-location",
     "parent_link": "https://chaotic.fandom.com/wiki/Psikoom_Madness_Chamber",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/4/4d/Psikoom_Madness_Chamber.png/revision/latest?cb=20210812060006",
     "chaotic_hash": "L2Z6BXWDTGRH"
   },
   "Shardcrafter's Workshop": {
-    "type_card": "marrilian-location",
+    "type_card": "marrillian-location",
     "parent_link": "https://chaotic.fandom.com/wiki/Shardcrafters%E2%80%99_Workshop",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e7/Shardcrafters%E2%80%99_Workshop.png/revision/latest?cb=20230227080102",
     "chaotic_hash": "ME8F17S4W6KA"
   },
   "Siril'ean's Lair": {
-    "type_card": "marrilian-location",
+    "type_card": "marrillian-location",
     "parent_link": "https://chaotic.fandom.com/wiki/Siril%27ean%27s_Lair",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/20/Siril%27ean%27s_Lair.png/revision/latest?cb=20130324181830",
     "chaotic_hash": "H47P92OLFYV8"
   },
   "The Coralsmithy": {
-    "type_card": "marrilian-location",
+    "type_card": "marrillian-location",
     "parent_link": "https://chaotic.fandom.com/wiki/The_Coralsmithy",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/bf/The_Coralsmithy.png/revision/latest?cb=20210812060149",
     "chaotic_hash": "IGD52HQOTUVJ"
   },
   "The Oligarch's Path": {
-    "type_card": "marrilian-location",
+    "type_card": "marrillian-location",
     "parent_link": "https://chaotic.fandom.com/wiki/The_Oligarch%27s_Path",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/ac/The_Oligarch%27s_Path.png/revision/latest?cb=20210812060216",
     "chaotic_hash": "4VJA7Z8OCWL2"

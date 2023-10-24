@@ -1,0 +1,184 @@
+[
+  {
+    "type_card": "danians",
+    "parent_link": "https://chaotic.fandom.com/wiki/Aszil",
+    "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2b/Aszil%2C_The_Young_Queen.png/revision/latest?cb=20210812041042",
+    "chaotic_hash": "1VCT5OK3AS7X",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
+  },
+  {
+    "type_card": "danians",
+    "parent_link": "https://chaotic.fandom.com/wiki/Vollash",
+    "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5d/Vollash.png/revision/latest?cb=20100106161537",
+    "chaotic_hash": "2OXAYDJ15G6B",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
+  },
+  {
+    "type_card": "marrillians",
+    "parent_link": "https://chaotic.fandom.com/wiki/Ab%27lop",
+    "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c3/Ab_lop1.jpg/revision/latest?cb=20160427212836",
+    "chaotic_hash": "ZKUJHXOCI326",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
+  },
+  {
+    "type_card": "marrillians",
+    "parent_link": "https://chaotic.fandom.com/wiki/Fla%27gamp",
+    "img_url": "https://static.wikia.nocookie.net/chaotic/images/e/e2/Fla%27Gamp.png/revision/latest?cb=20130303184917",
+    "chaotic_hash": "G4X3OWDERU8L",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
+  },
+  {
+    "type_card": "mipedians",
+    "parent_link": "https://chaotic.fandom.com/wiki/Abin-Wor",
+    "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6a/Abin-Wor.png/revision/latest?cb=20210813220424",
+    "chaotic_hash": "5WLOKZGUT0I3",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
+  },
+  {
+    "type_card": "mipedians",
+    "parent_link": "https://chaotic.fandom.com/wiki/Adomo",
+    "img_url": "https://static.wikia.nocookie.net/chaotic/images/0/08/Adomo.png/revision/latest?cb=20190903120902",
+    "chaotic_hash": "9HTDX8UPQ0YZ",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
+  },
+  {
+    "type_card": "mipedians",
+    "parent_link": "https://chaotic.fandom.com/wiki/Skerrel_the_Wise",
+    "img_url": "https://static.wikia.nocookie.net/chaotic/images/2/2d/Skerrel_the_Wise.png/revision/latest?cb=20230504051009",
+    "chaotic_hash": "Y52BW6QSM4EH",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
+  },
+  {
+    "type_card": "mipedians",
+    "parent_link": "https://chaotic.fandom.com/wiki/Tiaane",
+    "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f6/Tianne.png/revision/latest?cb=20090831220110",
+    "chaotic_hash": "QK3XDLP9VEO0",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
+  },
+  {
+    "type_card": "overworlders",
+    "parent_link": "https://chaotic.fandom.com/wiki/Quisk",
+    "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f9/Quisk.png/revision/latest?cb=20081009053824",
+    "chaotic_hash": "AY0U3ES6VIH7",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
+  },
+  {
+    "type_card": "overworlders",
+    "parent_link": "https://chaotic.fandom.com/wiki/Rav",
+    "img_url": "https://static.wikia.nocookie.net/chaotic/images/8/8c/Rav.png/revision/latest?cb=20210816182740",
+    "chaotic_hash": "AU48S3C9QOHR",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
+  },
+  {
+    "type_card": "overworlders",
+    "parent_link": "https://chaotic.fandom.com/wiki/Unkown_Dwarf_Creature",
+    "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/c1/Unkown_Dwarf_Creature.png/revision/latest?cb=20230429074107",
+    "chaotic_hash": "FB2X9DHITO4M",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
+  },
+  {
+    "type_card": "underworlders",
+    "parent_link": "https://chaotic.fandom.com/wiki/Jiggorex",
+    "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/f2/Jiggorex.png/revision/latest?cb=20140102022203",
+    "chaotic_hash": "HV90CM2DGT5U",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
+  },
+  {
+    "type_card": "underworlders",
+    "parent_link": "https://chaotic.fandom.com/wiki/Spyder",
+    "img_url": "https://static.wikia.nocookie.net/chaotic/images/c/ca/Spyder.png/revision/latest?cb=20170422191329",
+    "chaotic_hash": "9O8V1DGAW50B",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
+  },
+  {
+    "type_card": "underworlders",
+    "parent_link": "https://chaotic.fandom.com/wiki/Zalvar",
+    "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/91/Zalvar_Portal.jpg/revision/latest?cb=20211010072447",
+    "chaotic_hash": "G3JH6UCF4QL5",
+    "stats": {
+      "Courage": 0,
+      "Power": 0,
+      "Wisdom": 0,
+      "Speed": 0,
+      "Energy": 0
+    }
+  }
+]

@@ -10,19 +10,19 @@ BASE_URL = 'https://chaotic.fandom.com'
 LINKS = {
 	# creatures
 	'danians': 'https://chaotic.fandom.com/wiki/Category:Danians',
-	'marrilians': 'https://chaotic.fandom.com/wiki/Category:M%27arrillians',
+	'marrillians': 'https://chaotic.fandom.com/wiki/Category:M%27arrillians',
 	'mipedians': 'https://chaotic.fandom.com/wiki/Category:Mipedians',
 	'overworlders': 'https://chaotic.fandom.com/wiki/Category:OverWorlders',
 	'underworlders': 'https://chaotic.fandom.com/wiki/Category:UnderWorld_Creatures',	
 	# mugix
 	'generic-mugic': 'https://chaotic.fandom.com/wiki/Category:Generic_Mugic',
-	'marrilian-mugic': 'https://chaotic.fandom.com/wiki/Category:M%27arrillian_Mugic',
+	'marrillian-mugic': 'https://chaotic.fandom.com/wiki/Category:M%27arrillian_Mugic',
 	'overworld-mugic': 'https://chaotic.fandom.com/wiki/Category:OverWorld_Mugic',
 	'mipedian-mugic': 'https://chaotic.fandom.com/wiki/Category:Mipedian_Mugic',
 	'underworld-mugic': 'https://chaotic.fandom.com/wiki/Category:UnderWorld_Mugic',	
 	# locations
 	'danians-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_Danian_Territory',
-	'marrilian-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_M%27arrillian_Territory',
+	'marrillian-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_M%27arrillian_Territory',
 	'mipedian-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_Mipedian_Territory',
 	'overworld-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_OverWorld_Territory',
 	'underworld-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_UnderWorld_Territory',

@@ -2,7 +2,7 @@
 
 _O repositório mais saudosista do Github_
 
-## [Scrapping dos Dados](scrapping.py) e [Download das Imagens](images.py)
+## [Scrapping das URLs](scrapping.py), [Dados](stats.py) e [Download das Imagens](images.py)
 
 Foram utilizadas as bibliotecas requests e bs4 para [extração das urls](database.json) das [imagens](images/).
 
