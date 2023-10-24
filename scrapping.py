@@ -1,40 +1,43 @@
 
-import requests
-from bs4 import BeautifulSoup
 import json
+import requests
+
+from random import sample
+from bs4 import BeautifulSoup
 
 BASE_URL = 'https://chaotic.fandom.com'
 
 LINKS = {
-	'air-attacks': 'https://chaotic.fandom.com/wiki/Category:Air_Attacks'
-# 	'earth-attacks': 'https://chaotic.fandom.com/wiki/Category:Earth_Attacks',
-# 	'fire-attacks': 'https://chaotic.fandom.com/wiki/Category:Fire_Attacks',
-# 	'water-attacks': 'https://chaotic.fandom.com/wiki/Category:Water_Attacks',
-# 
-# 	'courage-attacks': 'https://chaotic.fandom.com/wiki/Category:Courage_Attacks',
-# 	'power-attacks': 'https://chaotic.fandom.com/wiki/Category:Power_Attacks',
-# 	'speed-attacks': 'https://chaotic.fandom.com/wiki/Category:Speed_Attacks',
-# 	'wisdow-attacks': 'https://chaotic.fandom.com/wiki/Category:Wisdom_Attacks',
-# 
-# 	'battlegear': 'https://chaotic.fandom.com/wiki/Category:Battlegear',
-# 
-# 	'danians': 'https://chaotic.fandom.com/wiki/Category:Danians',
-# 	'marrilians': 'https://chaotic.fandom.com/wiki/Category:M%27arrillians',
-# 	'mipedians': 'https://chaotic.fandom.com/wiki/Category:Mipedians',
-# 	'overworlders': 'https://chaotic.fandom.com/wiki/Category:OverWorlders',
-# 	'underworlders': 'https://chaotic.fandom.com/wiki/Category:UnderWorld_Creatures',
-# 
-# 	'generic-mugic': 'https://chaotic.fandom.com/wiki/Category:Generic_Mugic',
-# 	'marrilian-mugic': 'https://chaotic.fandom.com/wiki/Category:M%27arrillian_Mugic',
-# 	'overworld-mugic': 'https://chaotic.fandom.com/wiki/Category:OverWorld_Mugic',
-# 	'mipedian-mugic': 'https://chaotic.fandom.com/wiki/Category:Mipedian_Mugic',
-# 	'underworld-mugic': 'https://chaotic.fandom.com/wiki/Category:UnderWorld_Mugic',
-# 
-# 	'danians-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_Danian_Territory',
-# 	'marrilian-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_M%27arrillian_Territory',
-# 	'mipedian-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_Mipedian_Territory',
-# 	'overworld-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_OverWorld_Territory',
-# 	'underworld-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_UnderWorld_Territory'
+	# creatures
+	'danians': 'https://chaotic.fandom.com/wiki/Category:Danians',
+	'marrilians': 'https://chaotic.fandom.com/wiki/Category:M%27arrillians',
+	'mipedians': 'https://chaotic.fandom.com/wiki/Category:Mipedians',
+	'overworlders': 'https://chaotic.fandom.com/wiki/Category:OverWorlders',
+	'underworlders': 'https://chaotic.fandom.com/wiki/Category:UnderWorld_Creatures',	
+	# mugix
+	'generic-mugic': 'https://chaotic.fandom.com/wiki/Category:Generic_Mugic',
+	'marrilian-mugic': 'https://chaotic.fandom.com/wiki/Category:M%27arrillian_Mugic',
+	'overworld-mugic': 'https://chaotic.fandom.com/wiki/Category:OverWorld_Mugic',
+	'mipedian-mugic': 'https://chaotic.fandom.com/wiki/Category:Mipedian_Mugic',
+	'underworld-mugic': 'https://chaotic.fandom.com/wiki/Category:UnderWorld_Mugic',	
+	# locations
+	'danians-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_Danian_Territory',
+	'marrilian-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_M%27arrillian_Territory',
+	'mipedian-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_Mipedian_Territory',
+	'overworld-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_OverWorld_Territory',
+	'underworld-location': 'https://chaotic.fandom.com/wiki/Category:Locations_in_UnderWorld_Territory',
+	# elemental attacks
+	'air-attacks': 'https://chaotic.fandom.com/wiki/Category:Air_Attacks',
+	'earth-attacks': 'https://chaotic.fandom.com/wiki/Category:Earth_Attacks',
+	'fire-attacks': 'https://chaotic.fandom.com/wiki/Category:Fire_Attacks',
+	'water-attacks': 'https://chaotic.fandom.com/wiki/Category:Water_Attacks',
+	# discipline attacks
+	'courage-attacks': 'https://chaotic.fandom.com/wiki/Category:Courage_Attacks',
+	'power-attacks': 'https://chaotic.fandom.com/wiki/Category:Power_Attacks',
+	'speed-attacks': 'https://chaotic.fandom.com/wiki/Category:Speed_Attacks',
+	'wisdow-attacks': 'https://chaotic.fandom.com/wiki/Category:Wisdom_Attacks',	
+	# equipaments
+	'battlegear': 'https://chaotic.fandom.com/wiki/Category:Battlegear'
 }
 
 def get_links(url):
@@ -57,10 +60,16 @@ def get_image_link(url):
 
 	return obj['href'], obj.img['alt']
 
+def chaotic_hash():
+
+	letters_and_numbers = 'ABCDEFGHIJKLMOPQRSTUVXWYZ0123456789'
+
+	return ''.join(sample(letters_and_numbers, 12))
+
 db = {}
 
 for i in LINKS.keys():
-	
+
 	parent_links = get_links(url = LINKS.get(i))
 
 	print(i)
@@ -73,13 +82,17 @@ for i in LINKS.keys():
 
 			print(j)
 
-			db[i] = {
-				name: {
-				'parent_link': j,
-				'img_url': link
-				}
-			} 
-	
+			db.update(
+				{
+					name: {
+					'type_card': i,
+					'parent_link': j,
+					'img_url': link,
+					'chaotic_hash': chaotic_hash()
+					}
+				} 
+			)
+
 		except:
 	
 			pass
