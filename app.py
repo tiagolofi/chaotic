@@ -30,11 +30,11 @@ with col2:
 
         st.session_state['location'] = d.location_random()
 
-        st.image(
-            Image.open(
-                st.session_state['location']                
-            )
-        )        
+    st.image(
+        Image.open(
+            st.session_state['location']                
+        )
+    )        
 
 with col3:
 
