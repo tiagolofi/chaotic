@@ -101,7 +101,7 @@ with col1_2:
 
 with col1_3:
 
-    st.write('Stats')
+    st.write('Stats (P1)')
 
     for k, v in data1['stats'].items():
 
@@ -111,7 +111,7 @@ with col1_3:
 
 with col2_1:
 
-    st.write('Stats')
+    st.write('Stats (P2)')
 
     for k, v in data2['stats'].items():
         
