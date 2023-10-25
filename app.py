@@ -22,7 +22,7 @@ with col1:
 
     st.image(Image.open(d.format_image(data1['chaotic_hash'])))
 
-    st.dataframe(data1['stats'])
+    st.write(data1['stats'])
 
     col1_1, col1_2 = st.columns(2)
 
@@ -70,7 +70,7 @@ with col3:
 
     st.image(Image.open(d.format_image(data2['chaotic_hash'])))
 
-    st.dataframe(data1['stats'])
+    st.write(data1['stats'])
 
     col2_1, col2_2 = st.columns(2)
 
