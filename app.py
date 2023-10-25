@@ -113,7 +113,9 @@ with col2_1:
 
     st.write('Stats')
 
-    st.write(data2['stats'])
+    for k, v in data2['stats'].items():
+        
+        st.progress(v, text = k)
 
 with col2_2:
 
