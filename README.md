@@ -29,6 +29,7 @@ Algumas mudanças foram realizadas para permitir a gameplay:
 10. Nauthilax ataca com Braveglint, vence os stats checks e causa dano (-25), fim da partida.
 
 * Energia ao longo da partida
+
 | Evento | Nauthilax | Gespedan |
 |------|---------|--------|
 | 1 | 60 | 30 |
