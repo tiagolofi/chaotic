@@ -2,6 +2,7 @@
 import streamlit as st
 from drome import Drome
 from PIL import Image
+from time import sleep
 
 d = Drome()
 
@@ -42,7 +43,11 @@ with col2:
 
     if select_local:
 
-        st.session_state['location'] = d.location_random()
+        with st.spinner('Wait...'):
+
+            sleep(3)
+
+            st.session_state['location'] = d.location_random()
 
     try:
 
@@ -98,7 +103,11 @@ with col1_3:
 
     st.write('Stats')
 
-    st.write(data1['stats'])
+    for k, v in data1['stats'].items():
+
+        st.progress(v, text = k)
+
+    # st.write(data1['stats'])
 
 with col2_1:
 
