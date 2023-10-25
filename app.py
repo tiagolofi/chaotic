@@ -12,10 +12,10 @@ st.set_page_config(
 	initial_sidebar_state = 'collapsed' 
 )
 
-col1, col1x, col2, col3, col3x = st.columns(5)
-
-st.title('CHAOTIC')
+st.markdown('''<h1 align="center"><b>CHAOTIC</b></h1>''')
 st.write('''by [@tiagolofi](https://github.com/tiagolofi)''')
+
+col1, col1x, col2, col3, col3x = st.columns(5)
 
 with col1:
 
