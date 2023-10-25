@@ -6455,13 +6455,6 @@
     "chaotic_hash": "346FSY7ADIP0",
     "build_cost": 5
   },
-  "Build Point 3": {
-    "type_card": "power-attacks",
-    "parent_link": "https://chaotic.fandom.com/wiki/Strengthening_Bond",
-    "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/39/Build_Point_3.png/revision/latest?cb=20210827175649",
-    "chaotic_hash": "06YWLEORQM93",
-    "build_cost": 3
-  },
   "Atmosfear": {
     "type_card": "air-attacks",
     "parent_link": "https://chaotic.fandom.com/wiki/Atmosfear",
