@@ -98,13 +98,13 @@ with col1_3:
 
     st.write('Stats')
 
-    st.dataframe(data1['stats'])
+    st.write(data1['stats'])
 
 with col2_1:
 
     st.write('Stats')
 
-    st.dataframe(data2['stats'])
+    st.write(data2['stats'])
 
 with col2_2:
 
