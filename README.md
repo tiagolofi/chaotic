@@ -30,7 +30,7 @@ Algumas mudanças foram realizadas para permitir a gameplay:
 
 * Energia ao longo da partida
 | Evento | Nauthilax | Gespedan |
-|:------:|:---------:|:--------:|
+|------|---------|--------|
 | 1 | 60 | 30 |
 | 2 | 55 | 20 |
 | 3 | 50 | 15 |
