@@ -14,13 +14,8 @@ st.set_page_config(
 
 col1, col1x, col2, col3, col3x = st.columns(5)
 
-st.markdown(
-'''
-<h1 align="center">
-    <b>CHAOTIC</b>
-</h1>
-'''
-)
+st.title('CHAOTIC')
+st.write('''by [@tiagolofi](https://github.com/tiagolofi)''')
 
 with col1:
 
