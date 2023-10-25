@@ -2,15 +2,45 @@
 
 _O repositório mais saudosista do Github_
 
-## [Scrapping das URLs](scrapping.py), [Dados](stats.py) e [Download das Imagens](images.py)
+## Construção
 
-Foram utilizadas as bibliotecas requests e bs4 para [extração das urls](database.json) das [imagens](images/).
+Foram utilizadas as bibliotecas requests e bs4 para [Scrapping das URLs](scrapping.py), [Dados](stats.py) e [Download das Imagens](images.py). O gerenciador da plataforma está em [Drome](drome.py) e o jogo está disposto no [Streamlit](app.py). Infelizmente ainda é necessário papel e caneta.
 
-## [Controller](teste.py)
+## Alterações
 
-## [Interface](teste1.py)
+Algumas mudanças foram realizadas para permitir a gameplay:
 
-## [GamePlay](teste2.py)
+1. O flush agora é no mode roleta russa;
+2. Apenas uma criatura por vez.
+
+## Gameplay
+
+#### Nauthilax vs Gespedan em Cachoeiras Cordac (Submundo)
+
+1. Gespedan toma (-5) de dano devido a iniciativa do local;
+2. Nauthilax ataca com Prowl Strike (dano de imprudência ativado);
+3. Nauthilax usa Destructozooka para ganhar terra (+5) e ataca com Granite Balls;
+4. Nauthilax ataca com Vine Snare e Gespedan perde 25 de velocidade;
+5. Nauthilax ataca com electro web e ganha poder (+15) e velocidade (+15);
+6. Gespedan sacrifica Aqua Shield;
+7. Nauthilax usa Mugic para ganhar água (+5) e ataca com Rip Tide, Gespedan perde coragem (-25);
+8. Nauthilax ataca com Ming Grind e causa dano (-10);
+9. Gespedan usa Mugic e ganha energia (+10) e sabedoria (+10);
+10. Nauthilax ataca com Braveglint, vence os stats checks e causa dano (-25), fim da partida.
+
+* Energia ao longo da partida
+| Evento | Nauthilax | Gespedan |
+|:------:|:---------:|:--------:|
+| 1 | 60 | 30 |
+| 2 | 55 | 20 |
+| 3 | 50 | 15 |
+| 4 | 45 | 15 |
+| 5 | 40 | 15 |
+| 6 | 40 | 30 |
+| 7 | 35 | 25 |
+| 8 | 30 | 15 |
+| 9 | 30 | 25 | 
+| 10 (fim) | 25 | 0 | 
 
 ## Regras
 
