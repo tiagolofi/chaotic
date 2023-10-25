@@ -13,7 +13,6 @@ st.set_page_config(
 )
 
 st.markdown('''<h1 align="center"><b>CHAOTIC</b></h1>''', unsafe_allow_html=True)
-st.write('''by [@tiagolofi](https://github.com/tiagolofi)''')
 
 col1, col1x, col2, col3, col3x = st.columns(5)
 
@@ -118,3 +117,5 @@ with col2_3:
     data_mg2 = d.get_card(name = mugic2)
 
     st.image(Image.open(d.format_image(data_mg2['chaotic_hash'])))
+
+st.write('''by [@tiagolofi](https://github.com/tiagolofi)''')
