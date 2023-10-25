@@ -26,11 +26,19 @@ with col1:
 
     with col1_1:
 
-        bg = st.selectbox('BattleGear', d.get_names_bg())
+        bg = st.selectbox('BattleGear (P1)', d.get_names_bg())
+
+        data_bg = d.get_card(name = bg)
+
+        st.image(Image.open(d.format_image(data_bg['chaotic_hash'])))
 
     with col1_2:
 
-        mugic = st.selectbox('Mugic', d.get_names_mugix())
+        mugic = st.selectbox('Mugic (P1)', d.get_names_mugix())
+
+        data_mg = d.get_card(name = mugic)
+
+        st.image(Image.open(d.format_image(data_mg['chaotic_hash'])))
 
 with col2:
 
@@ -59,3 +67,21 @@ with col3:
     data2 = d.get_card(name = creature)
 
     st.image(Image.open(d.format_image(data2['chaotic_hash'])))
+
+    col2_1, col2_2 = st.columns(2)
+
+    with col2_1:
+
+        bg2 = st.selectbox('BattleGear (P2)', d.get_names_bg())
+
+        data_bg2 = d.get_card(name = bg2)
+
+        st.image(Image.open(d.format_image(data_bg2['chaotic_hash'])))
+
+    with col2_2:
+
+        mugic2 = st.selectbox('Mugic (P2)', d.get_names_mugix())
+
+        data_mg2 = d.get_card(name = mugic2)
+
+        st.image(Image.open(d.format_image(data_mg2['chaotic_hash'])))
