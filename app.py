@@ -14,6 +14,14 @@ st.set_page_config(
 
 col1, col1x, col2, col3, col3x = st.columns(5)
 
+st.markdown(
+'''
+<h1 align="center">
+    <b>CHAOTIC</b>
+</h1>
+'''
+)
+
 with col1:
 
     creature = st.selectbox('Creature (Player 1)', d.get_names_creatures())
