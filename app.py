@@ -12,7 +12,7 @@ st.set_page_config(
 	initial_sidebar_state = 'collapsed' 
 )
 
-col1, col2, col3 = st.columns(3)
+col1, col1x col2, col3, col3x = st.columns(5)
 
 with col1:
 
@@ -21,6 +21,18 @@ with col1:
     data1 = d.get_card(name = creature)
 
     st.image(Image.open(d.format_image(data1['chaotic_hash'])))
+
+with col1x:
+
+    attack = st.button('Attack (P1)')
+
+    if attack:
+
+        st.image(
+            Image.open(
+                d.attack_random()               
+            )
+        )
 
 with col2:
 
@@ -41,6 +53,18 @@ with col2:
     except:
 
         st.info('No Local Selected')
+
+with col3x:
+
+    attack2 = st.button('Attack (P2)')
+
+    if attack2:
+
+        st.image(
+            Image.open(
+                d.attack_random()               
+            )
+        )
 
 with col3:
 

@@ -29,6 +29,14 @@ class Drome():
             hash = sample(list(hashs.values()), 1)[0]
         )
 
+    def attack_random(self):
+
+        hashs = {k: v['chaotic_hash'] for k, v in self.db.items() if 'attack' in v['type_card']}
+
+        return self.format_image(
+            hash = sample(list(hashs.values()), 1)[0]
+        )
+
     def get_names_creatures(self):
 
         return list({k: v for k, v in self.db.items() if v['type_card'] in self.creatures}.keys())
