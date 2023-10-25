@@ -1,6 +1,6 @@
 # Chaotic
 
-_O repositório mais saudosista do Github_
+_O repositório mais saudosista do Github!_
 
 ## Construção
 
