@@ -33,5 +33,4 @@ with col3:
 
     data2 = d.get_card(name = creature)
 
-    t.image(Image.open(d.format_image(data2['chaotic_hash'])))
-    
+    st.image(Image.open(d.format_image(data2['chaotic_hash'])))
