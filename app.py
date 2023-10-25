@@ -12,7 +12,7 @@ st.set_page_config(
 	initial_sidebar_state = 'collapsed' 
 )
 
-col1, col1x col2, col3, col3x = st.columns(5)
+col1, col1x, col2, col3, col3x = st.columns(5)
 
 with col1:
 
