@@ -2,6 +2,8 @@
 
 _O repositório mais saudosista do Github!_
 
+![](inicio.png)
+
 ## Construção
 
 Foram utilizadas as bibliotecas requests e bs4 para [Scrapping das URLs](scrapping.py), [Dados](stats.py) e [Download das Imagens](images.py). O gerenciador da plataforma está em [Drome](drome.py) e o jogo está disposto no [Streamlit](app.py). Infelizmente ainda é necessário papel e caneta.
