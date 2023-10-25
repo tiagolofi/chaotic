@@ -54,7 +54,11 @@ col1_1, col1_2, col1_3, col2_1, col2_2, col2_3 = st.columns(6)
 
 with col1_1:
 
-    st.write(data1['stats'])
+    mugic = st.selectbox('Mugic (P1)', d.get_names_mugix())
+
+    data_mg = d.get_card(name = mugic)
+
+    st.image(Image.open(d.format_image(data_mg['chaotic_hash'])))
 
 with col1_2:
 
@@ -66,11 +70,7 @@ with col1_2:
 
 with col1_3:
 
-    mugic = st.selectbox('Mugic (P1)', d.get_names_mugix())
-
-    data_mg = d.get_card(name = mugic)
-
-    st.image(Image.open(d.format_image(data_mg['chaotic_hash'])))
+    st.write(data1['stats'])
 
 with col2_1:
 
