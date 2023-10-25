@@ -56,6 +56,14 @@ with col2:
 
 with col3x:
 
+    creature = st.selectbox('Creature (Player 2)', d.get_names_creatures())
+
+    data2 = d.get_card(name = creature)
+
+    st.image(Image.open(d.format_image(data2['chaotic_hash'])))
+
+with col3:
+
     attack2 = st.button('Attack (P2)')
 
     if attack2:
@@ -65,14 +73,6 @@ with col3x:
                 d.attack_random()               
             )
         )
-
-with col3:
-
-    creature = st.selectbox('Creature (Player 2)', d.get_names_creatures())
-
-    data2 = d.get_card(name = creature)
-
-    st.image(Image.open(d.format_image(data2['chaotic_hash'])))
 
 col1_1, col1_2, col1_3, col2_1, col2_2, col2_3 = st.columns(6)
 
