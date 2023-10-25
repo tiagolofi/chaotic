@@ -96,11 +96,15 @@ with col1_2:
 
 with col1_3:
 
-    st.write(data1['stats'])
+    st.write('Stats')
+
+    st.dataframe(data1['stats'])
 
 with col2_1:
 
-    st.write(data2['stats'])
+    st.write('Stats')
+
+    st.dataframe(data2['stats'])
 
 with col2_2:
 
