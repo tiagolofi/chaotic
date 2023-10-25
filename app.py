@@ -22,6 +22,16 @@ with col1:
 
     st.image(Image.open(d.format_image(data1['chaotic_hash'])))
 
+    col1_1, col1_2 = st.columns(2)
+
+    with col1_1:
+
+        bg = st.selectbox('BattleGear', d.get_names_bg())
+
+    with col1_2:
+
+        mugic = st.selectbox('Mugic', d.get_names_mugix())
+
 with col2:
 
     select_local = st.button('Choose Battle Local')
@@ -30,11 +40,17 @@ with col2:
 
         st.session_state['location'] = d.location_random()
 
-    st.image(
-        Image.open(
-            st.session_state['location']                
-        )
-    )        
+    try:
+
+        st.image(
+            Image.open(
+                st.session_state['location']                
+            )
+        )        
+
+    except:
+
+        st.info('No Local Selected')
 
 with col3:
 
