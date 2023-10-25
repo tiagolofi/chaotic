@@ -5,6 +5,13 @@ from PIL import Image
 
 d = Drome()
 
+st.set_page_config(
+	page_title='CHAOTIC',
+	layout = 'wide',
+	page_icon = 'logo.png',
+	initial_sidebar_state = 'collapsed' 
+)
+
 col1, col2, col3 = st.columns(3)
 
 with col1:
@@ -21,9 +28,11 @@ with col2:
 
     if select_local:
 
+        st.session_state['location'] = d.location_random()
+
         st.image(
             Image.open(
-                d.location_random()
+                st.session_state['location']                
             )
         )        
 
