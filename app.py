@@ -65,11 +65,9 @@ with col3x:
 
     creature = st.selectbox('Creature (Player 2)', d.get_names_creatures())
 
-    data2 = d.get_card(name = creature)
+    st.session_state['d2'] = d.get_card(name = creature)
 
-    st.session_state['d2'] = data2
-
-    st.image(Image.open(d.format_image(data2['chaotic_hash'])))
+    st.image(Image.open(d.format_image(st.session_state['d2']['chaotic_hash'])))
 
 with col3:
 
