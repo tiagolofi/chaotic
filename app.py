@@ -140,8 +140,8 @@ with col2_1:
 
     if action2:
 
-        data2['stats'].get(var) += value_credit
-        data2['stats'].get(var) -= value_debit
+        data2['stats'].get(var) += value_credit2
+        data2['stats'].get(var) -= value_debit2
 
 with col2_2:
 
