@@ -65,9 +65,9 @@ with col3x:
 
     creature = st.selectbox('Creature (Player 2)', d.get_names_creatures())
 
-    st.session_state['d2'] = d.get_card(name = creature)
+    data2 = d.get_card(name = creature)
 
-    st.image(Image.open(d.format_image(st.session_state['d2']['chaotic_hash'])))
+    st.image(Image.open(d.format_image(data2['chaotic_hash'])))
 
 with col3:
 
@@ -126,7 +126,7 @@ with col2_1:
 
     st.write('Stats (P2)')
 
-    for k, v in st.session_state['d2']['stats'].items():
+    for k, v in data2['stats'].items():
         
         st.progress(v, text = k + ': '+ str(v))
 
@@ -140,8 +140,8 @@ with col2_1:
 
     if action2:
 
-        st.session_state['d2']['stats'][var2] += value_credit2
-        st.session_state['d2']['stats'][var2] -= value_debit2
+        data2['stats'][var2] += value_credit2
+        data2['stats'][var2] -= value_debit2
 
 with col2_2:
 
