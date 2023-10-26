@@ -69,6 +69,8 @@ with col3x:
 
     st.image(Image.open(d.format_image(st.session_state['d2']['chaotic_hash'])))
 
+    st.write(st.session_state['d2'])
+
 with col3:
 
     attack2 = st.button('Attack (P2)')
