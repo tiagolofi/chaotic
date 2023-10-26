@@ -117,8 +117,8 @@ with col1_3:
 
     if action:
 
-        data1['stats'][var] = data1['stats'].get(var) += value_credit
-        data1['stats'][var] = data1['stats'].get(var) -= value_debit
+        data1['stats'].get(var) += value_credit
+        data1['stats'].get(var) -= value_debit
 
     # st.write(data1['stats'])
 
@@ -140,8 +140,8 @@ with col2_1:
 
     if action2:
 
-        data2['stats'][var] = data2['stats'].get(var) += value_credit
-        data2['stats'][var] = data2['stats'].get(var) -= value_debit
+        data2['stats'].get(var) += value_credit
+        data2['stats'].get(var) -= value_debit
 
 with col2_2:
 
