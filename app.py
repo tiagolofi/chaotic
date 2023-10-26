@@ -107,7 +107,7 @@ with col1_3:
 
         st.progress(v, text = k + ': '+ str(v))
 
-    var = st.selectbox('Attribute:', ['Courage', 'Power', 'Wisdom', 'Speed', 'Energy'])
+    var = st.selectbox('Attribute (P1)', ['Courage', 'Power', 'Wisdom', 'Speed', 'Energy'])
 
     value_debit = st.number_input('Debit (P1)')
 
@@ -130,7 +130,7 @@ with col2_1:
         
         st.progress(v, text = k + ': '+ str(v))
 
-    var2 = st.selectbox('Attribute:', ['Courage', 'Power', 'Wisdom', 'Speed', 'Energy'])
+    var2 = st.selectbox('Attribute (P2)', ['Courage', 'Power', 'Wisdom', 'Speed', 'Energy'])
 
     value_debit2 = st.number_input('Debit (P2)', step = 1)
 
