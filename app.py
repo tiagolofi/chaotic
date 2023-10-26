@@ -109,9 +109,9 @@ with col1_3:
 
     var = st.selectbox('Attribute:', ['Courage', 'Power', 'Wisdom', 'Speed', 'Energy'])
 
-    value_debit = st.number_input('Debit (P1)', step = 1)
+    value_debit = st.number_input('Debit (P1)')
 
-    value_credit = st.number_input('Credit (P1)', step = 1)
+    value_credit = st.number_input('Credit (P1)')
 
     action = st.button('Action (P1)')
 
