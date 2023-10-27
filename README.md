@@ -17,33 +17,22 @@ Algumas mudanças foram realizadas para permitir a gameplay:
 
 ## Gameplay
 
-#### Nauthilax vs Gespedan em Cachoeiras Cordac (Submundo)
+#### Dractyl vs Malvadine nos Trópicos Mipedian
 
-1. Gespedan toma (-5) de dano devido a iniciativa do local;
-2. Nauthilax ataca com Prowl Strike (dano de imprudência ativado);
-3. Nauthilax usa Destructozooka para ganhar terra (+5) e ataca com Granite Balls;
-4. Nauthilax ataca com Vine Snare e Gespedan perde 25 de velocidade;
-5. Nauthilax ataca com electro web e ganha poder (+15) e velocidade (+15);
-6. Gespedan sacrifica Aqua Shield;
-7. Nauthilax usa Mugic para ganhar água (+5) e ataca com Rip Tide, Gespedan perde coragem (-25);
-8. Nauthilax ataca com Ming Grind e causa dano (-10);
-9. Gespedan usa Mugic e ganha energia (+10) e sabedoria (+10);
-10. Nauthilax ataca com Braveglint, vence os stats checks e causa dano (-25), fim da partida.
+Dractyl equipado com phoenix belt - (-10) se sacrificado
+Malvadine equipado com liquilizer - "Água"
 
-* Energia ao longo da partida
-
-| Evento | Nauthilax | Gespedan |
-|:------:|:---------:|:--------:|
-| 1 | 60 | 30 |
-| 2 | 55 | 20 |
-| 3 | 50 | 15 |
-| 4 | 45 | 15 |
-| 5 | 40 | 15 |
-| 6 | 40 | 30 |
-| 7 | 35 | 25 |
-| 8 | 30 | 15 |
-| 9 | 30 | 25 | 
-| 10 (fim) | 25 | 0 | 
+1. Malvadine toma a iniciativa e causa (-5) com smartsmack;
+2. Malvadine causa (-10) com liquescente swirl;
+3. Dractyl revida com dexterous storm (-5) e ganha "Ar";
+4. Malvadine usa megaroar e causa (-10);
+5. Dractyl usa blind eyes e causa (-10);
+6. Malvadine usa sink scream e zera toda a sabedoria de Dractyl;
+7. Dractyl ataca com extinguishing fountain e causa (-5);
+8. Dractyl ataca com gravity slam e causa (-5);
+9. Malvadine ataca com vine snare (-5);
+10. Dractyl ataca com minor roar e causa (-10) - com efeito de "Ar"
+9. Malvadine vence (-10);
 
 ## Regras
 
