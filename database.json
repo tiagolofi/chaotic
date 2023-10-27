@@ -10,7 +10,10 @@
       "Wisdom": 65,
       "Speed": 45,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Agrino Jaldar": {
     "type_card": "danians",
@@ -23,7 +26,8 @@
       "Wisdom": 40,
       "Speed": 55,
       "Energy": 55
-    }
+    },
+    "elements": []
   },
   "Aimukk": {
     "type_card": "danians",
@@ -36,7 +40,10 @@
       "Wisdom": 20,
       "Speed": 30,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Ambolx": {
     "type_card": "danians",
@@ -49,7 +56,10 @@
       "Wisdom": 80,
       "Speed": 40,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Aszil, The Young Queen": {
     "type_card": "danians",
@@ -62,7 +72,8 @@
       "Wisdom": 85,
       "Speed": 35,
       "Energy": 60
-    }
+    },
+    "elements": []
   },
   "Aureban": {
     "type_card": "danians",
@@ -75,7 +86,11 @@
       "Wisdom": 40,
       "Speed": 55,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Earth",
+      "Water"
+    ]
   },
   "Balaan": {
     "type_card": "danians",
@@ -88,7 +103,8 @@
       "Wisdom": 50,
       "Speed": 25,
       "Energy": 55
-    }
+    },
+    "elements": []
   },
   "Bierk": {
     "type_card": "danians",
@@ -101,7 +117,11 @@
       "Wisdom": 50,
       "Speed": 40,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Fire",
+      "Water"
+    ]
   },
   "Chaac": {
     "type_card": "danians",
@@ -114,7 +134,8 @@
       "Wisdom": 50,
       "Speed": 35,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Daj Huun": {
     "type_card": "danians",
@@ -127,7 +148,8 @@
       "Wisdom": 35,
       "Speed": 70,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Odu-Bathax": {
     "type_card": "danians",
@@ -140,7 +162,10 @@
       "Wisdom": 50,
       "Speed": 40,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Dasalin": {
     "type_card": "danians",
@@ -153,7 +178,10 @@
       "Wisdom": 65,
       "Speed": 25,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Dhilas": {
     "type_card": "danians",
@@ -166,7 +194,10 @@
       "Wisdom": 60,
       "Speed": 30,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Drazz": {
     "type_card": "danians",
@@ -179,7 +210,11 @@
       "Wisdom": 35,
       "Speed": 20,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Water",
+      "Earth"
+    ]
   },
   "Dubin": {
     "type_card": "danians",
@@ -192,7 +227,8 @@
       "Wisdom": 50,
       "Speed": 25,
       "Energy": 30
-    }
+    },
+    "elements": []
   },
   "Ekuud": {
     "type_card": "danians",
@@ -205,7 +241,10 @@
       "Wisdom": 30,
       "Speed": 40,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Elhadd": {
     "type_card": "danians",
@@ -218,7 +257,10 @@
       "Wisdom": 75,
       "Speed": 80,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Elna": {
     "type_card": "danians",
@@ -231,7 +273,10 @@
       "Wisdom": 45,
       "Speed": 45,
       "Energy": 65
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Faash": {
     "type_card": "danians",
@@ -244,7 +289,10 @@
       "Wisdom": 35,
       "Speed": 55,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Fliandar": {
     "type_card": "danians",
@@ -257,7 +305,11 @@
       "Wisdom": 75,
       "Speed": 35,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Water",
+      "Earth"
+    ]
   },
   "Formicidor": {
     "type_card": "danians",
@@ -270,7 +322,10 @@
       "Wisdom": 35,
       "Speed": 40,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Galin": {
     "type_card": "danians",
@@ -283,7 +338,8 @@
       "Wisdom": 40,
       "Speed": 65,
       "Energy": 50
-    }
+    },
+    "elements": []
   },
   "Gareep": {
     "type_card": "danians",
@@ -296,7 +352,10 @@
       "Wisdom": 70,
       "Speed": 30,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Gazarbash, Infecting Terraformer": {
     "type_card": "danians",
@@ -309,7 +368,10 @@
       "Wisdom": 45,
       "Speed": 45,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Ghundac": {
     "type_card": "danians",
@@ -322,7 +384,11 @@
       "Wisdom": 40,
       "Speed": 80,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Glapaal": {
     "type_card": "danians",
@@ -335,7 +401,8 @@
       "Wisdom": 60,
       "Speed": 40,
       "Energy": 35
-    }
+    },
+    "elements": []
   },
   "Gorram, Danian General": {
     "type_card": "danians",
@@ -348,7 +415,12 @@
       "Wisdom": 75,
       "Speed": 35,
       "Energy": 30
-    }
+    },
+    "elements": [
+      "Air",
+      "Fire",
+      "Water"
+    ]
   },
   "Hammerdoom Chantcaller": {
     "type_card": "underworlders",
@@ -361,7 +433,10 @@
       "Wisdom": 40,
       "Speed": 55,
       "Energy": 65
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Hermatred": {
     "type_card": "danians",
@@ -374,7 +449,10 @@
       "Wisdom": 45,
       "Speed": 30,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Hiadrom": {
     "type_card": "danians",
@@ -387,7 +465,11 @@
       "Wisdom": 55,
       "Speed": 40,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Earth",
+      "Water"
+    ]
   },
   "Hota": {
     "type_card": "danians",
@@ -400,7 +482,10 @@
       "Wisdom": 35,
       "Speed": 30,
       "Energy": 30
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Illexia, The Danian Queen": {
     "type_card": "danians",
@@ -413,7 +498,10 @@
       "Wisdom": 65,
       "Speed": 25,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Irrabeq": {
     "type_card": "danians",
@@ -426,7 +514,11 @@
       "Wisdom": 50,
       "Speed": 60,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Water",
+      "Earth"
+    ]
   },
   "Ivelaan": {
     "type_card": "danians",
@@ -439,7 +531,10 @@
       "Wisdom": 65,
       "Speed": 75,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Jaal": {
     "type_card": "danians",
@@ -452,7 +547,10 @@
       "Wisdom": 65,
       "Speed": 30,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Junda": {
     "type_card": "danians",
@@ -465,7 +563,8 @@
       "Wisdom": 50,
       "Speed": 40,
       "Energy": 50
-    }
+    },
+    "elements": []
   },
   "Kalanju": {
     "type_card": "danians",
@@ -478,7 +577,10 @@
       "Wisdom": 55,
       "Speed": 40,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Kannen": {
     "type_card": "danians",
@@ -491,7 +593,8 @@
       "Wisdom": 70,
       "Speed": 25,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Kapalor": {
     "type_card": "danians",
@@ -504,7 +607,8 @@
       "Wisdom": 40,
       "Speed": 30,
       "Energy": 35
-    }
+    },
+    "elements": []
   },
   "Katharaz": {
     "type_card": "danians",
@@ -517,7 +621,12 @@
       "Wisdom": 45,
       "Speed": 35,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water",
+      "Earth",
+      "Air"
+    ]
   },
   "Kebna": {
     "type_card": "danians",
@@ -530,7 +639,10 @@
       "Wisdom": 55,
       "Speed": 35,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Kelvedran": {
     "type_card": "danians",
@@ -543,7 +655,12 @@
       "Wisdom": 35,
       "Speed": 55,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Air",
+      "Fire",
+      "Earth"
+    ]
   },
   "Kepiaan, Danian Lieutenant": {
     "type_card": "danians",
@@ -556,7 +673,10 @@
       "Wisdom": 40,
       "Speed": 40,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Ketun": {
     "type_card": "danians",
@@ -569,7 +689,8 @@
       "Wisdom": 80,
       "Speed": 55,
       "Energy": 50
-    }
+    },
+    "elements": []
   },
   "Khavakk": {
     "type_card": "danians",
@@ -582,7 +703,10 @@
       "Wisdom": 35,
       "Speed": 25,
       "Energy": 30
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Khritlaan": {
     "type_card": "danians",
@@ -595,7 +719,10 @@
       "Wisdom": 65,
       "Speed": 25,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Klencka": {
     "type_card": "danians",
@@ -608,7 +735,12 @@
       "Wisdom": 50,
       "Speed": 85,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Air",
+      "Earth",
+      "Water"
+    ]
   },
   "Kolmo": {
     "type_card": "mipedians",
@@ -621,7 +753,10 @@
       "Wisdom": 50,
       "Speed": 40,
       "Energy": 65
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Lendai": {
     "type_card": "danians",
@@ -634,7 +769,11 @@
       "Wisdom": 60,
       "Speed": 40,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Water",
+      "Earth"
+    ]
   },
   "Lhad": {
     "type_card": "danians",
@@ -647,7 +786,10 @@
       "Wisdom": 70,
       "Speed": 25,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Lobanne": {
     "type_card": "danians",
@@ -660,7 +802,13 @@
       "Wisdom": 55,
       "Speed": 35,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Air",
+      "Fire",
+      "Earth",
+      "Water"
+    ]
   },
   "Lore": {
     "type_card": "danians",
@@ -673,7 +821,10 @@
       "Wisdom": 70,
       "Speed": 30,
       "Energy": 25
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Mahrrant": {
     "type_card": "danians",
@@ -686,7 +837,8 @@
       "Wisdom": 65,
       "Speed": 25,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Makanaz": {
     "type_card": "danians",
@@ -699,7 +851,11 @@
       "Wisdom": 50,
       "Speed": 75,
       "Energy": 65
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Makrabon": {
     "type_card": "danians",
@@ -712,7 +868,8 @@
       "Wisdom": 50,
       "Speed": 25,
       "Energy": 35
-    }
+    },
+    "elements": []
   },
   "Makromil": {
     "type_card": "danians",
@@ -725,7 +882,11 @@
       "Wisdom": 35,
       "Speed": 70,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Mallash": {
     "type_card": "danians",
@@ -738,7 +899,10 @@
       "Wisdom": 45,
       "Speed": 35,
       "Energy": 30
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Masilbaat": {
     "type_card": "danians",
@@ -751,7 +915,11 @@
       "Wisdom": 55,
       "Speed": 30,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Mhein": {
     "type_card": "danians",
@@ -764,7 +932,12 @@
       "Wisdom": 40,
       "Speed": 30,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water",
+      "Earth",
+      "Air"
+    ]
   },
   "Mivindal": {
     "type_card": "danians",
@@ -777,7 +950,10 @@
       "Wisdom": 45,
       "Speed": 40,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Nakal": {
     "type_card": "danians",
@@ -790,7 +966,11 @@
       "Wisdom": 30,
       "Speed": 55,
       "Energy": 30
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Necrabe": {
     "type_card": "danians",
@@ -803,7 +983,10 @@
       "Wisdom": 70,
       "Speed": 35,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Neekwin": {
     "type_card": "danians",
@@ -816,7 +999,11 @@
       "Wisdom": 90,
       "Speed": 35,
       "Energy": 65
-    }
+    },
+    "elements": [
+      "Water",
+      "Air"
+    ]
   },
   "Nimmei": {
     "type_card": "danians",
@@ -829,7 +1016,12 @@
       "Wisdom": 35,
       "Speed": 50,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Air",
+      "Earth",
+      "Water"
+    ]
   },
   "Nukasai": {
     "type_card": "danians",
@@ -842,7 +1034,8 @@
       "Wisdom": 60,
       "Speed": 35,
       "Energy": 50
-    }
+    },
+    "elements": []
   },
   "Nunk'worn": {
     "type_card": "marrillians",
@@ -855,7 +1048,11 @@
       "Wisdom": 70,
       "Speed": 45,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Fire",
+      "Water"
+    ]
   },
   "Orbaat": {
     "type_card": "danians",
@@ -868,7 +1065,10 @@
       "Wisdom": 60,
       "Speed": 25,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Ramarhvir, The Danian Hivebringer": {
     "type_card": "danians",
@@ -881,7 +1081,10 @@
       "Wisdom": 50,
       "Speed": 25,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Raznus, Ambassador to the Danians": {
     "type_card": "overworlders",
@@ -894,7 +1097,12 @@
       "Wisdom": 70,
       "Speed": 40,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth",
+      "Water"
+    ]
   },
   "Rebant": {
     "type_card": "danians",
@@ -907,7 +1115,8 @@
       "Wisdom": 65,
       "Speed": 40,
       "Energy": 30
-    }
+    },
+    "elements": []
   },
   "Riggan": {
     "type_card": "danians",
@@ -920,7 +1129,10 @@
       "Wisdom": 65,
       "Speed": 35,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Scepter of the Infernal Parasite": {
     "type_card": "battlegear",
@@ -939,7 +1151,8 @@
       "Wisdom": 40,
       "Speed": 55,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Tabaal": {
     "type_card": "danians",
@@ -952,7 +1165,11 @@
       "Wisdom": 40,
       "Speed": 60,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water",
+      "Air"
+    ]
   },
   "Tarbok": {
     "type_card": "danians",
@@ -965,7 +1182,12 @@
       "Wisdom": 45,
       "Speed": 40,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Air",
+      "Fire",
+      "Water"
+    ]
   },
   "Tarin": {
     "type_card": "danians",
@@ -978,7 +1200,10 @@
       "Wisdom": 35,
       "Speed": 40,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Tarteme": {
     "type_card": "danians",
@@ -991,7 +1216,8 @@
       "Wisdom": 35,
       "Speed": 40,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Tassanil": {
     "type_card": "danians",
@@ -1004,7 +1230,13 @@
       "Wisdom": 55,
       "Speed": 50,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Air",
+      "Fire",
+      "Earth",
+      "Water"
+    ]
   },
   "Tharc, Tablet Translator": {
     "type_card": "danians",
@@ -1017,7 +1249,10 @@
       "Wisdom": 80,
       "Speed": 30,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Topar": {
     "type_card": "danians",
@@ -1030,7 +1265,8 @@
       "Wisdom": 45,
       "Speed": 30,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Uholdan": {
     "type_card": "danians",
@@ -1043,7 +1279,11 @@
       "Wisdom": 40,
       "Speed": 55,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Water",
+      "Earth"
+    ]
   },
   "Ulmquad": {
     "type_card": "danians",
@@ -1056,7 +1296,11 @@
       "Wisdom": 40,
       "Speed": 60,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Water",
+      "Air"
+    ]
   },
   "Valanii Levaan": {
     "type_card": "danians",
@@ -1069,7 +1313,10 @@
       "Wisdom": 15,
       "Speed": 25,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Valban": {
     "type_card": "danians",
@@ -1082,7 +1329,8 @@
       "Wisdom": 65,
       "Speed": 40,
       "Energy": 55
-    }
+    },
+    "elements": []
   },
   "Vilrik Landfarer": {
     "type_card": "danians",
@@ -1095,7 +1343,8 @@
       "Wisdom": 70,
       "Speed": 40,
       "Energy": 35
-    }
+    },
+    "elements": []
   },
   "Vollash": {
     "type_card": "danians",
@@ -1108,7 +1357,8 @@
       "Wisdom": 40,
       "Speed": 45,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Vunhra": {
     "type_card": "danians",
@@ -1121,7 +1371,10 @@
       "Wisdom": 80,
       "Speed": 25,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Wamma": {
     "type_card": "danians",
@@ -1134,7 +1387,11 @@
       "Wisdom": 30,
       "Speed": 25,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Yondaf": {
     "type_card": "danians",
@@ -1147,7 +1404,12 @@
       "Wisdom": 65,
       "Speed": 20,
       "Energy": 30
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth",
+      "Water"
+    ]
   },
   "Aa'une the Oligarch, Projection": {
     "type_card": "marrillians",
@@ -1160,7 +1422,10 @@
       "Wisdom": 50,
       "Speed": 50,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Ab lop1": {
     "type_card": "marrillians",
@@ -1173,7 +1438,8 @@
       "Wisdom": 0,
       "Speed": 0,
       "Energy": 0
-    }
+    },
+    "elements": []
   },
   "M'arrillian": {
     "type_card": "marrillians",
@@ -1186,7 +1452,11 @@
       "Wisdom": 40,
       "Speed": 90,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Earth",
+      "Water"
+    ]
   },
   "Anger'keem": {
     "type_card": "marrillians",
@@ -1199,7 +1469,10 @@
       "Wisdom": 65,
       "Speed": 35,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Ast'imal": {
     "type_card": "marrillians",
@@ -1212,7 +1485,10 @@
       "Wisdom": 70,
       "Speed": 50,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Aval'par": {
     "type_card": "marrillians",
@@ -1225,7 +1501,10 @@
       "Wisdom": 40,
       "Speed": 65,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Bahrakatan, The Coralsmith": {
     "type_card": "marrillians",
@@ -1238,7 +1517,10 @@
       "Wisdom": 60,
       "Speed": 50,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Blak'drin": {
     "type_card": "marrillians",
@@ -1251,7 +1533,11 @@
       "Wisdom": 55,
       "Speed": 70,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Air",
+      "Water"
+    ]
   },
   "Bo'aam": {
     "type_card": "marrillians",
@@ -1264,7 +1550,10 @@
       "Wisdom": 85,
       "Speed": 40,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Dreg'ora": {
     "type_card": "marrillians",
@@ -1277,7 +1566,10 @@
       "Wisdom": 25,
       "Speed": 35,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Erak'tabb": {
     "type_card": "marrillians",
@@ -1290,7 +1582,10 @@
       "Wisdom": 85,
       "Speed": 25,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Fal'makin": {
     "type_card": "marrillians",
@@ -1303,7 +1598,11 @@
       "Wisdom": 90,
       "Speed": 60,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Fire",
+      "Water"
+    ]
   },
   "Fla'Gamp": {
     "type_card": "marrillians",
@@ -1316,7 +1615,8 @@
       "Wisdom": 50,
       "Speed": 65,
       "Energy": 55
-    }
+    },
+    "elements": []
   },
   "Gal'drad": {
     "type_card": "marrillians",
@@ -1329,7 +1629,10 @@
       "Wisdom": 35,
       "Speed": 40,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Gan'nim": {
     "type_card": "marrillians",
@@ -1342,7 +1645,10 @@
       "Wisdom": 50,
       "Speed": 15,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Ghar'lag": {
     "type_card": "marrillians",
@@ -1355,7 +1661,10 @@
       "Wisdom": 65,
       "Speed": 75,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Ihun'kalin": {
     "type_card": "marrillians",
@@ -1368,7 +1677,10 @@
       "Wisdom": 40,
       "Speed": 85,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Ikub'ra": {
     "type_card": "marrillians",
@@ -1381,7 +1693,11 @@
       "Wisdom": 90,
       "Speed": 50,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Fire",
+      "Water"
+    ]
   },
   "Jus'hebban": {
     "type_card": "marrillians",
@@ -1394,7 +1710,10 @@
       "Wisdom": 90,
       "Speed": 95,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Ki'bro": {
     "type_card": "marrillians",
@@ -1407,7 +1726,10 @@
       "Wisdom": 50,
       "Speed": 40,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Klik'ssi": {
     "type_card": "marrillians",
@@ -1420,7 +1742,10 @@
       "Wisdom": 70,
       "Speed": 50,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Lam'inkal": {
     "type_card": "marrillians",
@@ -1433,7 +1758,11 @@
       "Wisdom": 55,
       "Speed": 25,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Water",
+      "Air"
+    ]
   },
   "Seeryn, Servant of Fire": {
     "type_card": "underworlders",
@@ -1446,7 +1775,10 @@
       "Wisdom": 40,
       "Speed": 45,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Mock'adyn": {
     "type_card": "marrillians",
@@ -1459,7 +1791,10 @@
       "Wisdom": 50,
       "Speed": 35,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Neth'uar": {
     "type_card": "marrillians",
@@ -1472,7 +1807,10 @@
       "Wisdom": 45,
       "Speed": 65,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Nis'dabba": {
     "type_card": "marrillians",
@@ -1485,7 +1823,10 @@
       "Wisdom": 60,
       "Speed": 60,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Part'soa": {
     "type_card": "marrillians",
@@ -1498,7 +1839,10 @@
       "Wisdom": 80,
       "Speed": 40,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Phelphor": {
     "type_card": "underworlders",
@@ -1511,7 +1855,10 @@
       "Wisdom": 60,
       "Speed": 50,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Rath'tab": {
     "type_card": "marrillians",
@@ -1524,7 +1871,10 @@
       "Wisdom": 100,
       "Speed": 40,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Ri'oha": {
     "type_card": "marrillians",
@@ -1537,7 +1887,10 @@
       "Wisdom": 45,
       "Speed": 40,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Ritzu'dag": {
     "type_card": "marrillians",
@@ -1550,7 +1903,10 @@
       "Wisdom": 50,
       "Speed": 50,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Rol'doi": {
     "type_card": "marrillians",
@@ -1563,7 +1919,10 @@
       "Wisdom": 40,
       "Speed": 40,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Son'las": {
     "type_card": "marrillians",
@@ -1576,7 +1935,10 @@
       "Wisdom": 60,
       "Speed": 70,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Tir'baleen": {
     "type_card": "marrillians",
@@ -1589,7 +1951,10 @@
       "Wisdom": 85,
       "Speed": 35,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Vix'ben": {
     "type_card": "marrillians",
@@ -1602,7 +1967,10 @@
       "Wisdom": 65,
       "Speed": 35,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Wilt'dred": {
     "type_card": "marrillians",
@@ -1615,7 +1983,10 @@
       "Wisdom": 70,
       "Speed": 45,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Xis'torq": {
     "type_card": "marrillians",
@@ -1628,7 +1999,10 @@
       "Wisdom": 70,
       "Speed": 50,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Abin-Wor": {
     "type_card": "mipedians",
@@ -1641,7 +2015,8 @@
       "Wisdom": 55,
       "Speed": 45,
       "Energy": 30
-    }
+    },
+    "elements": []
   },
   "Adomo": {
     "type_card": "mipedians",
@@ -1654,7 +2029,8 @@
       "Wisdom": 0,
       "Speed": 0,
       "Energy": 0
-    }
+    },
+    "elements": []
   },
   "Ailav": {
     "type_card": "mipedians",
@@ -1667,7 +2043,11 @@
       "Wisdom": 60,
       "Speed": 75,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Ajara": {
     "type_card": "mipedians",
@@ -1680,7 +2060,8 @@
       "Wisdom": 40,
       "Speed": 80,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Akkalbi": {
     "type_card": "mipedians",
@@ -1693,7 +2074,8 @@
       "Wisdom": 70,
       "Speed": 35,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Alazdan": {
     "type_card": "mipedians",
@@ -1706,7 +2088,11 @@
       "Wisdom": 65,
       "Speed": 20,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water",
+      "Air"
+    ]
   },
   "Appelai": {
     "type_card": "mipedians",
@@ -1719,7 +2105,8 @@
       "Wisdom": 60,
       "Speed": 35,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Ario": {
     "type_card": "mipedians",
@@ -1732,7 +2119,10 @@
       "Wisdom": 25,
       "Speed": 55,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Arkanin": {
     "type_card": "mipedians",
@@ -1745,7 +2135,8 @@
       "Wisdom": 70,
       "Speed": 55,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Biondu": {
     "type_card": "mipedians",
@@ -1758,7 +2149,10 @@
       "Wisdom": 30,
       "Speed": 35,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Bivike": {
     "type_card": "mipedians",
@@ -1771,7 +2165,11 @@
       "Wisdom": 40,
       "Speed": 70,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Blazvatan": {
     "type_card": "mipedians",
@@ -1784,7 +2182,11 @@
       "Wisdom": 50,
       "Speed": 150,
       "Energy": 70
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Brathe": {
     "type_card": "mipedians",
@@ -1797,7 +2199,8 @@
       "Wisdom": 65,
       "Speed": 55,
       "Energy": 55
-    }
+    },
+    "elements": []
   },
   "Bylkian": {
     "type_card": "mipedians",
@@ -1810,7 +2213,8 @@
       "Wisdom": 50,
       "Speed": 30,
       "Energy": 35
-    }
+    },
+    "elements": []
   },
   "Dibanni": {
     "type_card": "mipedians",
@@ -1823,7 +2227,8 @@
       "Wisdom": 70,
       "Speed": 55,
       "Energy": 30
-    }
+    },
+    "elements": []
   },
   "Drimesse": {
     "type_card": "mipedians",
@@ -1836,7 +2241,8 @@
       "Wisdom": 60,
       "Speed": 40,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Ebberim": {
     "type_card": "mipedians",
@@ -1849,7 +2255,11 @@
       "Wisdom": 45,
       "Speed": 70,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Air",
+      "Earth"
+    ]
   },
   "Ebbikka": {
     "type_card": "mipedians",
@@ -1862,7 +2272,10 @@
       "Wisdom": 65,
       "Speed": 85,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Epaluo": {
     "type_card": "mipedians",
@@ -1875,7 +2288,8 @@
       "Wisdom": 75,
       "Speed": 60,
       "Energy": 50
-    }
+    },
+    "elements": []
   },
   "Epitrinne": {
     "type_card": "mipedians",
@@ -1888,7 +2302,11 @@
       "Wisdom": 45,
       "Speed": 95,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Ere": {
     "type_card": "mipedians",
@@ -1901,7 +2319,10 @@
       "Wisdom": 20,
       "Speed": 100,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Farhkaj": {
     "type_card": "mipedians",
@@ -1914,7 +2335,11 @@
       "Wisdom": 45,
       "Speed": 75,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Air",
+      "Water"
+    ]
   },
   "Fasseph": {
     "type_card": "mipedians",
@@ -1927,7 +2352,11 @@
       "Wisdom": 60,
       "Speed": 80,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Fazkaal": {
     "type_card": "mipedians",
@@ -1940,7 +2369,11 @@
       "Wisdom": 50,
       "Speed": 30,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Fire",
+      "Air"
+    ]
   },
   "Fivarth": {
     "type_card": "mipedians",
@@ -1953,7 +2386,8 @@
       "Wisdom": 15,
       "Speed": 15,
       "Energy": 15
-    }
+    },
+    "elements": []
   },
   "Gaffat-ra": {
     "type_card": "mipedians",
@@ -1966,7 +2400,10 @@
       "Wisdom": 100,
       "Speed": 50,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Gintanai, The Forgotten": {
     "type_card": "mipedians",
@@ -1979,7 +2416,11 @@
       "Wisdom": 30,
       "Speed": 120,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Glost": {
     "type_card": "mipedians",
@@ -1992,7 +2433,11 @@
       "Wisdom": 30,
       "Speed": 75,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Gnarlus": {
     "type_card": "mipedians",
@@ -2005,7 +2450,8 @@
       "Wisdom": 30,
       "Speed": 65,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Grantkae, Mipedian General": {
     "type_card": "mipedians",
@@ -2018,7 +2464,11 @@
       "Wisdom": 65,
       "Speed": 85,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Air",
+      "Water"
+    ]
   },
   "Habekh": {
     "type_card": "mipedians",
@@ -2031,7 +2481,8 @@
       "Wisdom": 60,
       "Speed": 60,
       "Energy": 30
-    }
+    },
+    "elements": []
   },
   "Headmaster Ankhyja": {
     "type_card": "mipedians",
@@ -2044,7 +2495,11 @@
       "Wisdom": 45,
       "Speed": 100,
       "Energy": 65
-    }
+    },
+    "elements": [
+      "Air",
+      "Earth"
+    ]
   },
   "Ifjann": {
     "type_card": "mipedians",
@@ -2057,7 +2512,10 @@
       "Wisdom": 60,
       "Speed": 70,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Iflar, The Crown Prince": {
     "type_card": "mipedians",
@@ -2070,7 +2528,10 @@
       "Wisdom": 50,
       "Speed": 75,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Ixxik": {
     "type_card": "mipedians",
@@ -2083,7 +2544,11 @@
       "Wisdom": 30,
       "Speed": 80,
       "Energy": 85
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Jorre, Mipedian Lieutenant": {
     "type_card": "mipedians",
@@ -2096,7 +2561,10 @@
       "Wisdom": 25,
       "Speed": 80,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Jumbad": {
     "type_card": "mipedians",
@@ -2109,7 +2577,10 @@
       "Wisdom": 60,
       "Speed": 75,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Khenti": {
     "type_card": "mipedians",
@@ -2122,7 +2593,10 @@
       "Wisdom": 35,
       "Speed": 90,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Khorror": {
     "type_card": "mipedians",
@@ -2135,7 +2609,8 @@
       "Wisdom": 15,
       "Speed": 100,
       "Energy": 130
-    }
+    },
+    "elements": []
   },
   "Kileron, Warbeast of the Dust Storm": {
     "type_card": "mipedians",
@@ -2148,7 +2623,11 @@
       "Wisdom": 30,
       "Speed": 70,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Kojjbel": {
     "type_card": "mipedians",
@@ -2161,7 +2640,10 @@
       "Wisdom": 35,
       "Speed": 85,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Kolmo, Purified": {
     "type_card": "mipedians",
@@ -2174,7 +2656,11 @@
       "Wisdom": 45,
       "Speed": 95,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Lanker": {
     "type_card": "mipedians",
@@ -2187,7 +2673,8 @@
       "Wisdom": 90,
       "Speed": 30,
       "Energy": 30
-    }
+    },
+    "elements": []
   },
   "Majjcan": {
     "type_card": "mipedians",
@@ -2200,7 +2687,11 @@
       "Wisdom": 50,
       "Speed": 80,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Malvadine": {
     "type_card": "mipedians",
@@ -2213,7 +2704,10 @@
       "Wisdom": 40,
       "Speed": 55,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Marquis Darini": {
     "type_card": "mipedians",
@@ -2226,7 +2720,11 @@
       "Wisdom": 65,
       "Speed": 40,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Fire",
+      "Air"
+    ]
   },
   "Melke": {
     "type_card": "mipedians",
@@ -2239,7 +2737,11 @@
       "Wisdom": 20,
       "Speed": 65,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Mizkio": {
     "type_card": "mipedians",
@@ -2252,7 +2754,11 @@
       "Wisdom": 40,
       "Speed": 65,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Munnari": {
     "type_card": "mipedians",
@@ -2265,7 +2771,10 @@
       "Wisdom": 50,
       "Speed": 70,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Na-inna": {
     "type_card": "mipedians",
@@ -2278,7 +2787,8 @@
       "Wisdom": 50,
       "Speed": 50,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Ninren": {
     "type_card": "mipedians",
@@ -2291,7 +2801,10 @@
       "Wisdom": 25,
       "Speed": 150,
       "Energy": 70
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Otinee": {
     "type_card": "mipedians",
@@ -2304,7 +2817,11 @@
       "Wisdom": 55,
       "Speed": 65,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Water",
+      "Earth"
+    ]
   },
   "Owayki": {
     "type_card": "mipedians",
@@ -2317,7 +2834,11 @@
       "Wisdom": 45,
       "Speed": 85,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Fire",
+      "Air"
+    ]
   },
   "Prince Mudeenu": {
     "type_card": "mipedians",
@@ -2330,7 +2851,10 @@
       "Wisdom": 70,
       "Speed": 30,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Qwun": {
     "type_card": "mipedians",
@@ -2343,7 +2867,10 @@
       "Wisdom": 55,
       "Speed": 90,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Ranun": {
     "type_card": "mipedians",
@@ -2356,7 +2883,8 @@
       "Wisdom": 55,
       "Speed": 45,
       "Energy": 35
-    }
+    },
+    "elements": []
   },
   "Raquanni": {
     "type_card": "mipedians",
@@ -2369,7 +2897,8 @@
       "Wisdom": 80,
       "Speed": 50,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Rasbma Darini": {
     "type_card": "mipedians",
@@ -2382,7 +2911,10 @@
       "Wisdom": 50,
       "Speed": 85,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Ribbian": {
     "type_card": "mipedians",
@@ -2395,7 +2927,10 @@
       "Wisdom": 40,
       "Speed": 45,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Ruhban": {
     "type_card": "mipedians",
@@ -2408,7 +2943,11 @@
       "Wisdom": 55,
       "Speed": 85,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Saand": {
     "type_card": "mipedians",
@@ -2421,7 +2960,10 @@
       "Wisdom": 50,
       "Speed": 75,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Savell": {
     "type_card": "mipedians",
@@ -2434,7 +2976,10 @@
       "Wisdom": 55,
       "Speed": 60,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Sepmek": {
     "type_card": "mipedians",
@@ -2447,7 +2992,11 @@
       "Wisdom": 60,
       "Speed": 85,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Shimmark": {
     "type_card": "mipedians",
@@ -2460,7 +3009,8 @@
       "Wisdom": 30,
       "Speed": 70,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Shinadd": {
     "type_card": "mipedians",
@@ -2473,7 +3023,10 @@
       "Wisdom": 30,
       "Speed": 100,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Silv, Servant of Air": {
     "type_card": "mipedians",
@@ -2486,7 +3039,10 @@
       "Wisdom": 30,
       "Speed": 85,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Sirri": {
     "type_card": "mipedians",
@@ -2499,7 +3055,11 @@
       "Wisdom": 35,
       "Speed": 80,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Skerrel the Wise": {
     "type_card": "mipedians",
@@ -2512,7 +3072,8 @@
       "Wisdom": 0,
       "Speed": 0,
       "Energy": 0
-    }
+    },
+    "elements": []
   },
   "Sobtjek": {
     "type_card": "mipedians",
@@ -2525,7 +3086,10 @@
       "Wisdom": 65,
       "Speed": 40,
       "Energy": 30
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Taffial": {
     "type_card": "mipedians",
@@ -2538,7 +3102,10 @@
       "Wisdom": 60,
       "Speed": 65,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Tianne": {
     "type_card": "mipedians",
@@ -2551,7 +3118,8 @@
       "Wisdom": 50,
       "Speed": 30,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Tinnoi": {
     "type_card": "mipedians",
@@ -2564,7 +3132,10 @@
       "Wisdom": 20,
       "Speed": 60,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Titanix": {
     "type_card": "mipedians",
@@ -2577,7 +3148,8 @@
       "Wisdom": 20,
       "Speed": 75,
       "Energy": 60
-    }
+    },
+    "elements": []
   },
   "Ubliqun": {
     "type_card": "mipedians",
@@ -2590,7 +3162,8 @@
       "Wisdom": 60,
       "Speed": 60,
       "Energy": 35
-    }
+    },
+    "elements": []
   },
   "Uboraan": {
     "type_card": "mipedians",
@@ -2603,7 +3176,13 @@
       "Wisdom": 20,
       "Speed": 75,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Air",
+      "Fire",
+      "Earth",
+      "Water"
+    ]
   },
   "Uro": {
     "type_card": "mipedians",
@@ -2616,7 +3195,8 @@
       "Wisdom": 40,
       "Speed": 60,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Vasquin": {
     "type_card": "mipedians",
@@ -2629,7 +3209,8 @@
       "Wisdom": 85,
       "Speed": 35,
       "Energy": 55
-    }
+    },
+    "elements": []
   },
   "Vinta": {
     "type_card": "mipedians",
@@ -2642,7 +3223,10 @@
       "Wisdom": 35,
       "Speed": 40,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Warriors of Owayki": {
     "type_card": "battlegear",
@@ -2661,7 +3245,8 @@
       "Wisdom": 45,
       "Speed": 50,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Xelfe": {
     "type_card": "mipedians",
@@ -2674,7 +3259,8 @@
       "Wisdom": 35,
       "Speed": 80,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Yterio": {
     "type_card": "mipedians",
@@ -2687,7 +3273,10 @@
       "Wisdom": 40,
       "Speed": 50,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Zhade": {
     "type_card": "mipedians",
@@ -2700,7 +3289,11 @@
       "Wisdom": 40,
       "Speed": 60,
       "Energy": 30
-    }
+    },
+    "elements": [
+      "Air",
+      "Earth"
+    ]
   },
   "Accato": {
     "type_card": "overworlders",
@@ -2713,7 +3306,10 @@
       "Wisdom": 70,
       "Speed": 35,
       "Energy": 65
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Afjak": {
     "type_card": "overworlders",
@@ -2726,7 +3322,10 @@
       "Wisdom": 65,
       "Speed": 30,
       "Energy": 30
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Akkerbal": {
     "type_card": "overworlders",
@@ -2739,7 +3338,10 @@
       "Wisdom": 75,
       "Speed": 55,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Akkrean": {
     "type_card": "overworlders",
@@ -2752,7 +3354,10 @@
       "Wisdom": 70,
       "Speed": 45,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Antidaeon": {
     "type_card": "overworlders",
@@ -2765,7 +3370,10 @@
       "Wisdom": 40,
       "Speed": 70,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Arbeid": {
     "type_card": "overworlders",
@@ -2778,7 +3386,10 @@
       "Wisdom": 50,
       "Speed": 35,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Arctus, Heptadd's Squire": {
     "type_card": "overworlders",
@@ -2791,7 +3402,8 @@
       "Wisdom": 75,
       "Speed": 40,
       "Energy": 60
-    }
+    },
+    "elements": []
   },
   "Arias": {
     "type_card": "overworlders",
@@ -2804,7 +3416,10 @@
       "Wisdom": 30,
       "Speed": 55,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Arrthoa": {
     "type_card": "overworlders",
@@ -2817,7 +3432,11 @@
       "Wisdom": 65,
       "Speed": 60,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Fire",
+      "Water"
+    ]
   },
   "Attacat": {
     "type_card": "overworlders",
@@ -2830,7 +3449,11 @@
       "Wisdom": 60,
       "Speed": 105,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth",
+      "Water"
+    ]
   },
   "Biakan": {
     "type_card": "overworlders",
@@ -2843,7 +3466,11 @@
       "Wisdom": 75,
       "Speed": 40,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water",
+      "Air"
+    ]
   },
   "Bidua": {
     "type_card": "overworlders",
@@ -2856,7 +3483,11 @@
       "Wisdom": 70,
       "Speed": 85,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Blazier": {
     "type_card": "overworlders",
@@ -2869,7 +3500,10 @@
       "Wisdom": 60,
       "Speed": 25,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Bodal": {
     "type_card": "overworlders",
@@ -2882,7 +3516,11 @@
       "Wisdom": 80,
       "Speed": 60,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Clodor": {
     "type_card": "overworlders",
@@ -2895,7 +3533,8 @@
       "Wisdom": 95,
       "Speed": 35,
       "Energy": 50
-    }
+    },
+    "elements": []
   },
   "Crawsectus": {
     "type_card": "overworlders",
@@ -2908,7 +3547,11 @@
       "Wisdom": 40,
       "Speed": 25,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water",
+      "Earth"
+    ]
   },
   "Dalgad": {
     "type_card": "overworlders",
@@ -2921,7 +3564,11 @@
       "Wisdom": 75,
       "Speed": 40,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Fire",
+      "Water"
+    ]
   },
   "Donmar": {
     "type_card": "overworlders",
@@ -2934,7 +3581,10 @@
       "Wisdom": 65,
       "Speed": 50,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Drabe": {
     "type_card": "overworlders",
@@ -2947,7 +3597,8 @@
       "Wisdom": 65,
       "Speed": 35,
       "Energy": 50
-    }
+    },
+    "elements": []
   },
   "Dractyl": {
     "type_card": "overworlders",
@@ -2960,7 +3611,8 @@
       "Wisdom": 50,
       "Speed": 75,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Ebkeex, Patchwork Minion": {
     "type_card": "overworlders",
@@ -2973,7 +3625,10 @@
       "Wisdom": 80,
       "Speed": 80,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Eremia": {
     "type_card": "overworlders",
@@ -2986,7 +3641,8 @@
       "Wisdom": 65,
       "Speed": 45,
       "Energy": 60
-    }
+    },
+    "elements": []
   },
   "Ettala": {
     "type_card": "overworlders",
@@ -2999,7 +3655,10 @@
       "Wisdom": 20,
       "Speed": 30,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Frafdo": {
     "type_card": "overworlders",
@@ -3012,7 +3671,8 @@
       "Wisdom": 45,
       "Speed": 75,
       "Energy": 35
-    }
+    },
+    "elements": []
   },
   "Garv": {
     "type_card": "overworlders",
@@ -3025,7 +3685,8 @@
       "Wisdom": 75,
       "Speed": 30,
       "Energy": 55
-    }
+    },
+    "elements": []
   },
   "Gespedan": {
     "type_card": "overworlders",
@@ -3038,7 +3699,8 @@
       "Wisdom": 35,
       "Speed": 100,
       "Energy": 35
-    }
+    },
+    "elements": []
   },
   "Gimwei": {
     "type_card": "overworlders",
@@ -3051,7 +3713,11 @@
       "Wisdom": 85,
       "Speed": 35,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Fire",
+      "Air"
+    ]
   },
   "Grindaald": {
     "type_card": "overworlders",
@@ -3064,7 +3730,8 @@
       "Wisdom": 60,
       "Speed": 40,
       "Energy": 35
-    }
+    },
+    "elements": []
   },
   "Gronmor": {
     "type_card": "overworlders",
@@ -3077,7 +3744,12 @@
       "Wisdom": 80,
       "Speed": 50,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Fire",
+      "Water",
+      "Earth"
+    ]
   },
   "Herken": {
     "type_card": "overworlders",
@@ -3090,7 +3762,10 @@
       "Wisdom": 75,
       "Speed": 30,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Hifdan": {
     "type_card": "overworlders",
@@ -3103,7 +3778,11 @@
       "Wisdom": 35,
       "Speed": 35,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Hoton": {
     "type_card": "overworlders",
@@ -3116,7 +3795,8 @@
       "Wisdom": 80,
       "Speed": 35,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Hune Canin": {
     "type_card": "overworlders",
@@ -3129,7 +3809,10 @@
       "Wisdom": 75,
       "Speed": 30,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Hune Marquard": {
     "type_card": "overworlders",
@@ -3142,7 +3825,8 @@
       "Wisdom": 65,
       "Speed": 50,
       "Energy": 30
-    }
+    },
+    "elements": []
   },
   "Hune Paltanin": {
     "type_card": "overworlders",
@@ -3155,7 +3839,8 @@
       "Wisdom": 110,
       "Speed": 15,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Ikkatosh, Guardian of Nature": {
     "type_card": "overworlders",
@@ -3168,7 +3853,11 @@
       "Wisdom": 85,
       "Speed": 60,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Fire",
+      "Water"
+    ]
   },
   "Illiar": {
     "type_card": "overworlders",
@@ -3181,7 +3870,11 @@
       "Wisdom": 80,
       "Speed": 60,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Intress": {
     "type_card": "overworlders",
@@ -3194,7 +3887,11 @@
       "Wisdom": 40,
       "Speed": 55,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Earth",
+      "Water"
+    ]
   },
   "Iparu": {
     "type_card": "overworlders",
@@ -3207,7 +3904,11 @@
       "Wisdom": 25,
       "Speed": 25,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Air",
+      "Fire"
+    ]
   },
   "Issaley": {
     "type_card": "overworlders",
@@ -3220,7 +3921,10 @@
       "Wisdom": 75,
       "Speed": 40,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Jaidwarl": {
     "type_card": "overworlders",
@@ -3233,7 +3937,10 @@
       "Wisdom": 70,
       "Speed": 30,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Kalt": {
     "type_card": "overworlders",
@@ -3246,7 +3953,10 @@
       "Wisdom": 35,
       "Speed": 40,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Karraba": {
     "type_card": "overworlders",
@@ -3259,7 +3969,8 @@
       "Wisdom": 40,
       "Speed": 40,
       "Energy": 35
-    }
+    },
+    "elements": []
   },
   "Kinnianne, Ambassador to the Mipedians": {
     "type_card": "overworlders",
@@ -3272,7 +3983,10 @@
       "Wisdom": 65,
       "Speed": 60,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Kiru": {
     "type_card": "underworlders",
@@ -3285,7 +3999,11 @@
       "Wisdom": 40,
       "Speed": 75,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Korg": {
     "type_card": "overworlders",
@@ -3298,7 +4016,10 @@
       "Wisdom": 70,
       "Speed": 25,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Laarina": {
     "type_card": "overworlders",
@@ -3311,7 +4032,11 @@
       "Wisdom": 50,
       "Speed": 30,
       "Energy": 30
-    }
+    },
+    "elements": [
+      "Water",
+      "Earth"
+    ]
   },
   "Loderool": {
     "type_card": "overworlders",
@@ -3324,7 +4049,11 @@
       "Wisdom": 50,
       "Speed": 30,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Lomma": {
     "type_card": "overworlders",
@@ -3337,7 +4066,10 @@
       "Wisdom": 60,
       "Speed": 35,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Lystone": {
     "type_card": "overworlders",
@@ -3350,7 +4082,8 @@
       "Wisdom": 60,
       "Speed": 25,
       "Energy": 30
-    }
+    },
+    "elements": []
   },
   "Maglax": {
     "type_card": "overworlders",
@@ -3363,7 +4096,11 @@
       "Wisdom": 25,
       "Speed": 30,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Mezzmarr": {
     "type_card": "overworlders",
@@ -3376,7 +4113,10 @@
       "Wisdom": 55,
       "Speed": 55,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Mommark": {
     "type_card": "overworlders",
@@ -3389,7 +4129,10 @@
       "Wisdom": 45,
       "Speed": 35,
       "Energy": 30
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Najarin": {
     "type_card": "overworlders",
@@ -3402,7 +4145,10 @@
       "Wisdom": 90,
       "Speed": 35,
       "Energy": 30
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Nebres": {
     "type_card": "overworlders",
@@ -3415,7 +4161,8 @@
       "Wisdom": 45,
       "Speed": 50,
       "Energy": 50
-    }
+    },
+    "elements": []
   },
   "Neffa": {
     "type_card": "overworlders",
@@ -3428,7 +4175,8 @@
       "Wisdom": 80,
       "Speed": 35,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Okaxor": {
     "type_card": "overworlders",
@@ -3441,7 +4189,10 @@
       "Wisdom": 75,
       "Speed": 30,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Olkiex": {
     "type_card": "overworlders",
@@ -3454,7 +4205,11 @@
       "Wisdom": 70,
       "Speed": 30,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Fire",
+      "Water"
+    ]
   },
   "Owis": {
     "type_card": "overworlders",
@@ -3467,7 +4222,10 @@
       "Wisdom": 55,
       "Speed": 30,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Porthyn": {
     "type_card": "overworlders",
@@ -3480,7 +4238,8 @@
       "Wisdom": 60,
       "Speed": 50,
       "Energy": 55
-    }
+    },
+    "elements": []
   },
   "Prantix": {
     "type_card": "overworlders",
@@ -3493,7 +4252,11 @@
       "Wisdom": 30,
       "Speed": 40,
       "Energy": 30
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Psimion": {
     "type_card": "overworlders",
@@ -3506,7 +4269,10 @@
       "Wisdom": 55,
       "Speed": 40,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Quadore": {
     "type_card": "overworlders",
@@ -3519,7 +4285,10 @@
       "Wisdom": 65,
       "Speed": 60,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Quisk": {
     "type_card": "overworlders",
@@ -3532,7 +4301,8 @@
       "Wisdom": 0,
       "Speed": 0,
       "Energy": 0
-    }
+    },
+    "elements": []
   },
   "Raimusa": {
     "type_card": "overworlders",
@@ -3545,7 +4315,11 @@
       "Wisdom": 40,
       "Speed": 45,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water",
+      "Earth"
+    ]
   },
   "Rav": {
     "type_card": "overworlders",
@@ -3558,7 +4332,8 @@
       "Wisdom": 0,
       "Speed": 0,
       "Energy": 0
-    }
+    },
+    "elements": []
   },
   "Rellim": {
     "type_card": "overworlders",
@@ -3571,7 +4346,10 @@
       "Wisdom": 60,
       "Speed": 40,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Silchaw": {
     "type_card": "overworlders",
@@ -3584,7 +4362,11 @@
       "Wisdom": 60,
       "Speed": 30,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Water",
+      "Earth"
+    ]
   },
   "Simalin": {
     "type_card": "overworlders",
@@ -3597,7 +4379,8 @@
       "Wisdom": 40,
       "Speed": 60,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Slurhk": {
     "type_card": "overworlders",
@@ -3610,7 +4393,11 @@
       "Wisdom": 35,
       "Speed": 40,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Water",
+      "Earth"
+    ]
   },
   "Somnort": {
     "type_card": "overworlders",
@@ -3623,7 +4410,11 @@
       "Wisdom": 65,
       "Speed": 45,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Fire",
+      "Water"
+    ]
   },
   "Staluk": {
     "type_card": "overworlders",
@@ -3636,7 +4427,10 @@
       "Wisdom": 25,
       "Speed": 40,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Sukoval": {
     "type_card": "overworlders",
@@ -3649,7 +4443,10 @@
       "Wisdom": 80,
       "Speed": 55,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Tangath Toborn": {
     "type_card": "overworlders",
@@ -3662,7 +4459,12 @@
       "Wisdom": 40,
       "Speed": 30,
       "Energy": 30
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth",
+      "Water"
+    ]
   },
   "Targubaj": {
     "type_card": "overworlders",
@@ -3675,7 +4477,10 @@
       "Wisdom": 65,
       "Speed": 50,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Tartarek": {
     "type_card": "overworlders",
@@ -3688,7 +4493,11 @@
       "Wisdom": 90,
       "Speed": 25,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Trimdaal": {
     "type_card": "overworlders",
@@ -3701,7 +4510,11 @@
       "Wisdom": 80,
       "Speed": 40,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Fire",
+      "Water"
+    ]
   },
   "Ulfhedinn": {
     "type_card": "overworlders",
@@ -3714,7 +4527,8 @@
       "Wisdom": 45,
       "Speed": 50,
       "Energy": 50
-    }
+    },
+    "elements": []
   },
   "Unda, Servant of Water": {
     "type_card": "overworlders",
@@ -3727,7 +4541,10 @@
       "Wisdom": 80,
       "Speed": 45,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Unkown Dwarf Creature": {
     "type_card": "overworlders",
@@ -3740,7 +4557,8 @@
       "Wisdom": 0,
       "Speed": 0,
       "Energy": 0
-    }
+    },
+    "elements": []
   },
   "Velreth": {
     "type_card": "overworlders",
@@ -3753,7 +4571,8 @@
       "Wisdom": 40,
       "Speed": 25,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Vidav": {
     "type_card": "overworlders",
@@ -3766,7 +4585,8 @@
       "Wisdom": 50,
       "Speed": 35,
       "Energy": 35
-    }
+    },
+    "elements": []
   },
   "Viqtarr": {
     "type_card": "overworlders",
@@ -3779,7 +4599,11 @@
       "Wisdom": 75,
       "Speed": 35,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Water",
+      "Earth"
+    ]
   },
   "Wrenges": {
     "type_card": "overworlders",
@@ -3792,7 +4616,8 @@
       "Wisdom": 45,
       "Speed": 40,
       "Energy": 35
-    }
+    },
+    "elements": []
   },
   "Wytod": {
     "type_card": "overworlders",
@@ -3805,7 +4630,8 @@
       "Wisdom": 55,
       "Speed": 30,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Xaerv": {
     "type_card": "overworlders",
@@ -3818,7 +4644,12 @@
       "Wisdom": 45,
       "Speed": 60,
       "Energy": 30
-    }
+    },
+    "elements": [
+      "Air",
+      "Fire",
+      "Water"
+    ]
   },
   "Yokkis": {
     "type_card": "overworlders",
@@ -3831,7 +4662,10 @@
       "Wisdom": 20,
       "Speed": 20,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Zalic": {
     "type_card": "overworlders",
@@ -3844,7 +4678,8 @@
       "Wisdom": 40,
       "Speed": 40,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Orth, The Empowerer": {
     "type_card": "overworlders",
@@ -3857,7 +4692,10 @@
       "Wisdom": 40,
       "Speed": 20,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Agitos": {
     "type_card": "underworlders",
@@ -3870,7 +4708,8 @@
       "Wisdom": 85,
       "Speed": 35,
       "Energy": 55
-    }
+    },
+    "elements": []
   },
   "Anarkiar": {
     "type_card": "underworlders",
@@ -3883,7 +4722,8 @@
       "Wisdom": 30,
       "Speed": 40,
       "Energy": 60
-    }
+    },
+    "elements": []
   },
   "Aokua": {
     "type_card": "underworlders",
@@ -3896,7 +4736,8 @@
       "Wisdom": 100,
       "Speed": 100,
       "Energy": 50
-    }
+    },
+    "elements": []
   },
   "Asadab": {
     "type_card": "underworlders",
@@ -3909,7 +4750,10 @@
       "Wisdom": 55,
       "Speed": 30,
       "Energy": 25
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Atrapol": {
     "type_card": "underworlders",
@@ -3922,7 +4766,10 @@
       "Wisdom": 25,
       "Speed": 15,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Banshor": {
     "type_card": "underworlders",
@@ -3935,7 +4782,8 @@
       "Wisdom": 65,
       "Speed": 50,
       "Energy": 60
-    }
+    },
+    "elements": []
   },
   "Barath Beyond": {
     "type_card": "underworlders",
@@ -3948,7 +4796,11 @@
       "Wisdom": 15,
       "Speed": 65,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Air",
+      "Fire"
+    ]
   },
   "Blaaxa": {
     "type_card": "underworlders",
@@ -3961,7 +4813,8 @@
       "Wisdom": 70,
       "Speed": 45,
       "Energy": 25
-    }
+    },
+    "elements": []
   },
   "Bladez": {
     "type_card": "underworlders",
@@ -3974,7 +4827,11 @@
       "Wisdom": 35,
       "Speed": 30,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Fire",
+      "Air"
+    ]
   },
   "Brimflame": {
     "type_card": "underworlders",
@@ -3987,7 +4844,11 @@
       "Wisdom": 45,
       "Speed": 60,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Fire",
+      "Air"
+    ]
   },
   "Cerbie": {
     "type_card": "underworlders",
@@ -4000,7 +4861,10 @@
       "Wisdom": 25,
       "Speed": 45,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Chargola": {
     "type_card": "underworlders",
@@ -4013,7 +4877,8 @@
       "Wisdom": 65,
       "Speed": 50,
       "Energy": 60
-    }
+    },
+    "elements": []
   },
   "Cyrenox": {
     "type_card": "underworlders",
@@ -4026,7 +4891,10 @@
       "Wisdom": 30,
       "Speed": 50,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Dardemus": {
     "type_card": "underworlders",
@@ -4039,7 +4907,10 @@
       "Wisdom": 20,
       "Speed": 65,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Drakness": {
     "type_card": "underworlders",
@@ -4052,7 +4923,10 @@
       "Wisdom": 85,
       "Speed": 50,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Dyrtax": {
     "type_card": "underworlders",
@@ -4065,7 +4939,8 @@
       "Wisdom": 45,
       "Speed": 65,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Eximiar": {
     "type_card": "underworlders",
@@ -4078,7 +4953,11 @@
       "Wisdom": 30,
       "Speed": 15,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Fire",
+      "Air"
+    ]
   },
   "Galmedar": {
     "type_card": "underworlders",
@@ -4091,7 +4970,10 @@
       "Wisdom": 60,
       "Speed": 35,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Gambreor": {
     "type_card": "underworlders",
@@ -4104,7 +4986,8 @@
       "Wisdom": 45,
       "Speed": 45,
       "Energy": 35
-    }
+    },
+    "elements": []
   },
   "Geltod": {
     "type_card": "underworlders",
@@ -4117,7 +5000,8 @@
       "Wisdom": 45,
       "Speed": 40,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Getterek": {
     "type_card": "underworlders",
@@ -4130,7 +5014,10 @@
       "Wisdom": 25,
       "Speed": 45,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Ghuul": {
     "type_card": "underworlders",
@@ -4143,7 +5030,10 @@
       "Wisdom": 15,
       "Speed": 35,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Grook": {
     "type_card": "underworlders",
@@ -4156,7 +5046,10 @@
       "Wisdom": 20,
       "Speed": 60,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "H'earring": {
     "type_card": "underworlders",
@@ -4169,7 +5062,8 @@
       "Wisdom": 55,
       "Speed": 45,
       "Energy": 50
-    }
+    },
+    "elements": []
   },
   "Illazar": {
     "type_card": "underworlders",
@@ -4182,7 +5076,10 @@
       "Wisdom": 60,
       "Speed": 55,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Ilx": {
     "type_card": "underworlders",
@@ -4195,7 +5092,10 @@
       "Wisdom": 25,
       "Speed": 35,
       "Energy": 70
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Irsenog": {
     "type_card": "underworlders",
@@ -4208,7 +5108,8 @@
       "Wisdom": 30,
       "Speed": 40,
       "Energy": 50
-    }
+    },
+    "elements": []
   },
   "Jiggorex": {
     "type_card": "underworlders",
@@ -4221,7 +5122,8 @@
       "Wisdom": 0,
       "Speed": 0,
       "Energy": 0
-    }
+    },
+    "elements": []
   },
   "Kaal": {
     "type_card": "underworlders",
@@ -4234,7 +5136,10 @@
       "Wisdom": 30,
       "Speed": 60,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Kamangareth": {
     "type_card": "underworlders",
@@ -4247,7 +5152,11 @@
       "Wisdom": 30,
       "Speed": 55,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Kerric": {
     "type_card": "underworlders",
@@ -4260,7 +5169,10 @@
       "Wisdom": 45,
       "Speed": 65,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Ketacc": {
     "type_card": "underworlders",
@@ -4273,7 +5185,11 @@
       "Wisdom": 40,
       "Speed": 20,
       "Energy": 70
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Khybon": {
     "type_card": "underworlders",
@@ -4286,7 +5202,11 @@
       "Wisdom": 85,
       "Speed": 20,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Air",
+      "Fire"
+    ]
   },
   "Khybon's Engineered Automaton": {
     "type_card": "underworlders",
@@ -4299,7 +5219,8 @@
       "Wisdom": 20,
       "Speed": 20,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Klasp": {
     "type_card": "underworlders",
@@ -4312,7 +5233,10 @@
       "Wisdom": 30,
       "Speed": 65,
       "Energy": 65
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Klawam": {
     "type_card": "underworlders",
@@ -4325,7 +5249,8 @@
       "Wisdom": 15,
       "Speed": 60,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Kopond": {
     "type_card": "underworlders",
@@ -4338,7 +5263,10 @@
       "Wisdom": 50,
       "Speed": 20,
       "Energy": 20
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Kraade": {
     "type_card": "underworlders",
@@ -4351,7 +5279,11 @@
       "Wisdom": 40,
       "Speed": 50,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Kreaal": {
     "type_card": "underworlders",
@@ -4364,7 +5296,11 @@
       "Wisdom": 15,
       "Speed": 50,
       "Energy": 65
-    }
+    },
+    "elements": [
+      "Fire",
+      "Air"
+    ]
   },
   "Krekk": {
     "type_card": "underworlders",
@@ -4377,7 +5313,11 @@
       "Wisdom": 20,
       "Speed": 60,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Kughar": {
     "type_card": "underworlders",
@@ -4390,7 +5330,10 @@
       "Wisdom": 25,
       "Speed": 45,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Lord Van Bloot": {
     "type_card": "underworlders",
@@ -4403,7 +5346,11 @@
       "Wisdom": 50,
       "Speed": 95,
       "Energy": 65
-    }
+    },
+    "elements": [
+      "Earth",
+      "Water"
+    ]
   },
   "Lyssta": {
     "type_card": "underworlders",
@@ -4416,7 +5363,11 @@
       "Wisdom": 30,
       "Speed": 55,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Earth",
+      "Air"
+    ]
   },
   "Magmon": {
     "type_card": "underworlders",
@@ -4429,7 +5380,11 @@
       "Wisdom": 20,
       "Speed": 35,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Miklon": {
     "type_card": "underworlders",
@@ -4442,7 +5397,8 @@
       "Wisdom": 30,
       "Speed": 60,
       "Energy": 50
-    }
+    },
+    "elements": []
   },
   "Mishmoshmish": {
     "type_card": "underworlders",
@@ -4455,7 +5411,8 @@
       "Wisdom": 45,
       "Speed": 65,
       "Energy": 45
-    }
+    },
+    "elements": []
   },
   "Narfall": {
     "type_card": "underworlders",
@@ -4468,7 +5425,10 @@
       "Wisdom": 45,
       "Speed": 40,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Nauthilax": {
     "type_card": "underworlders",
@@ -4481,7 +5441,11 @@
       "Wisdom": 40,
       "Speed": 55,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Air",
+      "Water"
+    ]
   },
   "Nivenna": {
     "type_card": "underworlders",
@@ -4494,7 +5458,8 @@
       "Wisdom": 90,
       "Speed": 60,
       "Energy": 30
-    }
+    },
+    "elements": []
   },
   "Ooloo": {
     "type_card": "underworlders",
@@ -4507,7 +5472,11 @@
       "Wisdom": 35,
       "Speed": 40,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Fire",
+      "Air"
+    ]
   },
   "Ornathor": {
     "type_card": "underworlders",
@@ -4520,7 +5489,10 @@
       "Wisdom": 45,
       "Speed": 55,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Water"
+    ]
   },
   "Ozlai, Chaor's Pilot": {
     "type_card": "underworlders",
@@ -4533,7 +5505,10 @@
       "Wisdom": 30,
       "Speed": 85,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Piddan": {
     "type_card": "underworlders",
@@ -4546,7 +5521,10 @@
       "Wisdom": 20,
       "Speed": 50,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Pyrithion": {
     "type_card": "underworlders",
@@ -4559,7 +5537,10 @@
       "Wisdom": 40,
       "Speed": 65,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Ragetrod": {
     "type_card": "underworlders",
@@ -4572,7 +5553,11 @@
       "Wisdom": 40,
       "Speed": 50,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Rarran": {
     "type_card": "underworlders",
@@ -4585,7 +5570,11 @@
       "Wisdom": 30,
       "Speed": 60,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Air",
+      "Fire"
+    ]
   },
   "Rothar": {
     "type_card": "underworlders",
@@ -4598,7 +5587,12 @@
       "Wisdom": 25,
       "Speed": 50,
       "Energy": 70
-    }
+    },
+    "elements": [
+      "Air",
+      "Fire",
+      "Earth"
+    ]
   },
   "Savitsa": {
     "type_card": "underworlders",
@@ -4611,7 +5605,10 @@
       "Wisdom": 30,
       "Speed": 70,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Skithia": {
     "type_card": "underworlders",
@@ -4624,7 +5621,11 @@
       "Wisdom": 55,
       "Speed": 40,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Skorblust": {
     "type_card": "underworlders",
@@ -4637,7 +5638,11 @@
       "Wisdom": 20,
       "Speed": 50,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Skreeth": {
     "type_card": "underworlders",
@@ -4650,7 +5655,8 @@
       "Wisdom": 60,
       "Speed": 20,
       "Energy": 55
-    }
+    },
+    "elements": []
   },
   "Slufurah": {
     "type_card": "underworlders",
@@ -4663,7 +5669,10 @@
       "Wisdom": 65,
       "Speed": 20,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Solvis": {
     "type_card": "underworlders",
@@ -4676,7 +5685,8 @@
       "Wisdom": 65,
       "Speed": 35,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Spyder": {
     "type_card": "underworlders",
@@ -4689,7 +5699,8 @@
       "Wisdom": 0,
       "Speed": 0,
       "Energy": 0
-    }
+    },
+    "elements": []
   },
   "Stelgar": {
     "type_card": "underworlders",
@@ -4702,7 +5713,12 @@
       "Wisdom": 65,
       "Speed": 65,
       "Energy": 65
-    }
+    },
+    "elements": [
+      "Air",
+      "Fire",
+      "Water"
+    ]
   },
   "Strikto": {
     "type_card": "underworlders",
@@ -4715,7 +5731,10 @@
       "Wisdom": 75,
       "Speed": 40,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Swassa": {
     "type_card": "underworlders",
@@ -4728,7 +5747,10 @@
       "Wisdom": 45,
       "Speed": 55,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Takinom": {
     "type_card": "underworlders",
@@ -4741,7 +5763,11 @@
       "Wisdom": 20,
       "Speed": 90,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Air",
+      "Fire"
+    ]
   },
   "Tasqa": {
     "type_card": "underworlders",
@@ -4754,7 +5780,10 @@
       "Wisdom": 50,
       "Speed": 35,
       "Energy": 45
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Toadore": {
     "type_card": "underworlders",
@@ -4767,7 +5796,10 @@
       "Wisdom": 30,
       "Speed": 35,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Tomugar": {
     "type_card": "underworlders",
@@ -4780,7 +5812,10 @@
       "Wisdom": 60,
       "Speed": 25,
       "Energy": 40
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Torrna": {
     "type_card": "underworlders",
@@ -4793,7 +5828,10 @@
       "Wisdom": 40,
       "Speed": 65,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Air"
+    ]
   },
   "Toxis": {
     "type_card": "underworlders",
@@ -4806,7 +5844,10 @@
       "Wisdom": 40,
       "Speed": 50,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Uksum": {
     "type_card": "underworlders",
@@ -4819,7 +5860,10 @@
       "Wisdom": 15,
       "Speed": 35,
       "Energy": 20
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Ulmar": {
     "type_card": "underworlders",
@@ -4832,7 +5876,10 @@
       "Wisdom": 70,
       "Speed": 35,
       "Energy": 25
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Ultadur": {
     "type_card": "underworlders",
@@ -4845,7 +5892,10 @@
       "Wisdom": 30,
       "Speed": 75,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Fire"
+    ]
   },
   "Ustabe": {
     "type_card": "underworlders",
@@ -4858,7 +5908,11 @@
       "Wisdom": 20,
       "Speed": 60,
       "Energy": 60
-    }
+    },
+    "elements": [
+      "Fire",
+      "Air"
+    ]
   },
   "Voorx": {
     "type_card": "underworlders",
@@ -4871,7 +5925,11 @@
       "Wisdom": 60,
       "Speed": 30,
       "Energy": 50
-    }
+    },
+    "elements": [
+      "Fire",
+      "Water"
+    ]
   },
   "Vyll": {
     "type_card": "underworlders",
@@ -4884,7 +5942,8 @@
       "Wisdom": 75,
       "Speed": 30,
       "Energy": 40
-    }
+    },
+    "elements": []
   },
   "Xield": {
     "type_card": "underworlders",
@@ -4897,7 +5956,8 @@
       "Wisdom": 35,
       "Speed": 15,
       "Energy": 20
-    }
+    },
+    "elements": []
   },
   "Zalvar Portal": {
     "type_card": "underworlders",
@@ -4910,7 +5970,8 @@
       "Wisdom": 0,
       "Speed": 0,
       "Energy": 0
-    }
+    },
+    "elements": []
   },
   "Zamool, Lord Van Bloot's Enforcer": {
     "type_card": "underworlders",
@@ -4923,7 +5984,10 @@
       "Wisdom": 40,
       "Speed": 80,
       "Energy": 55
-    }
+    },
+    "elements": [
+      "Earth"
+    ]
   },
   "Zapetur": {
     "type_card": "underworlders",
@@ -4936,7 +6000,11 @@
       "Wisdom": 25,
       "Speed": 35,
       "Energy": 35
-    }
+    },
+    "elements": [
+      "Fire",
+      "Earth"
+    ]
   },
   "Zaur": {
     "type_card": "underworlders",
@@ -4949,7 +6017,8 @@
       "Wisdom": 35,
       "Speed": 25,
       "Energy": 50
-    }
+    },
+    "elements": []
   },
   "Anthem of Stone": {
     "type_card": "generic-mugic",
@@ -5233,18 +6302,6 @@
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/b/b2/Intimidating_Melody_of_M%27arr.png/revision/latest?cb=20210812091312",
     "chaotic_hash": "21BZLTOSCEKD"
   },
-  "Refrain of Denial/UnderWorld": {
-    "type_card": "underworld-mugic",
-    "parent_link": "https://chaotic.fandom.com/wiki/Refrain_of_Denial/UnderWorld",
-    "img_url": "https://static.wikia.nocookie.net/chaotic/images/f/fa/Set-Super_Rare.png/revision/latest?cb=20191008163825",
-    "chaotic_hash": "GQ5J7TZYD6HX"
-  },
-  "Ulmar's Activating Arpeggio": {
-    "type_card": "underworld-mugic",
-    "parent_link": "https://chaotic.fandom.com/wiki/Ulmar%27s_Activating_Arpeggio",
-    "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/67/Set-Uncommon.png/revision/latest?cb=20191008163824",
-    "chaotic_hash": "04QJ87Y6LWUK"
-  },
   "Ostinato of Oban'emre": {
     "type_card": "marrillian-mugic",
     "parent_link": "https://chaotic.fandom.com/wiki/Ostinato_of_Oban%27emre",
@@ -5281,23 +6338,11 @@
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/6a/Unheard_Melody.png/revision/latest?cb=20210812091324",
     "chaotic_hash": "HD3TRFY0MZU9"
   },
-  "Set-Common-AU": {
-    "type_card": "overworld-mugic",
-    "parent_link": "https://chaotic.fandom.com/wiki/Battlesong_of_Renewal",
-    "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3b/Set-Common-AU.png/revision/latest?cb=20191008162918",
-    "chaotic_hash": "ZVQPJEH5CDWR"
-  },
   "Cascade Symphony": {
     "type_card": "overworld-mugic",
     "parent_link": "https://chaotic.fandom.com/wiki/Cascade_Symphony",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/34/Cascade_Symphony.png/revision/latest?cb=20210812090239",
     "chaotic_hash": "LD2AQG4J08ZH"
-  },
-  "Set-Common": {
-    "type_card": "overworld-mugic",
-    "parent_link": "https://chaotic.fandom.com/wiki/Hymn_of_the_Elements",
-    "img_url": "https://static.wikia.nocookie.net/chaotic/images/6/68/Set-Common.png/revision/latest?cb=20191008163823",
-    "chaotic_hash": "XHBJ73K0C1PV"
   },
   "Defender's Song": {
     "type_card": "overworld-mugic",
@@ -5340,12 +6385,6 @@
     "parent_link": "https://chaotic.fandom.com/wiki/Harmonious_Highsong",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/a/af/Harmonious_Highsong.png/revision/latest?cb=20210812090253",
     "chaotic_hash": "LRYZVTW5FI3Q"
-  },
-  "Kopond's Composition": {
-    "type_card": "underworld-mugic",
-    "parent_link": "https://chaotic.fandom.com/wiki/Kopond%27s_Composition",
-    "img_url": "https://static.wikia.nocookie.net/chaotic/images/9/92/Set-Rare.png/revision/latest?cb=20191008163824",
-    "chaotic_hash": "LFQJTY3E8ZU2"
   },
   "Intertwined Melody": {
     "type_card": "underworld-mugic",
@@ -5508,12 +6547,6 @@
     "parent_link": "https://chaotic.fandom.com/wiki/Fanfare_of_the_Vanishing",
     "img_url": "https://static.wikia.nocookie.net/chaotic/images/3/3e/Fanfare_of_the_Vanishing.png/revision/latest?cb=20210812091449",
     "chaotic_hash": "P7MTE3GZ6CUW"
-  },
-  "Set-Ultra Rare": {
-    "type_card": "mipedian-mugic",
-    "parent_link": "https://chaotic.fandom.com/wiki/Fighters%27_Fanfare",
-    "img_url": "https://static.wikia.nocookie.net/chaotic/images/5/5a/Set-Ultra_Rare.png/revision/latest?cb=20191008163825",
-    "chaotic_hash": "2C7LMEDXGS6J"
   },
   "Gear Glissando": {
     "type_card": "mipedian-mugic",
