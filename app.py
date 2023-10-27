@@ -139,8 +139,8 @@ with col2_1:
                 {'Element': 'Earth', 'Contains': type_element('Earth', data2['elements'])},
                 {'Element': 'Air', 'Contains': type_element('Air', data2['elements'])}
             ]
-        ).transpose()
-
+        )
+        
         elem2 = st.data_editor(df_elem.copy(), key = 'd4')
 
     for k2, v2 in zip(data2_ed.index, data2_ed['stats']):
