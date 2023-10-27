@@ -110,7 +110,16 @@ with col1_3:
 
         data1_ed = st.data_editor(pandas.DataFrame({k: v for k, v in data1.items() if k == "stats"}).filter(['stats']), key = 'd1')
 
-        elem1 = st.data_editor(pandas.DataFrame({1: {'Elements': ', '.join(data1['elements'])}}), key = 'd3')
+        df_elem = pandas.DataFrame(
+            [
+                {'Element': 'Fire', 'Contains': type_element('Fire', data1['elements'])},
+                {'Element': 'Water', 'Contains': type_element('Water', data1['elements'])},
+                {'Element': 'Earth', 'Contains': type_element('Earth', data1['elements'])},
+                {'Element': 'Air', 'Contains': type_element('Air', data1['elements'])}
+            ]
+        )
+
+        elem = st.data_editor(df_elem, key = 'd3', hide_index = True)
 
     for k, v in zip(data1_ed.index, data1_ed['stats']):
 
@@ -132,7 +141,7 @@ with col2_1:
 
         data2_ed = st.data_editor(pandas.DataFrame({k: v for k, v in data2.items() if k == "stats"}).filter(['stats']), key = 'd2')
 
-        df_elem = pandas.DataFrame(
+        df_elem2 = pandas.DataFrame(
             [
                 {'Element': 'Fire', 'Contains': type_element('Fire', data2['elements'])},
                 {'Element': 'Water', 'Contains': type_element('Water', data2['elements'])},
@@ -141,7 +150,7 @@ with col2_1:
             ]
         )
 
-        elem2 = st.data_editor(df_elem, key = 'd4', hide_index = True)
+        elem2 = st.data_editor(df_elem2, key = 'd4', hide_index = True)
 
     for k2, v2 in zip(data2_ed.index, data2_ed['stats']):
         
