@@ -110,7 +110,7 @@ with col1_3:
 
         data1_ed = st.data_editor(pandas.DataFrame({k: v for k, v in data1.items() if k == "stats"}).filter(['stats']), key = 'd1')
 
-        elem1 = st.data_editor(pandas.DataFrame({'Elementos': ', '.join(data1['elements'])}))
+        elem1 = st.data_editor(pandas.DataFrame({1: {'Elementos': ', '.join(data1['elements'])}}))
 
     for k, v in zip(data1_ed.index, data1_ed['stats']):
 
@@ -122,7 +122,7 @@ with col2_1:
 
         data2_ed = st.data_editor(pandas.DataFrame({k: v for k, v in data2.items() if k == "stats"}).filter(['stats']), key = 'd2')
 
-        elem2 = st.data_editor(pandas.DataFrame({'Elementos': ', '.join(data2['elements'])}))
+        elem2 = st.data_editor(pandas.DataFrame({1: {'Elementos': ', '.join(data2['elements'])}}))
 
     for k2, v2 in zip(data2_ed.index, data2_ed['stats']):
         
