@@ -122,10 +122,10 @@ with col1_3:
 
         df_elem = pandas.DataFrame(
             [
-                {'Element': 'Fire', 'Contains': type_element('Fire', data1['elements'])},
-                {'Element': 'Water', 'Contains': type_element('Water', data1['elements'])},
-                {'Element': 'Earth', 'Contains': type_element('Earth', data1['elements'])},
-                {'Element': 'Air', 'Contains': type_element('Air', data1['elements'])}
+                {'element': 'Fire', 'active': type_element('Fire', data1['elements']), 'damage': ''},
+                {'element': 'Water', 'active': type_element('Water', data1['elements']), 'damage': ''},
+                {'element': 'Earth', 'active': type_element('Earth', data1['elements']), 'damage': ''},
+                {'element': 'Air', 'active': type_element('Air', data1['elements']), 'damage': ''}
             ]
         )
 
@@ -143,10 +143,10 @@ with col2_1:
 
         df_elem2 = pandas.DataFrame(
             [
-                {'Element': 'Fire', 'Contains': type_element('Fire', data2['elements'])},
-                {'Element': 'Water', 'Contains': type_element('Water', data2['elements'])},
-                {'Element': 'Earth', 'Contains': type_element('Earth', data2['elements'])},
-                {'Element': 'Air', 'Contains': type_element('Air', data2['elements'])}
+                {'element': 'Fire', 'active': type_element('Fire', data2['elements']), 'damage': ''},
+                {'element': 'Water', 'active': type_element('Water', data2['elements']), 'damage': ''},
+                {'element': 'Earth', 'active': type_element('Earth', data2['elements']), 'damage': ''},
+                {'element': 'Air', 'active': type_element('Air', data2['elements']), 'damage': ''}
             ]
         )
 
