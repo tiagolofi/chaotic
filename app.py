@@ -135,11 +135,11 @@ with col2_1:
 
     st.write('Stats (P2)')
 
-    data2_ed = st.data_editor(data2)
+    # data2_ed = st.data_editor(data2)
 
-    for k, v in data2_ed['stats'].items():
+    # for k, v in data2_ed['stats'].items():
         
-        st.progress(v, text = k + ': '+ str(v))
+    #     st.progress(v, text = k + ': '+ str(v))
 
     # var2 = st.selectbox('Attribute (P2)', ['Courage', 'Power', 'Wisdom', 'Speed', 'Energy'])
 # 
