@@ -106,15 +106,13 @@ with col1_2:
 
 with col1_3:
 
-    st.write('Stats (P1)')
+    with st.expander('Stats (P1)'):
 
-    data1_ed = st.data_editor(pandas.DataFrame(data1).filter(['stats']))
+        data1_ed = st.data_editor(pandas.DataFrame(data1).filter(['stats']))
 
-    data1_ed['pbar'] = [st.progress(int(v), text = k + ': '+ str(v)) for k, v in zip(data1_ed.index, data1_ed['stats'])]
+    for k, v in zip(data1_ed.index, data1_ed['stats']):
 
-        # st.write(k, v)
-
-        # data1_ed.loc[k]['bar'] = 
+        st.progress(int(v), text = k + ': '+ str(v))
 
 with col2_1:
 
