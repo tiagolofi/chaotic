@@ -112,7 +112,7 @@ with col1_3:
 
     for k, v in zip(data1_ed.index, data1_ed['stats']):
 
-        print(k, v)
+        st.write(k, v)
 
         # st.progress(v, text = k + ': '+ str(v))
 
