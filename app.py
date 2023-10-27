@@ -116,13 +116,13 @@ with col1_3:
 
 with col2_1:
 
-    st.write('Stats (P2)')
+    with st.expander('Stats (P2)')
 
-    # data2_ed = st.data_editor(data2)
+        data2_ed = st.data_editor(pandas.DataFrame(data2).filter(['stats']))
 
-    # for k, v in data2_ed['stats'].items():
+    for k2, v2 in zip(data2_ed.index, data2_ed['stats']):
         
-    #     st.progress(v, text = k + ': '+ str(v))
+        st.progress(int(v2), text = k2 + ': '+ str(v2))
 
 with col2_2:
 
