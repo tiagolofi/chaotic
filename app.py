@@ -110,11 +110,11 @@ with col1_3:
 
     data1_ed = st.data_editor(pandas.DataFrame(data1).filter(['stats']))
 
-    for k, v in zip(data1_ed.index, data1_ed['stats']):
+    data1_ed['pbar'] = [st.progress(int(v), text = k + ': '+ str(v)) for k, v in zip(data1_ed.index, data1_ed['stats'])]
 
         # st.write(k, v)
 
-        data1_ed.loc[k]['bar'] = st.progress(int(v), text = k + ': '+ str(v))
+        # data1_ed.loc[k]['bar'] = 
 
 with col2_1:
 
