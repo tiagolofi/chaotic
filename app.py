@@ -140,8 +140,8 @@ with col2_1:
                 {'Element': 'Air', 'Contains': type_element('Air', data2['elements'])}
             ]
         )
-        
-        elem2 = st.data_editor(df_elem.copy(), key = 'd4')
+
+        elem2 = st.data_editor(df_elem, key = 'd4', hide_index = True)
 
     for k2, v2 in zip(data2_ed.index, data2_ed['stats']):
         
