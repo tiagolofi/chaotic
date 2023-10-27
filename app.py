@@ -134,10 +134,10 @@ with col2_1:
 
         df_elem = pandas.DataFrame(
             [
-                {'Fire': type_element('Fire', data2['elements'])},
-                {'Water': type_element('Water', data2['elements'])},
-                {'Earth': type_element('Earth', data2['elements'])},
-                {'Air': type_element('Air', data2['elements'])}
+                {'Element': 'Fire', 'Contains': type_element('Fire', data2['elements'])},
+                {'Element': 'Water', 'Contains': type_element('Water', data2['elements'])},
+                {'Element': 'Earth', 'Contains': type_element('Earth', data2['elements'])},
+                {'Element': 'Air', 'Contains': type_element('Air', data2['elements'])}
             ]
         ).transpose()
 
