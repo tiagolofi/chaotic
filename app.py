@@ -110,7 +110,7 @@ with col1_3:
 
     data1_ed = st.data_editor(pandas.DataFrame(data1))
 
-    for k, v in zip(data1_ed.index, data1['stats']):
+    for k, v in zip(data1_ed.index, data1_ed['stats']):
 
         print(k, v)
 
