@@ -16,6 +16,16 @@ st.set_page_config(
 
 st.markdown('''<h1 align="center"><b>CHAOTIC</b></h1>''', unsafe_allow_html=True)
 
+def type_element(x, lista):
+
+    if x in lista:
+
+        return True
+    
+    else:
+
+        return False
+
 col1, col1x, col2, col3, col3x = st.columns(5)
 
 with col1:
@@ -124,16 +134,6 @@ with col1_3:
     for k, v in zip(data1_ed.index, data1_ed['stats']):
 
         st.progress(int(v), text = k + ': '+ str(v))
-
-def type_element(x, lista):
-
-    if x in lista:
-
-        return True
-    
-    else:
-
-        return False
 
 with col2_1:
 
