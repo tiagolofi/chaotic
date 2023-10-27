@@ -108,7 +108,9 @@ with col1_3:
 
     with st.expander('Stats (P1)'):
 
-        data1_ed = st.data_editor(pandas.DataFrame(data1['stats']), key = 'd1')
+        st.dataframe(pandas.DataFrame(data1))
+
+        data1_ed = st.data_editor(pandas.DataFrame(data1).filter(['stats']), key = 'd1')
 
     for k, v in zip(data1_ed.index, data1_ed['stats']):
 
@@ -118,7 +120,7 @@ with col2_1:
 
     with st.expander('Stats (P2)'):
 
-        data2_ed = st.data_editor(pandas.DataFrame(data2['stats']), key = 'd2')
+        data2_ed = st.data_editor(pandas.DataFrame(data2).filter(['stats']), key = 'd2')
 
     for k2, v2 in zip(data2_ed.index, data2_ed['stats']):
         
