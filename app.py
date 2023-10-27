@@ -114,7 +114,7 @@ with col1_3:
 
         # st.write(k, v)
 
-        data1_ed['bar'].loc[k] = st.progress(int(v), text = k + ': '+ str(v))
+        data1_ed.loc[k]['bar'] = st.progress(int(v), text = k + ': '+ str(v))
 
 with col2_1:
 
