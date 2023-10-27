@@ -3,6 +3,7 @@ import streamlit as st
 from drome import Drome
 from PIL import Image
 from time import sleep
+import pandas
 
 d = Drome()
 
@@ -107,7 +108,9 @@ with col1_3:
 
     st.write('Stats (P1)')
 
-    data1_ed = st.data_editor(data1)
+    data1_ed = st.data_editor(pandas.DataFrame(data1))
+
+    st.write(data1_ed)
 
     for k, v in data1_ed['stats'].items():
 
