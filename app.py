@@ -141,7 +141,7 @@ with col2_1:
             ]
         ).transpose()
 
-        elem2 = st.data_editor(df_elem, key = 'd4')
+        elem2 = st.data_editor(df_elem.copy(), key = 'd4')
 
     for k2, v2 in zip(data2_ed.index, data2_ed['stats']):
         
