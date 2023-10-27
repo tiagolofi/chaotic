@@ -107,45 +107,49 @@ with col1_3:
 
     st.write('Stats (P1)')
 
-    for k, v in data1['stats'].items():
+    data1_ed = st.data_editor(data1)
+
+    for k, v in data1_ed['stats'].items():
 
         st.progress(v, text = k + ': '+ str(v))
 
-    var = st.selectbox('Attribute (P1)', ['Courage', 'Power', 'Wisdom', 'Speed', 'Energy'])
-
-    value_debit = st.number_input('Debit (P1)', min_value = 0, step = 5)
-
-    value_credit = st.number_input('Credit (P1)', min_value = 0, step = 5)
-
-    action = st.button('Action (P1)')
-
-    if action:
-
-        data1['stats'][var] += value_credit
-        data1['stats'][var] -= value_debit
-
-    # st.write(data1['stats'])
+    # var = st.selectbox('Attribute (P1)', ['Courage', 'Power', 'Wisdom', 'Speed', 'Energy'])
+# 
+    # value_debit = st.number_input('Debit (P1)', min_value = 0, step = 5)
+# 
+    # value_credit = st.number_input('Credit (P1)', min_value = 0, step = 5)
+# 
+    # action = st.button('Action (P1)')
+# 
+    # if action:
+# 
+    #     data1['stats'][var] += value_credit
+    #     data1['stats'][var] -= value_debit
+# 
+    # # st.write(data1['stats'])
 
 with col2_1:
 
     st.write('Stats (P2)')
 
-    for k, v in data2['stats'].items():
+    data2_ed = st.data_editor(data2)
+
+    for k, v in data2_ed['stats'].items():
         
         st.progress(v, text = k + ': '+ str(v))
 
-    var2 = st.selectbox('Attribute (P2)', ['Courage', 'Power', 'Wisdom', 'Speed', 'Energy'])
-
-    value_debit2 = st.number_input('Debit (P2)', min_value = 0, step = 5)
-
-    value_credit2 = st.number_input('Credit (P2)', min_value = 0, step = 5)
-
-    action2 = st.button('Action (P2)')
-
-    if action2:
-
-        data2['stats'][var2] += value_credit2
-        data2['stats'][var2] -= value_debit2
+    # var2 = st.selectbox('Attribute (P2)', ['Courage', 'Power', 'Wisdom', 'Speed', 'Energy'])
+# 
+    # value_debit2 = st.number_input('Debit (P2)', min_value = 0, step = 5)
+# 
+    # value_credit2 = st.number_input('Credit (P2)', min_value = 0, step = 5)
+# 
+    # action2 = st.button('Action (P2)')
+# 
+    # if action2:
+# 
+    #     data2['stats'][var2] += value_credit2
+    #     data2['stats'][var2] -= value_debit2
 
 with col2_2:
 
