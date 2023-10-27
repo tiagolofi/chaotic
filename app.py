@@ -110,11 +110,11 @@ with col1_3:
 
     data1_ed = st.data_editor(pandas.DataFrame(data1))
 
-    st.write(data1_ed)
-
     for k, v in zip(data1_ed.index, data1['stats']):
 
-        st.progress(v, text = k + ': '+ str(v))
+        print(k, v)
+
+        # st.progress(v, text = k + ': '+ str(v))
 
     # var = st.selectbox('Attribute (P1)', ['Courage', 'Power', 'Wisdom', 'Speed', 'Energy'])
 # 
