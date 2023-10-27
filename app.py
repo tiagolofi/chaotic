@@ -116,13 +116,32 @@ with col1_3:
 
         st.progress(int(v), text = k + ': '+ str(v))
 
+def type_element(x, lista):
+
+    if x in lista:
+
+        return True
+    
+    else:
+
+        return False
+
 with col2_1:
 
     with st.expander('Stats (P2)'):
 
         data2_ed = st.data_editor(pandas.DataFrame({k: v for k, v in data2.items() if k == "stats"}).filter(['stats']), key = 'd2')
 
-        elem2 = st.data_editor(pandas.DataFrame({1: {'Elements': ', '.join(data2['elements'])}}), key = 'd4')
+        df_elem = pandas.DataFrame(
+            {
+                'Fire': type_element('Fire', data2['elements']),
+                'Water': type_element('Water', data2['elements']),
+                'Earth': type_element('Earth', data2['elements']),
+                'Air': type_element('Air', data2['elements'])
+            }
+        )
+
+        elem2 = st.data_editor(df_elem, key = 'd4')
 
     for k2, v2 in zip(data2_ed.index, data2_ed['stats']):
         
