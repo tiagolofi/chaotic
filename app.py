@@ -108,7 +108,7 @@ with col1_3:
 
     st.write('Stats (P1)')
 
-    data1_ed = st.data_editor(pandas.DataFrame(data1))
+    data1_ed = st.data_editor(pandas.DataFrame(data1).filter(['stats']))
 
     for k, v in zip(data1_ed.index, data1_ed['stats']):
 
