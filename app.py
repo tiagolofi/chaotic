@@ -89,7 +89,9 @@ with col1_1:
 
     data_mg = d.get_card(name = mugic)
 
-    st.image(Image.open(d.format_image(data_mg['chaotic_hash'])))
+    with st.expander('Reveal Mugic (P1)'):
+
+        st.image(Image.open(d.format_image(data_mg['chaotic_hash'])))
 
 with col1_2:
 
@@ -97,7 +99,9 @@ with col1_2:
 
     data_bg = d.get_card(name = bg)
 
-    st.image(Image.open(d.format_image(data_bg['chaotic_hash'])))
+    with st.expander('Reveal BattleGear (P1)'):
+
+        st.image(Image.open(d.format_image(data_bg['chaotic_hash'])))
 
 with col1_3:
 
@@ -149,7 +153,9 @@ with col2_2:
 
     data_bg2 = d.get_card(name = bg2)
 
-    st.image(Image.open(d.format_image(data_bg2['chaotic_hash'])))
+    with st.expander('Reveal BattleGear (P2)'):
+
+        st.image(Image.open(d.format_image(data_bg2['chaotic_hash'])))
 
 with col2_3:
 
@@ -157,6 +163,8 @@ with col2_3:
 
     data_mg2 = d.get_card(name = mugic2)
 
-    st.image(Image.open(d.format_image(data_mg2['chaotic_hash'])))
+    with st.expander('Reveal Mugic (P2)'):
+
+        st.image(Image.open(d.format_image(data_mg2['chaotic_hash'])))
 
 st.write('''by [@tiagolofi](https://github.com/tiagolofi)''')
