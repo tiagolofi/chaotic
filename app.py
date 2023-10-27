@@ -116,7 +116,7 @@ with col1_3:
 
 with col2_1:
 
-    with st.expander('Stats (P2)')
+    with st.expander('Stats (P2)'):
 
         data2_ed = st.data_editor(pandas.DataFrame(data2).filter(['stats']))
 
