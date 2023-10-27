@@ -112,9 +112,9 @@ with col1_3:
 
     for k, v in zip(data1_ed.index, data1_ed['stats']):
 
-        st.write(k, v)
+        # st.write(k, v)
 
-        # st.progress(v, text = k + ': '+ str(v))
+        st.progress(int(v), text = k + ': '+ str(v))
 
     # var = st.selectbox('Attribute (P1)', ['Courage', 'Power', 'Wisdom', 'Speed', 'Energy'])
 # 
