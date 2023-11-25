@@ -1,9 +1,7 @@
 
 import streamlit as st
-from streamlit_elements import elements, dashboard, mui, html
-
 from drome import Drome
-# from time import sleep
+from time import sleep
 # import pandas
 
 drome = Drome()
@@ -18,7 +16,70 @@ st.set_page_config(
 st.header('CHAOTIC')
 st.write('''by [@tiagolofi](https://github.com/tiagolofi)''')
 
+col1, col2, col3, col4, col5 = st.columns(5)
 
+CREATURES, ATTACKS, MUGICX, BATTLEGEAR = drome.ls_names()
+
+with col1:
+
+    creature = st.selectbox('Creature:', CREATURES)
+    st.image(drome.get_creature(creature))
+
+    creature_data = drome.get_creature_data(creature)
+
+    for k, v in creature_data['stats'].items():
+
+        st.progress(value = v, text = f'{k}: {v}')
+
+with col2:  
+
+    choose_local = st.button('Local')
+
+    if choose_local:
+
+        st.image('gifs/choose_local.gif')
+
+        st.session_state.local = drome.get_location()
+
+        sleep(2)
+
+        st.rerun()
+
+    if 'local' in st.session_state:
+        st.image(st.session_state.local)
+
+with col3:
+
+    attack = st.button('Attack')
+
+    if attack:
+
+        st.session_state.attack = drome.get_attack()
+
+    if 'attack' in st.session_state:
+        st.image(st.session_state.attack)
+
+with col4:
+
+    mugic = st.button('Mugic')
+
+    if mugic:
+
+        st.session_state.mugic = drome.get_mugic()
+
+    if 'mugic' in st.session_state:
+        st.image(st.session_state.mugic)
+
+with col5:
+
+    bg = st.button('BattleGear')
+    
+    if bg:
+    
+        st.session_state.bg = drome.get_bg()
+    
+    if 'bg' in st.session_state:
+        st.image(st.session_state.bg)
 
 # st.markdown('''<h1 align="center"><b>CHAOTIC</b></h1>''', unsafe_allow_html=True)
 

@@ -47,6 +47,14 @@ class Drome():
         return self.format_image(
             *local
         )
+    
+    def get_mugic(self) -> str:
+
+        list_mugic = list({(v['type_card'], v['chaotic_hash']) for k, v in self.DATABASE.items() if 'mugic' in v['type_card']})
+        mugic = sample(list_mugic, 1)[0]
+        return self.format_image(
+            *mugic
+        )
 
     def get_attack(self) -> str:
  
@@ -54,6 +62,14 @@ class Drome():
         attack = sample(list_attacks, 1)[0]
         return self.format_image(
             *attack
+        )
+
+    def get_bg(self) -> str:
+ 
+        list_bg = list({(v['type_card'], v['chaotic_hash']) for k, v in self.DATABASE.items() if 'battlegear' in v['type_card']})
+        bgs = sample(list_bg, 1)[0]
+        return self.format_image(
+            *bgs
         )
 
 if __name__ == '__main__':
