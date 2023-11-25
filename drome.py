@@ -36,7 +36,6 @@ class Drome():
     def get_creature(self, name: str) -> str:
 
         data = self.get_creature_data(name)
-
         return self.format_image(
             data['type_card'], data['chaotic_hash']
         )
