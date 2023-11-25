@@ -32,7 +32,7 @@ class Drome():
     def get_creature_data(self, name: str) -> dict:
 
         return self.DATABASE.get(name)
-    
+
     def get_creature(self, name: str) -> str:
 
         data = self.get_creature_data(name)
