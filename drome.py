@@ -4,71 +4,61 @@ from random import sample
 
 class Drome():
 
-    def __init__(self):
+    def __init__(self) -> None:
 
-        self.img_folder = 'images/'
-        
-        self.creatures = ['overworlders', 'underworlders', 'mipedians', 'danians', 'marrillians']
+        self.IMG_FOLDER = 'images'
+        self.CREATURES = ['overworlders', 'underworlders', 'mipedians', 'danians', 'marrillians']
 
         with open('database.json', 'r') as file:
+            self.DATABASE = json.load(file)
 
-            self.db = json.load(file)
+    def format_image(self, type_card: str, hash: str) -> str:
 
-    # def filter_db(self, type_card):
-    #     return {k: v for k, v in self.db.items() if type_card in v['type_card']}
+        return f'''{self.IMG_FOLDER}/{type_card}/{hash}.png'''
 
-    def format_image(self, hash):
+    def ls_names(self) -> tuple:
 
-        return self.img_folder + hash + '.png'
+        creatures = list({k for k, v in self.DATABASE.items() if v['type_card'] in self.CREATURES})
+        creatures.sort()
+        attacks = list({k for k, v in self.DATABASE.items() if 'attacks' in v['type_card']})
+        attacks.sort()
+        mugix = list({k for k, v in self.DATABASE.items() if 'mugic' in v['type_card']})
+        mugix.sort()
+        bg = list({k for k, v in self.DATABASE.items() if 'battlegear' in v['type_card']})
+        bg.sort()
 
-    def location_random(self):
+        return creatures, attacks, mugix, bg
 
-        hashs = {k: v['chaotic_hash'] for k, v in self.db.items() if 'location' in v['type_card']}
+    def get_creature_data(self, name: str) -> dict:
+
+        return self.DATABASE.get(name)
+    
+    def get_creature(self, name: str) -> str:
+
+        data = self.get_creature_data(name)
 
         return self.format_image(
-            hash = sample(list(hashs.values()), 1)[0]
+            data['type_card'], data['chaotic_hash']
         )
+    
+    def get_location(self) -> str:
 
-    def attack_random(self):
-
-        hashs = {k: v['chaotic_hash'] for k, v in self.db.items() if 'attack' in v['type_card']}
-
+        list_locals = list({(v['type_card'], v['chaotic_hash']) for k, v in self.DATABASE.items() if 'location' in v['type_card']})
+        local = sample(list_locals, 1)[0]
         return self.format_image(
-            hash = sample(list(hashs.values()), 1)[0]
+            *local
         )
 
-    def get_names_creatures(self):
-
-        return list({k: v for k, v in self.db.items() if v['type_card'] in self.creatures}.keys())
-
-    def get_names_attacks(self):
-
-        return list({k: v for k, v in self.db.items() if 'attacks' in v['type_card']}.keys())
-
-    def get_names_mugix(self):
-
-        return list({k: v for k, v in self.db.items() if 'mugic' in v['type_card']}.keys())
-
-    def get_names_bg(self):
-
-        return list({k: v for k, v in self.db.items() if 'battlegear' in v['type_card']}.keys())
-
-    def get_card(self, name):
-
-        return self.db.get(name)
-
-    def get_attacks(self, cards):
-
-        all_attacks = {k: v for k, v in self.db.items() if k in cards}
-
-        return all_attacks, sum(list({k: v['build_cost'] for k, v in all_attacks.items()}.values()))
+    def get_attack(self) -> str:
+ 
+        list_attacks = list({(v['type_card'], v['chaotic_hash']) for k, v in self.DATABASE.items() if 'attacks' in v['type_card']})
+        attack = sample(list_attacks, 1)[0]
+        return self.format_image(
+            *attack
+        )
 
 if __name__ == '__main__':
 
     x = Drome()
 
-    print(x.location_random())
-
-    print(
-        x.get_attacks(cards = x.get_names_attacks()[2:5])
-    )
+    print(x.get_creature(name = 'Phelphor'))
