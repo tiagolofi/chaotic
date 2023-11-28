@@ -29,13 +29,13 @@ class Drome():
 
         return creatures, attacks, mugix, bg
 
-    def get_creature_data(self, name: str) -> dict:
+    def get_data(self, name: str) -> dict:
 
         return self.DATABASE.get(name)
 
     def get_creature(self, name: str) -> str:
 
-        data = self.get_creature_data(name)
+        data = self.get_data(name)
         return self.format_image(
             data['type_card'], data['chaotic_hash']
         )

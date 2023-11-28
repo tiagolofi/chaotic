@@ -2,9 +2,6 @@
 import streamlit as st
 from drome import Drome
 from time import sleep
-# import pandas
-
-drome = Drome()
 
 st.set_page_config(
 	page_title='CHAOTIC',
@@ -13,7 +10,18 @@ st.set_page_config(
 	initial_sidebar_state = 'collapsed' 
 )
 
-st.header('CHAOTIC')
+css = '''
+<style>
+section.main > div:has(~ footer ) {
+    padding-bottom: 0px;
+}
+</style>
+'''
+st.markdown(css, unsafe_allow_html=True)
+
+drome = Drome()
+
+st.title('CHAOTIC')
 st.write('''by [@tiagolofi](https://github.com/tiagolofi)''')
 
 col1, col2, col3, col4, col5 = st.columns(5)
@@ -23,9 +31,9 @@ CREATURES, ATTACKS, MUGICX, BATTLEGEAR = drome.ls_names()
 with col1:
 
     creature = st.selectbox('Creature:', CREATURES)
+    creature_data = drome.get_data(creature)
     st.image(drome.get_creature(creature))
-
-    creature_data = drome.get_creature_data(creature)
+    st.write(creature_data['text_card'])
 
     for k, v in creature_data['stats'].items():
 
@@ -36,13 +44,9 @@ with col2:
     choose_local = st.button('Local')
 
     if choose_local:
-
         st.image('gifs/choose_local.gif')
-
         st.session_state.local = drome.get_location()
-
         sleep(2)
-
         st.rerun()
 
     if 'local' in st.session_state:
@@ -53,9 +57,11 @@ with col3:
     attack = st.button('Attack')
 
     if attack:
-
+        st.image('gifs/spin_attack.gif')
         st.session_state.attack = drome.get_attack()
-
+        sleep(1)
+        st.rerun()
+        
     if 'attack' in st.session_state:
         st.image(st.session_state.attack)
 
@@ -64,8 +70,10 @@ with col4:
     mugic = st.button('Mugic')
 
     if mugic:
-
+        st.image('gifs/spin_mugic.gif')
         st.session_state.mugic = drome.get_mugic()
+        sleep(3)
+        st.rerun()
 
     if 'mugic' in st.session_state:
         st.image(st.session_state.mugic)
@@ -75,133 +83,11 @@ with col5:
     bg = st.button('BattleGear')
     
     if bg:
-    
         st.session_state.bg = drome.get_bg()
     
     if 'bg' in st.session_state:
         st.image(st.session_state.bg)
 
-# st.markdown('''<h1 align="center"><b>CHAOTIC</b></h1>''', unsafe_allow_html=True)
-
-# def type_element(x, lista):
-# 
-#     if x in lista:
-# 
-#         return True
-#     
-#     else:
-# 
-#         return False
-# 
-# col1, col1x, col2, col3, col3x = st.columns(5)
-# 
-# with col1:
-# 
-#     creature = st.selectbox('Creature (Player 1)', d.get_names_creatures())
-# 
-#     data1 = d.get_card(name = creature)
-# 
-#     st.image(Image.open(d.format_image(data1['chaotic_hash'])))
-# 
-# with col1x:
-# 
-#     attack = st.button('Attack (P1)')
-# 
-#     if attack:
-# 
-#         st.image(
-#             Image.open(
-#                 d.attack_random()               
-#             )
-#         )
-# 
-# with col2:
-# 
-#     select_local = st.button('Choose Battle Local')
-# 
-#     if select_local:
-# 
-#         with st.spinner('Wait...'):
-# 
-#             sleep(3)
-# 
-#             st.session_state['location'] = d.location_random()
-# 
-#     try:
-# 
-#         st.image(
-#             Image.open(
-#                 st.session_state['location']                
-#             )
-#         )        
-# 
-#     except:
-# 
-#         st.info('No Local Selected')
-# 
-# with col3x:
-# 
-#     creature = st.selectbox('Creature (Player 2)', d.get_names_creatures())
-# 
-#     data2 = d.get_card(name = creature)
-# 
-#     st.image(Image.open(d.format_image(data2['chaotic_hash'])))
-# 
-# with col3:
-# 
-#     attack2 = st.button('Attack (P2)')
-# 
-#     if attack2:
-# 
-#         st.image(
-#             Image.open(
-#                 d.attack_random()               
-#             )
-#         )
-# 
-# col1_1, col1_2, col1_3, col2_1, col2_2, col2_3 = st.columns(6)
-# 
-# with col1_1:
-# 
-#     mugic = st.selectbox('Mugic (P1)', d.get_names_mugix())
-# 
-#     data_mg = d.get_card(name = mugic)
-# 
-#     with st.expander('Reveal Mugic (P1)'):
-# 
-#         st.image(Image.open(d.format_image(data_mg['chaotic_hash'])))
-# 
-# with col1_2:
-# 
-#     bg = st.selectbox('BattleGear (P1)', d.get_names_bg())
-# 
-#     data_bg = d.get_card(name = bg)
-# 
-#     with st.expander('Reveal BattleGear (P1)'):
-# 
-#         st.image(Image.open(d.format_image(data_bg['chaotic_hash'])))
-# 
-# with col1_3:
-# 
-#     with st.expander('Stats (P1)'):
-# 
-#         data1_ed = st.data_editor(pandas.DataFrame({k: v for k, v in data1.items() if k == "stats"}).filter(['stats']), key = 'd1')
-# 
-#         df_elem = pandas.DataFrame(
-#             [
-#                 {'element': 'Fire', 'active': type_element('Fire', data1['elements']), 'damage': ''},
-#                 {'element': 'Water', 'active': type_element('Water', data1['elements']), 'damage': ''},
-#                 {'element': 'Earth', 'active': type_element('Earth', data1['elements']), 'damage': ''},
-#                 {'element': 'Air', 'active': type_element('Air', data1['elements']), 'damage': ''}
-#             ]
-#         )
-# 
-#         elem = st.data_editor(df_elem, key = 'd3', hide_index = True)
-# 
-#     for k, v in zip(data1_ed.index, data1_ed['stats']):
-# 
-#         st.progress(int(v), text = k + ': '+ str(v))
-# 
 # with col2_1:
 # 
 #     with st.expander('Stats (P2)'):
@@ -222,26 +108,4 @@ with col5:
 #     for k2, v2 in zip(data2_ed.index, data2_ed['stats']):
 #         
 #         st.progress(int(v2), text = k2 + ': '+ str(v2))
-# 
-# with col2_2:
-# 
-#     bg2 = st.selectbox('BattleGear (P2)', d.get_names_bg())
-# 
-#     data_bg2 = d.get_card(name = bg2)
-# 
-#     with st.expander('Reveal BattleGear (P2)'):
-# 
-#         st.image(Image.open(d.format_image(data_bg2['chaotic_hash'])))
-# 
-# with col2_3:
-# 
-#     mugic2 = st.selectbox('Mugic (P2)', d.get_names_mugix())
-# 
-#     data_mg2 = d.get_card(name = mugic2)
-# 
-#     with st.expander('Reveal Mugic (P2)'):
-# 
-#         st.image(Image.open(d.format_image(data_mg2['chaotic_hash'])))
-# 
-# 
 # 
